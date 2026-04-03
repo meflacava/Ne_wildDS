@@ -1,0 +1,1027 @@
+Filename,Library,PlateLoc,Index,UniqueID,IlluminaIndex,LibIndex,PlateID,FieldID,DateCollected,BirthYear,Month,ForkLength,LifeStage,StationID,Cohort,Region,Source,Species,Sex,ReproductiveStage,Notes_JH,genetic_data_collector,UseForNe
+Ht01-62_1995_F08,BMAG043,F08,TTCACGCA,Ht01-62,Index01,ATCACG,Frozen Plate 1,DSF1_62,4/1/96,1995,4,72,Adult,SB018S,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-20_1995_D03,BMAG043,D03,CCTCCTGA,Ht01-20,Index01,ATCACG,Frozen Plate 1,DSF1_20,5/18/96,1995,5,70,Adult,SB018M,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-18_1995_B03,BMAG043,B03,AACGCTTA,Ht02-18,Index02,CGATGT,Frozen Plate 2,DSF2_94,4/15/96,1995,4,76,Adult,SB018N,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-10_1995_B02,BMAG043,B02,AACCGAGA,Ht02-10,Index02,CGATGT,Frozen Plate 2,DSF2_86,4/15/96,1995,4,71,Adult,SB018S,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-67_1995_C09,BMAG043,C09,CACTTCGA,Ht01-67,Index01,ATCACG,Frozen Plate 1,DSF1_67,5/21/96,1995,5,79,Adult,SB018S,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-09_1995_A02,BMAG043,A02,AAACATCG,Ht02-09,Index02,CGATGT,Frozen Plate 2,DSF2_85,4/15/96,1995,4,76,Adult,SB018S,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-35_1995_C05,BMAG043,C05,ATTGAGGA,Ht02-35,Index02,CGATGT,Frozen Plate 2,DSF2_111,3/25/96,1995,3,70,Adult,SB018S,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-23_1995_G03,BMAG043,G03,ACAGATTC,Ht02-23,Index02,CGATGT,Frozen Plate 2,DSF2_99,4/15/96,1995,4,70,Adult,SB018M,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-34_1995_B05,BMAG043,B05,AAGGTACA,Ht02-34,Index02,CGATGT,Frozen Plate 2,DSF2_110,3/25/96,1995,3,70,Adult,SB018S,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-24_1995_H03,BMAG043,H03,AGTCAAGC,Ht02-24,Index02,CGATGT,Frozen Plate 2,DSF2_100,4/15/96,1995,4,68,Adult,SB018M,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-21_1995_E03,BMAG043,E03,GCGAGTAA,Ht01-21,Index01,ATCACG,Frozen Plate 1,DSF1_21,5/18/96,1995,5,85,Adult,SB018M,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-37_1995_E05,BMAG043,E05,GCTCGGTA,Ht01-37,Index01,ATCACG,Frozen Plate 1,DSF1_37,3/26/96,1995,3,72,Adult,SB018M,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-33_1995_A05,BMAG043,A05,AACGTGAT,Ht02-33,Index02,CGATGT,Frozen Plate 2,DSF2_109,3/25/96,1995,3,67,Adult,SB018S,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht03-62_1995_F08,BMAG044,F08,TTCACGCA,Ht03-62,Index03,TTAGGC,Frozen Plate 3,DSF3_234,3/26/96,1995,3,73,Adult,SB018M,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-05_1995_E01,BMAG043,E01,GATAGACA,Ht01-05,Index01,ATCACG,Frozen Plate 1,DSF1_5,4/5/96,1995,4,59,Adult,SB018S,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht03-63_1995_G08,BMAG044,G08,ATAGCGAC,Ht03-63,Index03,TTAGGC,Frozen Plate 3,DSF3_235,3/26/96,1995,3,65,Adult,SB018M,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-80_1995_H10,BMAG043,H10,GAGTTAGC,Ht02-80,Index02,CGATGT,Frozen Plate 2,DSF2_156,6/8/96,1995,6,72,Adult,SB018S,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-04_1995_D01,BMAG043,D01,CCGAAGTA,Ht01-04,Index01,ATCACG,Frozen Plate 1,DSF1_4,4/5/96,1995,4,69,Adult,SB018S,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-44_1995_D06,BMAG043,D06,CGCATACA,Ht02-44,Index02,CGATGT,Frozen Plate 2,DSF2_120,3/25/96,1995,3,66,Adult,SB018S,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-08_1995_H01,BMAG043,H01,CCATCCTC,Ht02-08,Index02,CGATGT,Frozen Plate 2,DSF2_84,4/15/96,1995,4,70,Adult,SB018S,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-17_1995_A03,BMAG043,A03,ACATTGGC,Ht01-17,Index01,ATCACG,Frozen Plate 1,DSF1_17,4/15/96,1995,4,72,Adult,SB018S,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-19_1995_C03,BMAG043,C03,AGTCACTA,Ht01-19,Index01,ATCACG,Frozen Plate 1,DSF1_19,4/15/96,1995,4,68,Adult,SB018S,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-31_1995_G04,BMAG043,G04,AGATGTAC,Ht01-31,Index01,ATCACG,Frozen Plate 1,DSF1_31,4/9/96,1995,4,74,Adult,SB018N,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-38_1995_F05,BMAG043,F05,TGGAACAA,Ht02-38,Index02,CGATGT,Frozen Plate 2,DSF2_114,3/25/96,1995,3,67,Adult,SB018S,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-30_1995_F04,BMAG043,F04,TGAAGAGA,Ht01-30,Index01,ATCACG,Frozen Plate 1,DSF1_30,4/9/96,1995,4,68,Adult,SB018N,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-81_1995_A11,BMAG043,A11,CATCAAGT,Ht02-81,Index02,CGATGT,Frozen Plate 2,DSF2_157,6/8/96,1995,6,83,Adult,SB018S,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-18_1995_B03,BMAG043,B03,AACGCTTA,Ht01-18,Index01,ATCACG,Frozen Plate 1,DSF1_18,4/15/96,1995,4,79,Adult,SB018S,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-34_1995_B05,BMAG043,B05,AAGGTACA,Ht01-34,Index01,ATCACG,Frozen Plate 1,DSF1_34,4/9/96,1995,4,81,Adult,SB018N,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-63_1995_G08,BMAG043,G08,ATAGCGAC,Ht01-63,Index01,ATCACG,Frozen Plate 1,DSF1_63,4/1/96,1995,4,65,Adult,SB018S,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-32_1995_H04,BMAG043,H04,CCTCTATC,Ht01-32,Index01,ATCACG,Frozen Plate 1,DSF1_32,4/9/96,1995,4,72,Adult,SB018N,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-36_1995_D05,BMAG043,D05,CGACTGGA,Ht01-36,Index01,ATCACG,Frozen Plate 1,DSF1_36,3/26/96,1995,3,65,Adult,SB018M,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-79_1995_G10,BMAG043,G10,ATTGGCTC,Ht02-79,Index02,CGATGT,Frozen Plate 2,DSF2_155,6/8/96,1995,6,85,Adult,SB018S,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-91_1995_C12,BMAG043,C12,CCAGTTCA,Ht02-91,Index02,CGATGT,Frozen Plate 2,DSF2_167,4/22/96,1995,4,62,Adult,SB018M,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-33_1995_A05,BMAG043,A05,AACGTGAT,Ht01-33,Index01,ATCACG,Frozen Plate 1,DSF1_33,4/9/96,1995,4,66,Adult,SB018N,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-16_1995_H02,BMAG043,H02,CCGACAAC,Ht01-16,Index01,ATCACG,Frozen Plate 1,DSF1_16,5/31/96,1995,5,81,Adult,SB018S,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-28_1995_D04,BMAG043,D04,CGAACTTA,Ht01-28,Index01,ATCACG,Frozen Plate 1,DSF1_28,4/9/96,1995,4,70,Adult,SB018N,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-05_1995_E01,BMAG043,E01,GATAGACA,Ht02-05,Index02,CGATGT,Frozen Plate 2,DSF2_81,4/15/96,1995,4,74,Adult,SB018S,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-41_1995_A06,BMAG043,A06,CGCTGATC,Ht01-41,Index01,ATCACG,Frozen Plate 1,DSF1_41,4/15/96,1995,4,73,Adult,SB018M,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-49_1995_A07,BMAG043,A07,CAGATCTG,Ht01-49,Index01,ATCACG,Frozen Plate 1,DSF1_49,3/26/96,1995,3,76,Adult,SB018S,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-36_1995_D05,BMAG043,D05,CGACTGGA,Ht02-36,Index02,CGATGT,Frozen Plate 2,DSF2_112,3/25/96,1995,3,66,Adult,SB018S,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-92_1995_D12,BMAG043,D12,GAGCTGAA,Ht02-92,Index02,CGATGT,Frozen Plate 2,DSF2_168,4/22/96,1995,4,75,Adult,SB018M,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-23_1995_G03,BMAG043,G03,ACAGATTC,Ht01-23,Index01,ATCACG,Frozen Plate 1,DSF1_23,4/15/96,1995,4,71,Adult,SB018S,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-39_1995_G05,BMAG043,G05,AGCACCTC,Ht02-39,Index02,CGATGT,Frozen Plate 2,DSF2_115,3/25/96,1995,3,65,Adult,SB018S,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-61_1995_E08,BMAG043,E08,GTACGCAA,Ht01-61,Index01,ATCACG,Frozen Plate 1,DSF1_61,4/1/96,1995,4,68,Adult,SB018S,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-01_1995_A01,BMAG043,A01,ACAAGCTA,Ht01-01,Index01,ATCACG,Frozen Plate 1,DSF1_1,4/22/96,1995,4,71,Adult,SB018N,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-96_1995_H12,BMAG043,H12,GCCAAGAC,Ht02-96,Index02,CGATGT,Frozen Plate 2,DSF2_172,6/8/96,1995,6,76,Adult,SB018S,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-35_1995_C05,BMAG043,C05,ATTGAGGA,Ht01-35,Index01,ATCACG,Frozen Plate 1,DSF1_35,3/26/96,1995,3,68,Adult,SB018M,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-37_1995_E05,BMAG043,E05,GCTCGGTA,Ht02-37,Index02,CGATGT,Frozen Plate 2,DSF2_113,3/25/96,1995,3,73,Adult,SB018S,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-07_1995_G01,BMAG043,G01,AATGTTGC,Ht02-07,Index02,CGATGT,Frozen Plate 2,DSF2_83,4/15/96,1995,4,69,Adult,SB018S,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-68_1995_D09,BMAG043,D09,CTGGCATA,Ht01-68,Index01,ATCACG,Frozen Plate 1,DSF1_68,5/21/96,1995,5,76,Adult,SB018S,9596,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-93_1996_E12,BMAG044,E12,TAGGATGA,Ht05-93,Index05,ACAGTG,Frozen Plate 5,DSF5_457,8/12/96,1996,8,38,Juvenile,SB018M,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-90_1996_B12,BMAG044,B12,AGAGTCAA,Ht05-90,Index05,ACAGTG,Frozen Plate 5,DSF5_454,8/12/96,1996,8,43,Juvenile,SB018M,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-09_1996_A02,BMAG043,A02,AAACATCG,Ht01-09,Index01,ATCACG,Frozen Plate 1,DSF1_9,5/31/96,1996,5,26,Juvenile,SB018S,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-13_1996_E02,BMAG043,E02,GCCACATA,Ht01-13,Index01,ATCACG,Frozen Plate 1,DSF1_13,5/31/96,1996,5,31,Juvenile,SB018S,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-92_1996_D12,BMAG044,D12,GAGCTGAA,Ht05-92,Index05,ACAGTG,Frozen Plate 5,DSF5_456,8/12/96,1996,8,41,Juvenile,SB018M,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-30_1996_F04,BMAG043,F04,TGAAGAGA,Ht02-30,Index02,CGATGT,Frozen Plate 2,DSF2_106,6/10/96,1996,6,47,Juvenile,SB018M,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-10_1996_B02,BMAG043,B02,AACCGAGA,Ht01-10,Index01,ATCACG,Frozen Plate 1,DSF1_10,5/31/96,1996,5,29,Juvenile,SB018S,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-46_1996_F06,BMAG043,F06,TGGCTTCA,Ht02-46,Index02,CGATGT,Frozen Plate 2,DSF2_122,6/8/96,1996,6,32,Juvenile,SB018S,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-57_1996_A08,BMAG043,A08,ATGCCTAA,Ht02-57,Index02,CGATGT,Frozen Plate 2,DSF2_133,6/8/96,1996,6,30,Juvenile,SB018S,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-59_1996_C08,BMAG043,C08,CAATGGAA,Ht02-59,Index02,CGATGT,Frozen Plate 2,DSF2_135,6/8/96,1996,6,34,Juvenile,SB018S,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-84_1996_D11,BMAG044,D11,GACTAGTA,Ht05-84,Index05,ACAGTG,Frozen Plate 5,DSF5_448,8/12/96,1996,8,48,Juvenile,SB018M,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-27_1996_C04,BMAG043,C04,ATCCTGTA,Ht02-27,Index02,CGATGT,Frozen Plate 2,DSF2_103,6/10/96,1996,6,28,Juvenile,SB018M,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-56_1996_H07,BMAG043,H07,CTAAGGTC,Ht02-56,Index02,CGATGT,Frozen Plate 2,DSF2_132,6/8/96,1996,6,34,Juvenile,SB018S,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-11_1996_C02,BMAG044,C02,AGCAGGAA,Ht04-11,Index04,TGACCA,Frozen Plate 4,DFS4_279,5/28/96,1996,5,39,Juvenile,CC000M,9697,NA,USFWS-DJFMP-BeachSeine,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-61_1996_E08,BMAG044,E08,GTACGCAA,Ht04-61,Index04,TGACCA,Frozen Plate 4,DFS4_329,3/12/97,1996,3,74,Adult,SB018N,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-81_1996_A11,BMAG044,A11,CATCAAGT,Ht04-81,Index04,TGACCA,Frozen Plate 4,DFS4_349,5/28/96,1996,5,30,Juvenile,CL000M,9697,NA,USFWS-DJFMP-BeachSeine,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-91_1996_C12,BMAG044,C12,CCAGTTCA,Ht05-91,Index05,ACAGTG,Frozen Plate 5,DSF5_455,8/12/96,1996,8,42,Juvenile,SB018M,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-10_1996_B02,BMAG044,B02,AACCGAGA,Ht04-10,Index04,TGACCA,Frozen Plate 4,DFS4_278,7/18/97,1996,7,75,Adult,SB018M,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-71_1996_G09,BMAG043,G09,ACGACAAG,Ht02-71,Index02,CGATGT,Frozen Plate 2,DSF2_147,6/8/96,1996,6,41,Juvenile,SB018S,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-25_1996_A04,BMAG043,A04,ACCACTGT,Ht01-25,Index01,ATCACG,Frozen Plate 1,DSF1_25,5/31/96,1996,5,30,Juvenile,SB018M,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-50_1996_B07,BMAG043,B07,ACAGCAGA,Ht02-50,Index02,CGATGT,Frozen Plate 2,DSF2_126,6/8/96,1996,6,35,Juvenile,SB018S,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-92_1996_D12,BMAG044,D12,GAGCTGAA,Ht04-92,Index04,TGACCA,Frozen Plate 4,DFS4_360,3/12/97,1996,3,96,Adult,SB018N,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-02_1996_B01,BMAG044,B01,AACAACCA,Ht04-02,Index04,TGACCA,Frozen Plate 4,DFS4_270,7/24/97,1996,7,85,Adult,SB018S,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-94_1996_F12,BMAG044,F12,AATCCGTC,Ht05-94,Index05,ACAGTG,Frozen Plate 5,DSF5_458,8/12/96,1996,8,47,Juvenile,SB018M,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-26_1996_B04,BMAG043,B04,AAGACGGA,Ht01-26,Index01,ATCACG,Frozen Plate 1,DSF1_26,5/31/96,1996,5,29,Juvenile,SB018M,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-67_1996_C09,BMAG043,C09,CACTTCGA,Ht02-67,Index02,CGATGT,Frozen Plate 2,DSF2_143,6/8/96,1996,6,30,Juvenile,SB018S,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-64_1996_H08,BMAG043,H08,GAACAGGC,Ht02-64,Index02,CGATGT,Frozen Plate 2,DSF2_140,6/8/96,1996,6,41,Juvenile,SB018S,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-88_1996_H11,BMAG044,H11,GATGAATC,Ht05-88,Index05,ACAGTG,Frozen Plate 5,DSF5_452,8/12/96,1996,8,39,Juvenile,SB018M,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-84_1996_D11,BMAG043,D11,GACTAGTA,Ht02-84,Index02,CGATGT,Frozen Plate 2,DSF2_160,5/31/96,1996,5,30,Juvenile,SB018S,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-47_1996_G06,BMAG043,G06,AGCCATGC,Ht02-47,Index02,CGATGT,Frozen Plate 2,DSF2_123,6/8/96,1996,6,36,Juvenile,SB018S,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-76_1996_D10,BMAG043,D10,GAATCTGA,Ht02-76,Index02,CGATGT,Frozen Plate 2,DSF2_152,6/8/96,1996,6,29,Juvenile,SB018S,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-01_1996_A01,BMAG044,A01,ACAAGCTA,Ht04-01,Index04,TGACCA,Frozen Plate 4,DFS4_269,7/24/97,1996,7,82,Adult,SB018N,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-58_1996_B08,BMAG043,B08,ACCTCCAA,Ht02-58,Index02,CGATGT,Frozen Plate 2,DSF2_134,6/8/96,1996,6,41,Juvenile,SB018S,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-52_1996_D07,BMAG043,D07,CTCAATGA,Ht02-52,Index02,CGATGT,Frozen Plate 2,DSF2_128,6/8/96,1996,6,32,Juvenile,SB018S,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-04_1996_D01,BMAG043,D01,CCGAAGTA,Ht02-04,Index02,CGATGT,Frozen Plate 2,DSF2_80,6/18/97,1996,6,87,Adult,SB018S,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-77_1996_E10,BMAG044,E10,GTCTGTCA,Ht04-77,Index04,TGACCA,Frozen Plate 4,DFS4_345,5/28/96,1996,5,36,Juvenile,CL000M,9697,NA,USFWS-DJFMP-BeachSeine,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-60_1996_D08,BMAG044,D08,CTGAGCCA,Ht04-60,Index04,TGACCA,Frozen Plate 4,DFS4_328,3/12/97,1996,3,74,Adult,SB018N,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-85_1996_E11,BMAG044,E11,GTGTTCTA,Ht04-85,Index04,TGACCA,Frozen Plate 4,DFS4_353,6/18/97,1996,6,73,Adult,SB018S,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-60_1996_D08,BMAG043,D08,CTGAGCCA,Ht02-60,Index02,CGATGT,Frozen Plate 2,DSF2_136,6/8/96,1996,6,37,Juvenile,SB018S,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-18_1996_B03,BMAG044,B03,AACGCTTA,Ht04-18,Index04,TGACCA,Frozen Plate 4,DFS4_286,6/18/97,1996,6,82,Adult,SB018M,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-93_1996_E12,BMAG043,E12,TAGGATGA,Ht02-93,Index02,CGATGT,Frozen Plate 2,DSF2_169,6/8/96,1996,6,35,Juvenile,SB018S,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-89_1996_A12,BMAG044,A12,AGTGGTCA,Ht05-89,Index05,ACAGTG,Frozen Plate 5,DSF5_453,8/12/96,1996,8,43,Juvenile,SB018M,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-51_1996_C07,BMAG043,C07,CAAGACTA,Ht02-51,Index02,CGATGT,Frozen Plate 2,DSF2_127,6/8/96,1996,6,29,Juvenile,SB018S,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-34_1996_B05,BMAG044,B05,AAGGTACA,Ht05-34,Index05,ACAGTG,Frozen Plate 5,DSF5_398,7/8/97,1996,7,77,Adult,SB018N,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-50_1996_B07,BMAG044,B07,ACAGCAGA,Ht04-50,Index04,TGACCA,Frozen Plate 4,DFS4_318,7/28/97,1996,7,85,Adult,SB018M,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-56_1996_H07,BMAG044,H07,CTAAGGTC,Ht04-56,Index04,TGACCA,Frozen Plate 4,DFS4_324,7/22/97,1996,7,77,Adult,SB018M,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-74_1996_B10,BMAG043,B10,ACGTATCA,Ht02-74,Index02,CGATGT,Frozen Plate 2,DSF2_150,6/8/96,1996,6,31,Juvenile,SB018S,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-82_1996_B11,BMAG044,B11,ACTATGCA,Ht05-82,Index05,ACAGTG,Frozen Plate 5,DSF5_446,8/12/96,1996,8,41,Juvenile,SB018M,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-79_1996_G10,BMAG044,G10,ATTGGCTC,Ht04-79,Index04,TGACCA,Frozen Plate 4,DFS4_347,5/28/96,1996,5,30,Juvenile,CL000M,9697,NA,USFWS-DJFMP-BeachSeine,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-28_1996_D04,BMAG043,D04,CGAACTTA,Ht02-28,Index02,CGATGT,Frozen Plate 2,DSF2_104,6/10/96,1996,6,39,Juvenile,SB018M,9697,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-42_1997_B06,BMAG044,B06,ACACAGAA,Ht05-42,Index05,ACAGTG,Frozen Plate 5,DSF5_406,7/14/97,1997,7,52,Juvenile,SB018M,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-22_1997_F03,BMAG043,F03,TCTTCACA,Ht01-22,Index01,ATCACG,Frozen Plate 1,DSF1_22,6/18/97,1997,6,35,Juvenile,SB018S,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht03-47_1997_G06,BMAG044,G06,AGCCATGC,Ht03-47,Index03,TTAGGC,Frozen Plate 3,DSF3_219,7/23/97,1997,7,50,Juvenile,SRO14W,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-65_1997_A09,BMAG044,A09,AACGAACG,Ht04-65,Index04,TGACCA,Frozen Plate 4,DFS4_333,9/30/97,1997,9,54,Juvenile,SB018M,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-09_1997_A02,BMAG044,A02,AAACATCG,Ht04-09,Index04,TGACCA,Frozen Plate 4,DFS4_277,8/27/97,1997,8,51,Juvenile,SB018M,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-65_1997_A09,BMAG044,A09,AACGAACG,Ht05-65,Index05,ACAGTG,Frozen Plate 5,DSF5_429,8/25/97,1997,8,44,Juvenile,SB018S,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht03-67_1997_C09,BMAG044,C09,CACTTCGA,Ht03-67,Index03,TTAGGC,Frozen Plate 3,DSF3_239,3/17/98,1997,3,63,Adult,SB018N,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-62_1997_F08,BMAG044,F08,TTCACGCA,Ht05-62,Index05,ACAGTG,Frozen Plate 5,DSF5_426,8/1/97,1997,8,43,Juvenile,SB018S,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-57_1997_A08,BMAG044,A08,ATGCCTAA,Ht04-57,Index04,TGACCA,Frozen Plate 4,DFS4_325,12/3/97,1997,12,50,Juvenile,SB018S,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-66_1997_B09,BMAG044,B09,ACGCTCGA,Ht05-66,Index05,ACAGTG,Frozen Plate 5,DSF5_430,8/25/97,1997,8,47,Juvenile,SB018S,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-66_1997_B09,BMAG044,B09,ACGCTCGA,Ht04-66,Index04,TGACCA,Frozen Plate 4,DFS4_334,6/18/97,1997,6,45,Juvenile,SB018S,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-19_1997_C03,BMAG044,C03,AGTCACTA,Ht04-19,Index04,TGACCA,Frozen Plate 4,DFS4_287,5/15/98,1997,5,69,Adult,SB018M,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-53_1997_E07,BMAG044,E07,GGTGCGAA,Ht04-53,Index04,TGACCA,Frozen Plate 4,DFS4_321,8/29/97,1997,8,41,Juvenile,SB018M,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-68_1997_D09,BMAG044,D09,CTGGCATA,Ht04-68,Index04,TGACCA,Frozen Plate 4,DFS4_336,6/18/97,1997,6,36,Juvenile,SB018M,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-44_1997_D06,BMAG044,D06,CGCATACA,Ht05-44,Index05,ACAGTG,Frozen Plate 5,DSF5_408,8/25/97,1997,8,30,Juvenile,SB018M,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-88_1997_H11,BMAG044,H11,GATGAATC,Ht04-88,Index04,TGACCA,Frozen Plate 4,DFS4_356,5/3/98,1997,5,78,Adult,SB018M,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-89_1997_A12,BMAG044,A12,AGTGGTCA,Ht04-89,Index04,TGACCA,Frozen Plate 4,DFS4_357,6/18/97,1997,6,53,Juvenile,SB018N,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-71_1997_G09,BMAG044,G09,ACGACAAG,Ht05-71,Index05,ACAGTG,Frozen Plate 5,DSF5_435,8/27/97,1997,8,57,Juvenile,SB018S,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-87_1997_G11,BMAG044,G11,CAAGGAGC,Ht04-87,Index04,TGACCA,Frozen Plate 4,DFS4_355,7/16/97,1997,7,34,Juvenile,SB018M,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-69_1997_E09,BMAG044,E09,GTCGTAGA,Ht04-69,Index04,TGACCA,Frozen Plate 4,DFS4_337,6/18/97,1997,6,35,Juvenile,SB018M,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-07_1997_G01,BMAG044,G01,AATGTTGC,Ht04-07,Index04,TGACCA,Frozen Plate 4,DFS4_275,5/5/98,1997,5,74,Adult,SB018N,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-62_1997_F08,BMAG044,F08,TTCACGCA,Ht04-62,Index04,TGACCA,Frozen Plate 4,DFS4_330,6/18/97,1997,6,43,Juvenile,SB018M,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-63_1997_G08,BMAG044,G08,ATAGCGAC,Ht04-63,Index04,TGACCA,Frozen Plate 4,DFS4_331,6/18/97,1997,6,38,Juvenile,SB018M,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-64_1997_H08,BMAG044,H08,GAACAGGC,Ht04-64,Index04,TGACCA,Frozen Plate 4,DFS4_332,6/18/97,1997,6,39,Juvenile,SB018M,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-96_1997_H12,BMAG044,H12,GCCAAGAC,Ht04-96,Index04,TGACCA,Frozen Plate 4,DFS4_364,5/13/98,1997,5,72,Adult,SB018M,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-59_1997_C08,BMAG044,C08,CAATGGAA,Ht05-59,Index05,ACAGTG,Frozen Plate 5,DSF5_423,7/10/97,1997,7,44,Juvenile,SB018N,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-55_1997_G07,BMAG044,G07,AGGCTAAC,Ht04-55,Index04,TGACCA,Frozen Plate 4,DFS4_323,7/14/97,1997,7,39,Juvenile,SB018N,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-93_1997_E12,BMAG044,E12,TAGGATGA,Ht04-93,Index04,TGACCA,Frozen Plate 4,DFS4_361,7/10/97,1997,7,50,Juvenile,SB018N,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-19_1997_C03,BMAG044,C03,AGTCACTA,Ht05-19,Index05,ACAGTG,Frozen Plate 5,DSF5_383,7/18/97,1997,7,46,Juvenile,SB018M,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-17_1997_A03,BMAG044,A03,ACATTGGC,Ht04-17,Index04,TGACCA,Frozen Plate 4,DFS4_285,6/18/97,1997,6,39,Juvenile,SB018M,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-70_1997_F09,BMAG044,F09,ACACGAGA,Ht04-70,Index04,TGACCA,Frozen Plate 4,DFS4_338,6/18/97,1997,6,47,Juvenile,SB018M,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-14_1997_F02,BMAG044,F02,TCCGTCTA,Ht04-14,Index04,TGACCA,Frozen Plate 4,DFS4_282,6/18/97,1997,6,37,Juvenile,SB018M,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-86_1997_F11,BMAG044,F11,AAGGACAC,Ht04-86,Index04,TGACCA,Frozen Plate 4,DFS4_354,6/18/97,1997,6,38,Juvenile,SB018S,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-08_1997_H01,BMAG044,H01,CCATCCTC,Ht04-08,Index04,TGACCA,Frozen Plate 4,DFS4_276,5/5/98,1997,5,70,Adult,SB018N,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-15_1997_G02,BMAG044,G02,ACACTGAC,Ht04-15,Index04,TGACCA,Frozen Plate 4,DFS4_283,6/18/97,1997,6,35,Juvenile,SB018M,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-57_1997_A08,BMAG044,A08,ATGCCTAA,Ht05-57,Index05,ACAGTG,Frozen Plate 5,DSF5_421,8/29/97,1997,8,49,Juvenile,SB018N,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-03_1997_C01,BMAG043,C01,AGATCGCA,Ht02-03,Index02,CGATGT,Frozen Plate 2,DSF2_79,6/18/97,1997,6,44,Juvenile,SB018S,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-67_1997_C09,BMAG044,C09,CACTTCGA,Ht04-67,Index04,TGACCA,Frozen Plate 4,DFS4_335,6/18/97,1997,6,45,Juvenile,SB018M,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-84_1997_D11,BMAG044,D11,GACTAGTA,Ht04-84,Index04,TGACCA,Frozen Plate 4,DFS4_352,12/26/97,1997,12,58,Juvenile,SB018N,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-58_1997_B08,BMAG044,B08,ACCTCCAA,Ht04-58,Index04,TGACCA,Frozen Plate 4,DFS4_326,8/9/97,1997,8,39,Juvenile,SB018S,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-43_1997_C06,BMAG044,C06,CAACCACA,Ht05-43,Index05,ACAGTG,Frozen Plate 5,DSF5_407,12/4/97,1997,12,58,Juvenile,SB018M,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-01_1997_A01,BMAG043,A01,ACAAGCTA,Ht02-01,Index02,CGATGT,Frozen Plate 2,DSF2_77,6/18/97,1997,6,30,Juvenile,SB018S,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht03-21_1997_E03,BMAG044,E03,GCGAGTAA,Ht03-21,Index03,TTAGGC,Frozen Plate 3,DSF3_193,12/7/97,1997,12,52,Juvenile,SB018N,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-16_1997_H02,BMAG044,H02,CCGACAAC,Ht04-16,Index04,TGACCA,Frozen Plate 4,DFS4_284,6/18/97,1997,6,34,Juvenile,SB018M,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-39_1997_G05,BMAG044,G05,AGCACCTC,Ht05-39,Index05,ACAGTG,Frozen Plate 5,DSF5_403,12/5/97,1997,12,42,Juvenile,SB018M,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-14_1997_F02,BMAG044,F02,TCCGTCTA,Ht05-14,Index05,ACAGTG,Frozen Plate 5,DSF5_378,5/25/98,1997,5,76,Adult,SB018N,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-49_1997_A07,BMAG044,A07,CAGATCTG,Ht05-49,Index05,ACAGTG,Frozen Plate 5,DSF5_413,8/27/97,1997,8,48,Juvenile,SB018M,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-54_1997_F07,BMAG044,F07,TGGTGGTA,Ht04-54,Index04,TGACCA,Frozen Plate 4,DFS4_322,10/6/97,1997,10,49,Juvenile,SB018M,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht03-38_1997_F05,BMAG044,F05,TGGAACAA,Ht03-38,Index03,TTAGGC,Frozen Plate 3,DSF3_210,5/24/98,1997,5,85,Adult,SB018M,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-60_1997_D08,BMAG044,D08,CTGAGCCA,Ht05-60,Index05,ACAGTG,Frozen Plate 5,DSF5_424,12/28/97,1997,12,53,Juvenile,SB018N,9798,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-74_1998_B10,BMAG044,B10,ACGTATCA,Ht05-74,Index05,ACAGTG,Frozen Plate 5,DSF5_438,12/2/98,1998,12,63,Juvenile,SB018M,9899,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-09_1998_A02,BMAG044,A02,AAACATCG,Ht05-09,Index05,ACAGTG,Frozen Plate 5,DSF5_373,5/2/99,1998,5,67,Adult,SB018N,9899,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-76_1998_D10,BMAG044,D10,GAATCTGA,Ht05-76,Index05,ACAGTG,Frozen Plate 5,DSF5_440,12/2/98,1998,12,59,Juvenile,SB018M,9899,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-50_1998_B07,BMAG044,B07,ACAGCAGA,Ht05-50,Index05,ACAGTG,Frozen Plate 5,DSF5_414,3/26/99,1998,3,66,Adult,SB018M,9899,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht03-93_1998_E12,BMAG044,E12,TAGGATGA,Ht03-93,Index03,TTAGGC,Frozen Plate 3,DSF3_265,9/16/98,1998,9,55,Juvenile,SB018N,9899,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-68_1998_D09,BMAG044,D09,CTGGCATA,Ht05-68,Index05,ACAGTG,Frozen Plate 5,DSF5_432,12/2/98,1998,12,65,Juvenile,SB018M,9899,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht03-88_1998_H11,BMAG044,H11,GATGAATC,Ht03-88,Index03,TTAGGC,Frozen Plate 3,DSF3_260,9/16/98,1998,9,61,Juvenile,SB018M,9899,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-21_1998_E03,BMAG044,E03,GCGAGTAA,Ht05-21,Index05,ACAGTG,Frozen Plate 5,DSF5_385,10/14/98,1998,10,52,Juvenile,SB018N,9899,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht03-57_1998_A08,BMAG044,A08,ATGCCTAA,Ht03-57,Index03,TTAGGC,Frozen Plate 3,DSF3_229,6/24/98,1998,6,36,Juvenile,SB018S,9899,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-20_1998_D03,BMAG044,D03,CCTCCTGA,Ht05-20,Index05,ACAGTG,Frozen Plate 5,DSF5_384,10/14/98,1998,10,51,Juvenile,SB018N,9899,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht03-52_1998_D07,BMAG044,D07,CTCAATGA,Ht03-52,Index03,TTAGGC,Frozen Plate 3,DSF3_224,12/6/98,1998,12,60,Juvenile,SB018N,9899,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-46_1998_F06,BMAG043,F06,TGGCTTCA,Ht01-46,Index01,ATCACG,Frozen Plate 1,DSF1_46,6/13/98,1998,6,28,Juvenile,SB018S,9899,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-30_1998_F04,BMAG044,F04,TGAAGAGA,Ht05-30,Index05,ACAGTG,Frozen Plate 5,DSF5_394,11/27/98,1998,11,61,Juvenile,SB018M,9899,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht03-23_1998_G03,BMAG044,G03,ACAGATTC,Ht03-23,Index03,TTAGGC,Frozen Plate 3,DSF3_195,12/30/98,1998,12,56,Juvenile,SB018M,9899,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-12_1998_D02,BMAG043,D02,CCGTGAGA,Ht02-12,Index02,CGATGT,Frozen Plate 2,DSF2_88,6/24/98,1998,6,38,Juvenile,SB018S,9899,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-80_1998_H10,BMAG044,H10,GAGTTAGC,Ht05-80,Index05,ACAGTG,Frozen Plate 5,DSF5_444,12/2/98,1998,12,53,Juvenile,SB018M,9899,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-57_1998_A08,BMAG043,A08,ATGCCTAA,Ht01-57,Index01,ATCACG,Frozen Plate 1,DSF1_57,6/15/98,1998,6,31,Juvenile,SB018S,9899,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht03-58_1998_B08,BMAG044,B08,ACCTCCAA,Ht03-58,Index03,TTAGGC,Frozen Plate 3,DSF3_230,6/24/98,1998,6,25,Juvenile,SB018S,9899,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht03-56_1998_H07,BMAG044,H07,CTAAGGTC,Ht03-56,Index03,TTAGGC,Frozen Plate 3,DSF3_228,6/24/98,1998,6,23,Juvenile,SB018S,9899,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht03-19_1998_C03,BMAG044,C03,AGTCACTA,Ht03-19,Index03,TTAGGC,Frozen Plate 3,DSF3_191,12/10/98,1998,12,56,Juvenile,SB018N,9899,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-79_1998_G10,BMAG044,G10,ATTGGCTC,Ht05-79,Index05,ACAGTG,Frozen Plate 5,DSF5_443,12/2/98,1998,12,59,Juvenile,SB018M,9899,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht03-18_1998_B03,BMAG044,B03,AACGCTTA,Ht03-18,Index03,TTAGGC,Frozen Plate 3,DSF3_190,6/24/98,1998,6,43,Juvenile,SB018M,9899,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-67_1998_C09,BMAG044,C09,CACTTCGA,Ht05-67,Index05,ACAGTG,Frozen Plate 5,DSF5_431,12/2/98,1998,12,65,Juvenile,SB018M,9899,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht03-87_1998_G11,BMAG044,G11,CAAGGAGC,Ht03-87,Index03,TTAGGC,Frozen Plate 3,DSF3_259,9/16/98,1998,9,60,Juvenile,SB018M,9899,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-75_1998_C10,BMAG044,C10,CAGCGTTA,Ht04-75,Index04,TGACCA,Frozen Plate 4,DFS4_343,6/23/98,1998,6,37,Juvenile,OR001M,9899,NA,USFWS-DJFMP-BeachSeine,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht03-79_1998_G10,BMAG044,G10,ATTGGCTC,Ht03-79,Index03,TTAGGC,Frozen Plate 3,DSF3_251,6/20/98,1998,6,27,Juvenile,OR001M,9899,NA,USFWS-DJFMP-BeachSeine,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-11_1998_C02,BMAG044,C02,AGCAGGAA,Ht05-11,Index05,ACAGTG,Frozen Plate 5,DSF5_375,9/4/98,1998,9,52,Juvenile,SB018M,9899,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-73_1998_A10,BMAG044,A10,AGTACAAG,Ht05-73,Index05,ACAGTG,Frozen Plate 5,DSF5_437,12/2/98,1998,12,63,Juvenile,SB018M,9899,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-05_1998_E01,BMAG044,E01,GATAGACA,Ht05-05,Index05,ACAGTG,Frozen Plate 5,DSF5_369,12/5/98,1998,12,57,Juvenile,SB018N,9899,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-74_1998_B10,BMAG044,B10,ACGTATCA,Ht04-74,Index04,TGACCA,Frozen Plate 4,DFS4_342,6/23/98,1998,6,26,Juvenile,OR001M,9899,NA,USFWS-DJFMP-BeachSeine,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-40_1998_H05,BMAG043,H05,CGACACAC,Ht01-40,Index01,ATCACG,Frozen Plate 1,DSF1_40,6/13/98,1998,6,29,Juvenile,SB018M,9899,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-72_1998_H09,BMAG044,H09,GACAGTGC,Ht04-72,Index04,TGACCA,Frozen Plate 4,DFS4_340,6/24/98,1998,6,43,Juvenile,SB018M,9899,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-03_1998_C01,BMAG044,C01,AGATCGCA,Ht05-03,Index05,ACAGTG,Frozen Plate 5,DSF5_367,11/17/98,1998,11,48,Juvenile,SB018N,9899,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-73_1998_A10,BMAG044,A10,AGTACAAG,Ht04-73,Index04,TGACCA,Frozen Plate 4,DFS4_341,6/23/98,1998,6,25,Juvenile,OR001M,9899,NA,USFWS-DJFMP-BeachSeine,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht03-81_1998_A11,BMAG044,A11,CATCAAGT,Ht03-81,Index03,TTAGGC,Frozen Plate 3,DSF3_253,6/20/98,1998,6,23,Juvenile,OR001M,9899,NA,USFWS-DJFMP-BeachSeine,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-27_1998_C04,BMAG044,C04,ATCCTGTA,Ht05-27,Index05,ACAGTG,Frozen Plate 5,DSF5_391,10/14/98,1998,10,50,Juvenile,SB018N,9899,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-25_1998_A04,BMAG044,A04,ACCACTGT,Ht05-25,Index05,ACAGTG,Frozen Plate 5,DSF5_389,10/14/98,1998,10,55,Juvenile,SB018N,9899,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-16_1998_H02,BMAG043,H02,CCGACAAC,Ht02-16,Index02,CGATGT,Frozen Plate 2,DSF2_92,6/24/98,1998,6,35,Juvenile,SB018S,9899,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht03-27_1998_C04,BMAG044,C04,ATCCTGTA,Ht03-27,Index03,TTAGGC,Frozen Plate 3,DSF3_199,1/25/99,1998,1,65,Adult,SB018M,9899,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-33_1998_A05,BMAG044,A05,AACGTGAT,Ht05-33,Index05,ACAGTG,Frozen Plate 5,DSF5_397,3/26/99,1998,3,64,Adult,SB018S,9899,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-13_1998_E02,BMAG044,E02,GCCACATA,Ht04-13,Index04,TGACCA,Frozen Plate 4,DFS4_281,6/6/98,1998,6,34,Juvenile,SJ011M,9899,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht03-35_1998_C05,BMAG044,C05,ATTGAGGA,Ht03-35,Index03,TTAGGC,Frozen Plate 3,DSF3_207,6/24/98,1998,6,50,Juvenile,SB018M,9899,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-05_1998_E01,BMAG044,E01,GATAGACA,Ht04-05,Index04,TGACCA,Frozen Plate 4,DFS4_273,11/5/98,1998,11,60,Juvenile,SB018M,9899,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-01_1998_A01,BMAG044,A01,ACAAGCTA,Ht05-01,Index05,ACAGTG,Frozen Plate 5,DSF5_365,6/17/98,1998,6,27,Juvenile,SB018M,9899,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-26_1998_B04,BMAG044,B04,AAGACGGA,Ht05-26,Index05,ACAGTG,Frozen Plate 5,DSF5_390,10/14/98,1998,10,70,Juvenile,SB018N,9899,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-44_1998_D06,BMAG043,D06,CGCATACA,Ht01-44,Index01,ATCACG,Frozen Plate 1,DSF1_44,6/13/98,1998,6,25,Juvenile,SB018S,9899,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht03-59_1998_C08,BMAG044,C08,CAATGGAA,Ht03-59,Index03,TTAGGC,Frozen Plate 3,DSF3_231,6/24/98,1998,6,28,Juvenile,SB018S,9899,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-20_1998_D03,BMAG044,D03,CCTCCTGA,Ht04-20,Index04,TGACCA,Frozen Plate 4,DFS4_288,6/19/98,1998,6,32,Juvenile,SB018N,9899,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht02-11_1998_C02,BMAG043,C02,AGCAGGAA,Ht02-11,Index02,CGATGT,Frozen Plate 2,DSF2_87,6/24/98,1998,6,30,Juvenile,SB018S,9899,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-12_1998_D02,BMAG044,D02,CCGTGAGA,Ht04-12,Index04,TGACCA,Frozen Plate 4,DFS4_280,6/19/98,1998,6,41,Juvenile,SJ011M,9899,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-56_1999_H07,BMAG044,H07,CTAAGGTC,Ht05-56,Index05,ACAGTG,Frozen Plate 5,DSF5_420,6/19/99,1999,6,37,Juvenile,SB018M,9900,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-29_1999_E04,BMAG044,E04,GCTAACGA,Ht04-29,Index04,TGACCA,Frozen Plate 4,DFS4_297,7/7/99,1999,7,36,Juvenile,SB018M,9900,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht03-46_1999_F06,BMAG044,F06,TGGCTTCA,Ht03-46,Index03,TTAGGC,Frozen Plate 3,DSF3_218,7/7/99,1999,7,31,Juvenile,SB018N,9900,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht03-45_1999_E06,BMAG044,E06,GGAGAACA,Ht03-45,Index03,TTAGGC,Frozen Plate 3,DSF3_217,7/7/99,1999,7,34,Juvenile,SB018N,9900,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-45_1999_E06,BMAG044,E06,GGAGAACA,Ht04-45,Index04,TGACCA,Frozen Plate 4,DFS4_313,7/7/99,1999,7,36,Juvenile,SB018M,9900,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-81_1999_A11,BMAG044,A11,CATCAAGT,Ht05-81,Index05,ACAGTG,Frozen Plate 5,DSF5_445,8/27/99,1999,8,42,Juvenile,SB018S,9900,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-90_1999_B12,BMAG044,B12,AGAGTCAA,Ht04-90,Index04,TGACCA,Frozen Plate 4,DFS4_358,7/12/00,1999,7,83,Adult,AM001S,9900,NA,USFWS-DJFMP-BeachSeine,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-46_1999_F06,BMAG044,F06,TGGCTTCA,Ht04-46,Index04,TGACCA,Frozen Plate 4,DFS4_314,7/7/99,1999,7,28,Juvenile,SB018M,9900,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-53_1999_E07,BMAG044,E07,GGTGCGAA,Ht05-53,Index05,ACAGTG,Frozen Plate 5,DSF5_417,6/19/99,1999,6,44,Juvenile,SB018M,9900,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-42_1999_B06,BMAG044,B06,ACACAGAA,Ht04-42,Index04,TGACCA,Frozen Plate 4,DFS4_310,7/7/99,1999,7,37,Juvenile,SB018M,9900,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-35_1999_C05,BMAG044,C05,ATTGAGGA,Ht04-35,Index04,TGACCA,Frozen Plate 4,DFS4_303,7/7/99,1999,7,38,Juvenile,SB018S,9900,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-37_1999_E05,BMAG044,E05,GCTCGGTA,Ht04-37,Index04,TGACCA,Frozen Plate 4,DFS4_305,7/7/99,1999,7,52,Juvenile,SB018M,9900,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-25_1999_A04,BMAG044,A04,ACCACTGT,Ht04-25,Index04,TGACCA,Frozen Plate 4,DFS4_293,7/7/99,1999,7,37,Juvenile,SB018M,9900,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-34_1999_B05,BMAG044,B05,AAGGTACA,Ht04-34,Index04,TGACCA,Frozen Plate 4,DFS4_302,7/7/99,1999,7,35,Juvenile,SB018S,9900,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-27_1999_C04,BMAG044,C04,ATCCTGTA,Ht04-27,Index04,TGACCA,Frozen Plate 4,DFS4_295,7/7/99,1999,7,42,Juvenile,SB018M,9900,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-30_1999_F04,BMAG044,F04,TGAAGAGA,Ht04-30,Index04,TGACCA,Frozen Plate 4,DFS4_298,7/7/99,1999,7,32,Juvenile,SB018M,9900,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-33_1999_A05,BMAG044,A05,AACGTGAT,Ht04-33,Index04,TGACCA,Frozen Plate 4,DFS4_301,7/7/99,1999,7,40,Juvenile,SB018S,9900,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-26_1999_B04,BMAG044,B04,AAGACGGA,Ht04-26,Index04,TGACCA,Frozen Plate 4,DFS4_294,7/7/99,1999,7,39,Juvenile,SB018M,9900,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-51_1999_C07,BMAG044,C07,CAAGACTA,Ht05-51,Index05,ACAGTG,Frozen Plate 5,DSF5_415,6/19/99,1999,6,33,Juvenile,SB018M,9900,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-23_1999_G03,BMAG044,G03,ACAGATTC,Ht04-23,Index04,TGACCA,Frozen Plate 4,DFS4_291,7/7/99,1999,7,38,Juvenile,SB018M,9900,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-36_1999_D05,BMAG044,D05,CGACTGGA,Ht04-36,Index04,TGACCA,Frozen Plate 4,DFS4_304,7/7/99,1999,7,23,Juvenile,SB018S,9900,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-44_1999_D06,BMAG044,D06,CGCATACA,Ht04-44,Index04,TGACCA,Frozen Plate 4,DFS4_312,7/7/99,1999,7,34,Juvenile,SB018M,9900,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-43_1999_C06,BMAG044,C06,CAACCACA,Ht04-43,Index04,TGACCA,Frozen Plate 4,DFS4_311,7/7/99,1999,7,34,Juvenile,SB018M,9900,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-39_1999_G05,BMAG044,G05,AGCACCTC,Ht04-39,Index04,TGACCA,Frozen Plate 4,DFS4_307,7/7/99,1999,7,30,Juvenile,SB018M,9900,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-48_1999_H06,BMAG044,H06,CGGATTGC,Ht04-48,Index04,TGACCA,Frozen Plate 4,DFS4_316,7/7/99,1999,7,38,Juvenile,SB018M,9900,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-28_1999_D04,BMAG044,D04,CGAACTTA,Ht04-28,Index04,TGACCA,Frozen Plate 4,DFS4_296,7/7/99,1999,7,26,Juvenile,SB018M,9900,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-54_1999_F07,BMAG044,F07,TGGTGGTA,Ht05-54,Index05,ACAGTG,Frozen Plate 5,DSF5_418,6/19/99,1999,6,46,Juvenile,SB018M,9900,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-52_1999_D07,BMAG044,D07,CTCAATGA,Ht05-52,Index05,ACAGTG,Frozen Plate 5,DSF5_416,6/19/99,1999,6,25,Juvenile,SB018M,9900,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-24_1999_H03,BMAG044,H03,AGTCAAGC,Ht04-24,Index04,TGACCA,Frozen Plate 4,DFS4_292,7/7/99,1999,7,46,Juvenile,SB018M,9900,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht03-43_1999_C06,BMAG044,C06,CAACCACA,Ht03-43,Index03,TTAGGC,Frozen Plate 3,DSF3_215,7/7/99,1999,7,30,Juvenile,SB018N,9900,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-40_1999_H05,BMAG044,H05,CGACACAC,Ht04-40,Index04,TGACCA,Frozen Plate 4,DFS4_308,7/7/99,1999,7,37,Juvenile,SB018M,9900,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-41_1999_A06,BMAG044,A06,CGCTGATC,Ht04-41,Index04,TGACCA,Frozen Plate 4,DFS4_309,7/7/99,1999,7,37,Juvenile,SB018M,9900,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-22_1999_F03,BMAG044,F03,TCTTCACA,Ht04-22,Index04,TGACCA,Frozen Plate 4,DFS4_290,7/7/99,1999,7,33,Juvenile,SB018M,9900,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-32_1999_H04,BMAG044,H04,CCTCTATC,Ht04-32,Index04,TGACCA,Frozen Plate 4,DFS4_300,7/7/99,1999,7,52,Juvenile,SB018S,9900,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-47_1999_G06,BMAG044,G06,AGCCATGC,Ht04-47,Index04,TGACCA,Frozen Plate 4,DFS4_315,7/7/99,1999,7,36,Juvenile,SB018M,9900,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht03-85_1999_E11,BMAG044,E11,GTGTTCTA,Ht03-85,Index03,TTAGGC,Frozen Plate 3,DSF3_257,7/9/99,1999,7,40,Juvenile,SB018S,9900,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht03-44_1999_D06,BMAG044,D06,CGCATACA,Ht03-44,Index03,TTAGGC,Frozen Plate 3,DSF3_216,7/7/99,1999,7,31,Juvenile,SB018N,9900,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-55_1999_G07,BMAG044,G07,AGGCTAAC,Ht05-55,Index05,ACAGTG,Frozen Plate 5,DSF5_419,6/19/99,1999,6,43,Juvenile,SB018M,9900,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht03-83_1999_C11,BMAG044,C11,CATACCAA,Ht03-83,Index03,TTAGGC,Frozen Plate 3,DSF3_255,7/9/99,1999,7,31,Juvenile,SB018S,9900,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht03-84_1999_D11,BMAG044,D11,GACTAGTA,Ht03-84,Index03,TTAGGC,Frozen Plate 3,DSF3_256,7/9/99,1999,7,38,Juvenile,SB018S,9900,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht03-86_1999_F11,BMAG044,F11,AAGGACAC,Ht03-86,Index03,TTAGGC,Frozen Plate 3,DSF3_258,7/9/99,1999,7,33,Juvenile,SB018S,9900,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht04-31_1999_G04,BMAG044,G04,AGATGTAC,Ht04-31,Index04,TGACCA,Frozen Plate 4,DFS4_299,7/7/99,1999,7,35,Juvenile,SB018S,9900,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-32_1999_H04,BMAG044,H04,CCTCTATC,Ht05-32,Index05,ACAGTG,Frozen Plate 5,DSF5_396,11/9/99,1999,11,64,Juvenile,SB018N,9900,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht05-31_1999_G04,BMAG044,G04,AGATGTAC,Ht05-31,Index05,ACAGTG,Frozen Plate 5,DSF5_395,11/9/99,1999,11,60,Juvenile,SB018N,9900,Chipps Island,USFWS-Chipps,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht07-09_2002_A02,BMAG045,A02,AAACATCG,Ht07-09,Index07,CAGATC,SKT2003-Plate2,2003_SKT_0227,4/3/03,2002,4,72,Adult,716,203,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht07-89_2002_A12,BMAG045,A12,AGTGGTCA,Ht07-89,Index07,CAGATC,SKT2003-Plate2,2003_SKT_0293,4/28/03,2002,4,74,Adult,799,203,NA,CDFW-SKT,NA,2,6,NA,Alisha Goodbla,yes
+Ht07-74_2002_B10,BMAG045,B10,ACGTATCA,Ht07-74,Index07,CAGATC,SKT2003-Plate2,2003_SKT_0309,5/2/03,2002,5,75,Adult,799,203,NA,CDFW-SKT,NA,2,6,NA,Alisha Goodbla,yes
+Ht06-44_2002_D06,BMAG044,D06,CGCATACA,Ht06-44,Index06,GCCAAT,SKT2003-Plate1,2003_SKT_0089,3/18/03,2002,3,72,Adult,715,203,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht07-43_2002_C06,BMAG045,C06,CAACCACA,Ht07-43,Index07,CAGATC,SKT2003-Plate2,2003_SKT_0340,5/2/03,2002,5,72,Adult,799,203,NA,CDFW-SKT,NA,2,6,NA,Alisha Goodbla,yes
+Ht06-51_2002_C07,BMAG044,C07,CAAGACTA,Ht06-51,Index06,GCCAAT,SKT2003-Plate1,2003_SKT_0101,3/18/03,2002,3,70,Adult,715,203,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht06-74_2002_B10,BMAG044,B10,ACGTATCA,Ht06-74,Index06,GCCAAT,SKT2003-Plate1,2003_SKT_0196,4/3/03,2002,4,75,Adult,716,203,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht06-28_2002_D04,BMAG044,D04,CGAACTTA,Ht06-28,Index06,GCCAAT,SKT2003-Plate1,2003_SKT_0078,3/18/03,2002,3,66,Adult,716,203,NA,CDFW-SKT,NA,1,4,NA,Alisha Goodbla,yes
+Ht06-35_2002_C05,BMAG044,C05,ATTGAGGA,Ht06-35,Index06,GCCAAT,SKT2003-Plate1,2003_SKT_0085,3/18/03,2002,3,75,Adult,716,203,NA,CDFW-SKT,NA,1,5,NA,Alisha Goodbla,yes
+Ht06-23_2002_G03,BMAG044,G03,ACAGATTC,Ht06-23,Index06,GCCAAT,SKT2003-Plate1,2003_SKT_0070,3/4/03,2002,3,71,Adult,602,203,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht07-28_2002_D04,BMAG045,D04,CGAACTTA,Ht07-28,Index07,CAGATC,SKT2003-Plate2,2003_SKT_0351,5/14/03,2002,5,79,Adult,716,203,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht06-04_2002_D01,BMAG044,D01,CCGAAGTA,Ht06-04,Index06,GCCAAT,SKT2003-Plate1,2003_SKT_0053,3/4/03,2002,3,66,Adult,699,203,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht06-89_2002_A12,BMAG044,A12,AGTGGTCA,Ht06-89,Index06,GCCAAT,SKT2003-Plate1,2003_SKT_0211,4/3/03,2002,4,80,Adult,716,203,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht07-84_2002_D11,BMAG045,D11,GACTAGTA,Ht07-84,Index07,CAGATC,SKT2003-Plate2,2003_SKT_0298,4/28/03,2002,4,74,Adult,799,203,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht07-25_2002_A04,BMAG045,A04,ACCACTGT,Ht07-25,Index07,CAGATC,SKT2003-Plate2,2003_SKT_0366,5/15/03,2002,5,71,Adult,501,203,NA,CDFW-SKT,NA,2,6,NA,Alisha Goodbla,yes
+Ht07-76_2002_D10,BMAG045,D10,GAATCTGA,Ht07-76,Index07,CAGATC,SKT2003-Plate2,2003_SKT_0307,5/2/03,2002,5,70,Adult,799,203,NA,CDFW-SKT,NA,1,5,NA,Alisha Goodbla,yes
+Ht06-71_2002_G09,BMAG044,G09,ACGACAAG,Ht06-71,Index06,GCCAAT,SKT2003-Plate1,2003_SKT_0121,3/18/03,2002,3,70,Adult,715,203,NA,CDFW-SKT,NA,1,6,NA,Alisha Goodbla,yes
+Ht06-26_2002_B04,BMAG044,B04,AAGACGGA,Ht06-26,Index06,GCCAAT,SKT2003-Plate1,2003_SKT_0067,3/4/03,2002,3,70,Adult,602,203,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht07-93_2002_E12,BMAG045,E12,TAGGATGA,Ht07-93,Index07,CAGATC,SKT2003-Plate2,2003_SKT_0239,4/28/03,2002,4,66,Adult,799,203,NA,CDFW-SKT,NA,2,6,NA,Alisha Goodbla,yes
+Ht06-94_2002_F12,BMAG044,F12,AATCCGTC,Ht06-94,Index06,GCCAAT,SKT2003-Plate1,2003_SKT_0216,4/3/03,2002,4,73,Adult,716,203,NA,CDFW-SKT,NA,1,4,NA,Alisha Goodbla,yes
+Ht06-64_2002_H08,BMAG044,H08,GAACAGGC,Ht06-64,Index06,GCCAAT,SKT2003-Plate1,2003_SKT_0109,3/18/03,2002,3,76,Adult,715,203,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht07-05_2002_E01,BMAG045,E01,GATAGACA,Ht07-05,Index07,CAGATC,SKT2003-Plate2,2003_SKT_0223,4/3/03,2002,4,73,Adult,716,203,NA,CDFW-SKT,NA,2,6,NA,Alisha Goodbla,yes
+Ht07-56_2002_H07,BMAG045,H07,CTAAGGTC,Ht07-56,Index07,CAGATC,SKT2003-Plate2,2003_SKT_0327,5/2/03,2002,5,81,Adult,799,203,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht06-90_2002_B12,BMAG044,B12,AGAGTCAA,Ht06-90,Index06,GCCAAT,SKT2003-Plate1,2003_SKT_0212,4/3/03,2002,4,72,Adult,716,203,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht06-70_2002_F09,BMAG044,F09,ACACGAGA,Ht06-70,Index06,GCCAAT,SKT2003-Plate1,2003_SKT_0120,3/18/03,2002,3,67,Adult,715,203,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht07-81_2002_A11,BMAG045,A11,CATCAAGT,Ht07-81,Index07,CAGATC,SKT2003-Plate2,2003_SKT_0303,4/28/03,2002,4,79,Adult,799,203,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht06-56_2002_H07,BMAG044,H07,CTAAGGTC,Ht06-56,Index06,GCCAAT,SKT2003-Plate1,2003_SKT_0106,3/18/03,2002,3,75,Adult,715,203,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht07-44_2002_D06,BMAG045,D06,CGCATACA,Ht07-44,Index07,CAGATC,SKT2003-Plate2,2003_SKT_0339,5/2/03,2002,5,75,Adult,799,203,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht07-26_2002_B04,BMAG045,B04,AAGACGGA,Ht07-26,Index07,CAGATC,SKT2003-Plate2,2003_SKT_0367,5/15/03,2002,5,76,Adult,418,203,NA,CDFW-SKT,NA,2,6,NA,Alisha Goodbla,yes
+Ht07-33_2002_A05,BMAG045,A05,AACGTGAT,Ht07-33,Index07,CAGATC,SKT2003-Plate2,2003_SKT_0361,5/14/03,2002,5,80,Adult,715,203,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht06-84_2002_D11,BMAG044,D11,GACTAGTA,Ht06-84,Index06,GCCAAT,SKT2003-Plate1,2003_SKT_0206,4/3/03,2002,4,80,Adult,716,203,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht06-67_2002_C09,BMAG044,C09,CACTTCGA,Ht06-67,Index06,GCCAAT,SKT2003-Plate1,2003_SKT_0117,3/18/03,2002,3,70,Adult,715,203,NA,CDFW-SKT,NA,2,6,NA,Alisha Goodbla,yes
+Ht07-29_2002_E04,BMAG045,E04,GCTAACGA,Ht07-29,Index07,CAGATC,SKT2003-Plate2,2003_SKT_0350,5/14/03,2002,5,80,Adult,716,203,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht06-10_2002_B02,BMAG044,B02,AACCGAGA,Ht06-10,Index06,GCCAAT,SKT2003-Plate1,2003_SKT_0060,3/4/03,2002,3,72,Adult,699,203,NA,CDFW-SKT,NA,2,2,NA,Alisha Goodbla,yes
+Ht06-93_2002_E12,BMAG044,E12,TAGGATGA,Ht06-93,Index06,GCCAAT,SKT2003-Plate1,2003_SKT_0215,4/3/03,2002,4,74,Adult,716,203,NA,CDFW-SKT,NA,2,6,NA,Alisha Goodbla,yes
+Ht06-36_2002_D05,BMAG044,D05,CGACTGGA,Ht06-36,Index06,GCCAAT,SKT2003-Plate1,2003_SKT_0086,3/18/03,2002,3,75,Adult,716,203,NA,CDFW-SKT,NA,2,6,NA,Alisha Goodbla,yes
+Ht06-62_2002_F08,BMAG044,F08,TTCACGCA,Ht06-62,Index06,GCCAAT,SKT2003-Plate1,2003_SKT_0111,3/18/03,2002,3,71,Adult,715,203,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht07-90_2002_B12,BMAG045,B12,AGAGTCAA,Ht07-90,Index07,CAGATC,SKT2003-Plate2,2003_SKT_0292,4/28/03,2002,4,75,Adult,799,203,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht07-62_2002_F08,BMAG045,F08,TTCACGCA,Ht07-62,Index07,CAGATC,SKT2003-Plate2,2003_SKT_0321,5/2/03,2002,5,75,Adult,799,203,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht06-19_2002_C03,BMAG044,C03,AGTCACTA,Ht06-19,Index06,GCCAAT,SKT2003-Plate1,2003_SKT_0074,3/18/03,2002,3,74,Adult,716,203,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht07-57_2002_A08,BMAG045,A08,ATGCCTAA,Ht07-57,Index07,CAGATC,SKT2003-Plate2,2003_SKT_0328,5/2/03,2002,5,73,Adult,799,203,NA,CDFW-SKT,NA,1,5,NA,Alisha Goodbla,yes
+Ht06-33_2002_A05,BMAG044,A05,AACGTGAT,Ht06-33,Index06,GCCAAT,SKT2003-Plate1,2003_SKT_0083,3/18/03,2002,3,75,Adult,716,203,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht06-65_2002_A09,BMAG044,A09,AACGAACG,Ht06-65,Index06,GCCAAT,SKT2003-Plate1,2003_SKT_0108,3/18/03,2002,3,70,Adult,715,203,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht07-73_2002_A10,BMAG045,A10,AGTACAAG,Ht07-73,Index07,CAGATC,SKT2003-Plate2,2003_SKT_0310,5/2/03,2002,5,75,Adult,799,203,NA,CDFW-SKT,NA,1,5,NA,Alisha Goodbla,yes
+Ht07-21_2002_E03,BMAG045,E03,GCGAGTAA,Ht07-21,Index07,CAGATC,SKT2003-Plate2,2003_SKT_0354,5/14/03,2002,5,73,Adult,716,203,NA,CDFW-SKT,NA,2,6,NA,Alisha Goodbla,yes
+Ht06-20_2002_D03,BMAG044,D03,CCTCCTGA,Ht06-20,Index06,GCCAAT,SKT2003-Plate1,2003_SKT_0073,3/18/03,2002,3,75,Adult,716,203,NA,CDFW-SKT,NA,2,6,NA,Alisha Goodbla,yes
+Ht06-18_2002_B03,BMAG044,B03,AACGCTTA,Ht06-18,Index06,GCCAAT,SKT2003-Plate1,2003_SKT_0075,3/18/03,2002,3,76,Adult,716,203,NA,CDFW-SKT,NA,2,6,NA,Alisha Goodbla,yes
+Ht06-05_2002_E01,BMAG044,E01,GATAGACA,Ht06-05,Index06,GCCAAT,SKT2003-Plate1,2003_SKT_0052,3/4/03,2002,3,75,Adult,699,203,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht06-66_2002_B09,BMAG044,B09,ACGCTCGA,Ht06-66,Index06,GCCAAT,SKT2003-Plate1,2003_SKT_0107,3/18/03,2002,3,76,Adult,715,203,NA,CDFW-SKT,NA,2,6,NA,Alisha Goodbla,yes
+Ht06-03_2002_C01,BMAG044,C01,AGATCGCA,Ht06-03,Index06,GCCAAT,SKT2003-Plate1,2003_SKT_0054,3/4/03,2002,3,79,Adult,699,203,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht08-81_2004_A11,BMAG045,A11,CATCAAGT,Ht08-81,Index08,ACTTGA,SKT2005-Plate1,2005_SKT_0263,2/10/05,2004,2,72,Adult,719,405,NA,CDFW-SKT,NA,1,5,NA,Alisha Goodbla,yes
+Ht08-09_2004_A02,BMAG045,A02,AAACATCG,Ht08-09,Index08,ACTTGA,SKT2005-Plate1,2005_SKT_0188,2/8/05,2004,2,71,Adult,699,405,NA,CDFW-SKT,NA,1,3,NA,Alisha Goodbla,yes
+Ht08-66_2004_B09,BMAG045,B09,ACGCTCGA,Ht08-66,Index08,ACTTGA,SKT2005-Plate1,2005_SKT_0238,2/10/05,2004,2,73,Adult,799,405,NA,CDFW-SKT,NA,1,5,NA,Alisha Goodbla,yes
+Ht08-56_2004_H07,BMAG045,H07,CTAAGGTC,Ht08-56,Index08,ACTTGA,SKT2005-Plate1,2005_SKT_0228,2/10/05,2004,2,71,Adult,716,405,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht08-57_2004_A08,BMAG045,A08,ATGCCTAA,Ht08-57,Index08,ACTTGA,SKT2005-Plate1,2005_SKT_0227,2/10/05,2004,2,66,Adult,716,405,NA,CDFW-SKT,NA,1,4,NA,Alisha Goodbla,yes
+Ht08-76_2004_D10,BMAG045,D10,GAATCTGA,Ht08-76,Index08,ACTTGA,SKT2005-Plate1,2005_SKT_0248,2/10/05,2004,2,70,Adult,799,405,NA,CDFW-SKT,NA,1,4,NA,Alisha Goodbla,yes
+Ht09-81_2004_A11,BMAG045,A11,CATCAAGT,Ht09-81,Index09,GATCAG,SKT2005-Plate3,2005_SKT_0509,3/7/05,2004,3,64,Adult,799,405,NA,CDFW-SKT,NA,1,3,NA,Alisha Goodbla,yes
+Ht08-89_2004_A12,BMAG045,A12,AGTGGTCA,Ht08-89,Index08,ACTTGA,SKT2005-Plate1,2005_SKT_0255,2/10/05,2004,2,70,Adult,719,405,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht08-50_2004_B07,BMAG045,B07,ACAGCAGA,Ht08-50,Index08,ACTTGA,SKT2005-Plate1,2005_SKT_0178,2/8/05,2004,2,66,Adult,609,405,NA,CDFW-SKT,NA,2,2,NA,Alisha Goodbla,yes
+Ht09-74_2004_B10,BMAG045,B10,ACGTATCA,Ht09-74,Index09,GATCAG,SKT2005-Plate3,2005_SKT_0007,1/26/05,2004,1,72,Adult,920,405,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht09-93_2004_E12,BMAG045,E12,TAGGATGA,Ht09-93,Index09,GATCAG,SKT2005-Plate3,2005_SKT_0460,3/7/05,2004,3,70,Adult,699,405,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht09-60_2004_D08,BMAG045,D08,CTGAGCCA,Ht09-60,Index09,GATCAG,SKT2005-Plate3,2005_SKT_0011,1/26/05,2004,1,72,Adult,812,405,NA,CDFW-SKT,NA,1,3,NA,Alisha Goodbla,yes
+Ht08-17_2004_A03,BMAG045,A03,ACATTGGC,Ht08-17,Index08,ACTTGA,SKT2005-Plate1,2005_SKT_0195,2/8/05,2004,2,65,Adult,699,405,NA,CDFW-SKT,NA,1,3,NA,Alisha Goodbla,yes
+Ht08-10_2004_B02,BMAG045,B02,AACCGAGA,Ht08-10,Index08,ACTTGA,SKT2005-Plate1,2005_SKT_0174,2/8/05,2004,2,64,Adult,609,405,NA,CDFW-SKT,NA,1,3,NA,Alisha Goodbla,yes
+Ht09-65_2004_A09,BMAG045,A09,AACGAACG,Ht09-65,Index09,GATCAG,SKT2005-Plate3,2005_SKT_0016,1/26/05,2004,1,66,Adult,716,405,NA,CDFW-SKT,NA,1,4,NA,Alisha Goodbla,yes
+Ht09-27_2004_C04,BMAG045,C04,ATCCTGTA,Ht09-27,Index09,GATCAG,SKT2005-Plate3,2005_SKT_0049,1/27/05,2004,1,67,Adult,519,405,NA,CDFW-SKT,NA,2,2,NA,Alisha Goodbla,yes
+Ht09-57_2004_A08,BMAG045,A08,ATGCCTAA,Ht09-57,Index09,GATCAG,SKT2005-Plate3,2005_SKT_0026,1/26/05,2004,1,70,Adult,716,405,NA,CDFW-SKT,NA,1,3,NA,Alisha Goodbla,yes
+Ht08-75_2004_C10,BMAG045,C10,CAGCGTTA,Ht08-75,Index08,ACTTGA,SKT2005-Plate1,2005_SKT_0249,2/10/05,2004,2,68,Adult,799,405,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht08-28_2004_D04,BMAG045,D04,CGAACTTA,Ht08-28,Index08,ACTTGA,SKT2005-Plate1,2005_SKT_0196,2/8/05,2004,2,74,Adult,699,405,NA,CDFW-SKT,NA,1,4,NA,Alisha Goodbla,yes
+Ht08-35_2004_C05,BMAG045,C05,ATTGAGGA,Ht08-35,Index08,ACTTGA,SKT2005-Plate1,2005_SKT_0209,2/8/05,2004,2,64,Adult,699,405,NA,CDFW-SKT,NA,1,3,NA,Alisha Goodbla,yes
+Ht08-39_2004_G05,BMAG045,G05,AGCACCTC,Ht08-39,Index08,ACTTGA,SKT2005-Plate1,2005_SKT_0205,2/8/05,2004,2,65,Adult,699,405,NA,CDFW-SKT,NA,1,3,NA,Alisha Goodbla,yes
+Ht09-82_2004_B11,BMAG045,B11,ACTATGCA,Ht09-82,Index09,GATCAG,SKT2005-Plate3,2005_SKT_0505,3/7/05,2004,3,68,Adult,799,405,NA,CDFW-SKT,NA,2,6,NA,Alisha Goodbla,yes
+Ht08-26_2004_B04,BMAG045,B04,AAGACGGA,Ht08-26,Index08,ACTTGA,SKT2005-Plate1,2005_SKT_0198,2/8/05,2004,2,70,Adult,699,405,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht09-85_2004_E11,BMAG045,E11,GTGTTCTA,Ht09-85,Index09,GATCAG,SKT2005-Plate3,2005_SKT_0513,3/7/05,2004,3,71,Adult,799,405,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht08-24_2004_H03,BMAG045,H03,AGTCAAGC,Ht08-24,Index08,ACTTGA,SKT2005-Plate1,2005_SKT_0200,2/8/05,2004,2,61,Adult,699,405,NA,CDFW-SKT,NA,0,0,NA,Alisha Goodbla,yes
+Ht09-67_2004_C09,BMAG045,C09,CACTTCGA,Ht09-67,Index09,GATCAG,SKT2005-Plate3,2005_SKT_0018,1/26/05,2004,1,69,Adult,716,405,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht09-51_2004_C07,BMAG045,C07,CAAGACTA,Ht09-51,Index09,GATCAG,SKT2005-Plate3,2005_SKT_0020,1/26/05,2004,1,70,Adult,716,405,NA,CDFW-SKT,NA,1,2,NA,Alisha Goodbla,yes
+Ht08-93_2004_E12,BMAG045,E12,TAGGATGA,Ht08-93,Index08,ACTTGA,SKT2005-Plate1,2005_SKT_0271,2/10/05,2004,2,65,Adult,719,405,NA,CDFW-SKT,NA,2,6,NA,Alisha Goodbla,yes
+Ht08-80_2004_H10,BMAG045,H10,GAGTTAGC,Ht08-80,Index08,ACTTGA,SKT2005-Plate1,2005_SKT_0244,2/10/05,2004,2,69,Adult,799,405,NA,CDFW-SKT,NA,1,4,NA,Alisha Goodbla,yes
+Ht08-74_2004_B10,BMAG045,B10,ACGTATCA,Ht08-74,Index08,ACTTGA,SKT2005-Plate1,2005_SKT_0250,2/10/05,2004,2,66,Adult,719,405,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht08-67_2004_C09,BMAG045,C09,CACTTCGA,Ht08-67,Index08,ACTTGA,SKT2005-Plate1,2005_SKT_0237,2/10/05,2004,2,72,Adult,799,405,NA,CDFW-SKT,NA,1,4,NA,Alisha Goodbla,yes
+Ht08-88_2004_H11,BMAG045,H11,GATGAATC,Ht08-88,Index08,ACTTGA,SKT2005-Plate1,2005_SKT_0256,2/10/05,2004,2,70,Adult,719,405,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht09-26_2004_B04,BMAG045,B04,AAGACGGA,Ht09-26,Index09,GATCAG,SKT2005-Plate3,2005_SKT_0048,1/27/05,2004,1,69,Adult,504,405,NA,CDFW-SKT,NA,1,3,NA,Alisha Goodbla,yes
+Ht09-09_2004_A02,BMAG045,A02,AAACATCG,Ht09-09,Index09,GATCAG,SKT2005-Plate3,2005_SKT_0068,1/27/05,2004,1,70,Adult,501,405,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht09-90_2004_B12,BMAG045,B12,AGAGTCAA,Ht09-90,Index09,GATCAG,SKT2005-Plate3,2005_SKT_0141,1/28/05,2004,1,70,Adult,704,405,NA,CDFW-SKT,NA,1,4,NA,Alisha Goodbla,yes
+Ht08-84_2004_D11,BMAG045,D11,GACTAGTA,Ht08-84,Index08,ACTTGA,SKT2005-Plate1,2005_SKT_0260,2/10/05,2004,2,70,Adult,719,405,NA,CDFW-SKT,NA,1,5,NA,Alisha Goodbla,yes
+Ht09-34_2004_B05,BMAG045,B05,AAGGTACA,Ht09-34,Index09,GATCAG,SKT2005-Plate3,2005_SKT_0039,1/26/05,2004,1,69,Adult,715,405,NA,CDFW-SKT,NA,1,3,NA,Alisha Goodbla,yes
+Ht09-59_2004_C08,BMAG045,C08,CAATGGAA,Ht09-59,Index09,GATCAG,SKT2005-Plate3,2005_SKT_0010,1/26/05,2004,1,69,Adult,812,405,NA,CDFW-SKT,NA,1,3,NA,Alisha Goodbla,yes
+Ht08-38_2004_F05,BMAG045,F05,TGGAACAA,Ht08-38,Index08,ACTTGA,SKT2005-Plate1,2005_SKT_0206,2/8/05,2004,2,67,Adult,699,405,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht09-73_2004_A10,BMAG045,A10,AGTACAAG,Ht09-73,Index09,GATCAG,SKT2005-Plate3,2005_SKT_0006,1/26/05,2004,1,68,Adult,920,405,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht09-84_2004_D11,BMAG045,D11,GACTAGTA,Ht09-84,Index09,GATCAG,SKT2005-Plate3,2005_SKT_0488,3/7/05,2004,3,68,Adult,719,405,NA,CDFW-SKT,NA,2,6,NA,Alisha Goodbla,yes
+Ht08-25_2004_A04,BMAG045,A04,ACCACTGT,Ht08-25,Index08,ACTTGA,SKT2005-Plate1,2005_SKT_0199,2/8/05,2004,2,61,Adult,699,405,NA,CDFW-SKT,NA,1,3,NA,Alisha Goodbla,yes
+Ht08-94_2004_F12,BMAG045,F12,AATCCGTC,Ht08-94,Index08,ACTTGA,SKT2005-Plate1,2005_SKT_0270,2/10/05,2004,2,60,Adult,719,405,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht08-14_2004_F02,BMAG045,F02,TCCGTCTA,Ht08-14,Index08,ACTTGA,SKT2005-Plate1,2005_SKT_0177,2/8/05,2004,2,76,Adult,609,405,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht08-87_2004_G11,BMAG045,G11,CAAGGAGC,Ht08-87,Index08,ACTTGA,SKT2005-Plate1,2005_SKT_0257,2/10/05,2004,2,70,Adult,719,405,NA,CDFW-SKT,NA,2,6,NA,Alisha Goodbla,yes
+Ht08-52_2004_D07,BMAG045,D07,CTCAATGA,Ht08-52,Index08,ACTTGA,SKT2005-Plate1,2005_SKT_0232,2/10/05,2004,2,71,Adult,799,405,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht08-33_2004_A05,BMAG045,A05,AACGTGAT,Ht08-33,Index08,ACTTGA,SKT2005-Plate1,2005_SKT_0211,2/8/05,2004,2,70,Adult,699,405,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht08-01_2004_A01,BMAG045,A01,ACAAGCTA,Ht08-01,Index08,ACTTGA,SKT2005-Plate1,2005_SKT_0183,2/8/05,2004,2,72,Adult,699,405,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht08-64_2004_H08,BMAG045,H08,GAACAGGC,Ht08-64,Index08,ACTTGA,SKT2005-Plate1,2005_SKT_0240,2/10/05,2004,2,75,Adult,799,405,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht08-05_2004_E01,BMAG045,E01,GATAGACA,Ht08-05,Index08,ACTTGA,SKT2005-Plate1,2005_SKT_0180,2/8/05,2004,2,64,Adult,609,405,NA,CDFW-SKT,NA,1,2,NA,Alisha Goodbla,yes
+Ht11-10_2006_B02,BMAG046,B02,AACCGAGA,Ht11-10,Index11,GGCTAC,SKT2007-Plate3,2007_SKT_0114,1/22/07,2006,1,55,Adult,606,607,NA,CDFW-SKT,NA,1,3,NA,Alisha Goodbla,yes
+Ht11-09_2006_A02,BMAG046,A02,AAACATCG,Ht11-09,Index11,GGCTAC,SKT2007-Plate3,2007_SKT_0159,1/23/07,2006,1,65,Adult,719,607,NA,CDFW-SKT,NA,1,3,NA,Alisha Goodbla,yes
+Ht11-23_2006_G03,BMAG046,G03,ACAGATTC,Ht11-23,Index11,GGCTAC,SKT2007-Plate3,2007_SKT_0160,1/23/07,2006,1,64,Adult,719,607,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht10-57_2006_A08,BMAG045,A08,ATGCCTAA,Ht10-57,Index10,TAGCTT,SKT2007-Plate1,2007_SKT_0297,3/9/07,2006,3,71,Adult,609,607,NA,CDFW-SKT,NA,2,2,NA,Alisha Goodbla,yes
+Ht11-05_2006_E01,BMAG046,E01,GATAGACA,Ht11-05,Index11,GGCTAC,SKT2007-Plate3,2007_SKT_0150,1/23/07,2006,1,63,Adult,799,607,NA,CDFW-SKT,NA,1,3,NA,Alisha Goodbla,yes
+Ht10-84_2006_D11,BMAG045,D11,GACTAGTA,Ht10-84,Index10,TAGCTT,SKT2007-Plate1,2007_SKT_0363,3/20/07,2006,3,65,Adult,799,607,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht11-88_2006_H11,BMAG046,H11,GATGAATC,Ht11-88,Index11,GGCTAC,SKT2007-Plate3,2007_SKT_0184,2/6/07,2006,2,59,Adult,704,607,NA,CDFW-SKT,NA,1,3,NA,Alisha Goodbla,yes
+Ht10-76_2006_D10,BMAG045,D10,GAATCTGA,Ht10-76,Index10,TAGCTT,SKT2007-Plate1,2007_SKT_0332,3/20/07,2006,3,60,Adult,713,607,NA,CDFW-SKT,NA,1,5,NA,Alisha Goodbla,yes
+Ht11-81_2006_A11,BMAG046,A11,CATCAAGT,Ht11-81,Index11,GGCTAC,SKT2007-Plate3,2007_SKT_0478,5/3/07,2006,5,65,Adult,719,607,NA,CDFW-SKT,NA,1,5,NA,Alisha Goodbla,yes
+Ht11-57_2006_A08,BMAG046,A08,ATGCCTAA,Ht11-57,Index11,GGCTAC,SKT2007-Plate3,2007_SKT_0456,5/3/07,2006,5,68,Adult,719,607,NA,CDFW-SKT,NA,1,5,NA,Alisha Goodbla,yes
+Ht11-56_2006_H07,BMAG046,H07,CTAAGGTC,Ht11-56,Index11,GGCTAC,SKT2007-Plate3,2007_SKT_0469,5/3/07,2006,5,70,Adult,719,607,NA,CDFW-SKT,NA,2,6,NA,Alisha Goodbla,yes
+Ht11-90_2006_B12,BMAG046,B12,AGAGTCAA,Ht11-90,Index11,GGCTAC,SKT2007-Plate3,2007_SKT_0221,2/8/07,2006,2,60,Adult,609,607,NA,CDFW-SKT,NA,1,2,NA,Alisha Goodbla,yes
+Ht10-03_2006_C01,BMAG045,C01,AGATCGCA,Ht10-03,Index10,TAGCTT,SKT2007-Plate1,2007_SKT_0312,3/9/07,2006,3,65,Adult,606,607,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht10-27_2006_C04,BMAG045,C04,ATCCTGTA,Ht10-27,Index10,TAGCTT,SKT2007-Plate1,2007_SKT_0285,3/7/07,2006,3,65,Adult,716,607,NA,CDFW-SKT,NA,1,4,NA,Alisha Goodbla,yes
+Ht10-51_2006_C07,BMAG045,C07,CAAGACTA,Ht10-51,Index10,TAGCTT,SKT2007-Plate1,2007_SKT_0291,3/9/07,2006,3,67,Adult,609,607,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht10-74_2006_B10,BMAG045,B10,ACGTATCA,Ht10-74,Index10,TAGCTT,SKT2007-Plate1,2007_SKT_0406,3/21/07,2006,3,70,Adult,602,607,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht10-79_2006_G10,BMAG045,G10,ATTGGCTC,Ht10-79,Index10,TAGCTT,SKT2007-Plate1,2007_SKT_0407,3/21/07,2006,3,69,Adult,602,607,NA,CDFW-SKT,NA,2,2,NA,Alisha Goodbla,yes
+Ht10-67_2006_C09,BMAG045,C09,CACTTCGA,Ht10-67,Index10,TAGCTT,SKT2007-Plate1,2007_SKT_0356,3/20/07,2006,3,54,Adult,799,607,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht11-67_2006_C09,BMAG046,C09,CACTTCGA,Ht11-67,Index11,GGCTAC,SKT2007-Plate3,2007_SKT_0436,4/5/07,2006,4,66,Adult,719,607,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht11-74_2006_B10,BMAG046,B10,ACGTATCA,Ht11-74,Index11,GGCTAC,SKT2007-Plate3,2007_SKT_0458,5/3/07,2006,5,72,Adult,719,607,NA,CDFW-SKT,NA,2,6,NA,Alisha Goodbla,yes
+Ht10-93_2006_E12,BMAG045,E12,TAGGATGA,Ht10-93,Index10,TAGCTT,SKT2007-Plate1,2007_SKT_0394,3/20/07,2006,3,68,Adult,719,607,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht10-56_2006_H07,BMAG045,H07,CTAAGGTC,Ht10-56,Index10,TAGCTT,SKT2007-Plate1,2007_SKT_0400,3/21/07,2006,3,65,Adult,609,607,NA,CDFW-SKT,NA,1,4,NA,Alisha Goodbla,yes
+Ht11-30_2006_F04,BMAG046,F04,TGAAGAGA,Ht11-30,Index11,GGCTAC,SKT2007-Plate3,2007_SKT_0154,1/23/07,2006,1,63,Adult,799,607,NA,CDFW-SKT,NA,1,3,NA,Alisha Goodbla,yes
+Ht10-87_2006_G11,BMAG045,G11,CAAGGAGC,Ht10-87,Index10,TAGCTT,SKT2007-Plate1,2007_SKT_0383,3/20/07,2006,3,60,Adult,719,607,NA,CDFW-SKT,NA,1,3,NA,Alisha Goodbla,yes
+Ht11-18_2006_B03,BMAG046,B03,AACGCTTA,Ht11-18,Index11,GGCTAC,SKT2007-Plate3,2007_SKT_0172,1/23/07,2006,1,61,Adult,719,607,NA,CDFW-SKT,NA,1,3,NA,Alisha Goodbla,yes
+Ht11-76_2006_D10,BMAG046,D10,GAATCTGA,Ht11-76,Index11,GGCTAC,SKT2007-Plate3,2007_SKT_0475,5/3/07,2006,5,70,Adult,719,607,NA,CDFW-SKT,NA,1,6,NA,Alisha Goodbla,yes
+Ht10-81_2006_A11,BMAG045,A11,CATCAAGT,Ht10-81,Index10,TAGCTT,SKT2007-Plate1,2007_SKT_0361,3/20/07,2006,3,65,Adult,799,607,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht10-80_2006_H10,BMAG045,H10,GAGTTAGC,Ht10-80,Index10,TAGCTT,SKT2007-Plate1,2007_SKT_0372,3/20/07,2006,3,61,Adult,719,607,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht10-89_2006_A12,BMAG045,A12,AGTGGTCA,Ht10-89,Index10,TAGCTT,SKT2007-Plate1,2007_SKT_0344,3/20/07,2006,3,65,Adult,799,607,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht10-38_2006_F05,BMAG045,F05,TGGAACAA,Ht10-38,Index10,TAGCTT,SKT2007-Plate1,2007_SKT_0266,3/7/07,2006,3,65,Adult,706,607,NA,CDFW-SKT,NA,1,4,NA,Alisha Goodbla,yes
+Ht10-05_2006_E01,BMAG045,E01,GATAGACA,Ht10-05,Index10,TAGCTT,SKT2007-Plate1,2007_SKT_0277,3/7/07,2006,3,62,Adult,719,607,NA,CDFW-SKT,NA,2,2,NA,Alisha Goodbla,yes
+Ht10-26_2006_B04,BMAG045,B04,AAGACGGA,Ht10-26,Index10,TAGCTT,SKT2007-Plate1,2007_SKT_0267,3/7/07,2006,3,62,Adult,719,607,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht11-29_2006_E04,BMAG046,E04,GCTAACGA,Ht11-29,Index11,GGCTAC,SKT2007-Plate3,2007_SKT_0120,1/22/07,2006,1,67,Adult,606,607,NA,CDFW-SKT,NA,2,2,NA,Alisha Goodbla,yes
+Ht10-39_2006_G05,BMAG045,G05,AGCACCTC,Ht10-39,Index10,TAGCTT,SKT2007-Plate1,2007_SKT_0268,3/7/07,2006,3,64,Adult,719,607,NA,CDFW-SKT,NA,2,2,NA,Alisha Goodbla,yes
+Ht11-65_2006_A09,BMAG046,A09,AACGAACG,Ht11-65,Index11,GGCTAC,SKT2007-Plate3,2007_SKT_0454,5/3/07,2006,5,65,Adult,707,607,NA,CDFW-SKT,NA,2,6,NA,Alisha Goodbla,yes
+Ht11-66_2006_B09,BMAG046,B09,ACGCTCGA,Ht11-66,Index11,GGCTAC,SKT2007-Plate3,2007_SKT_0423,4/4/07,2006,4,64,Adult,606,607,NA,CDFW-SKT,NA,1,3,NA,Alisha Goodbla,yes
+Ht11-45_2006_E06,BMAG046,E06,GGAGAACA,Ht11-45,Index11,GGCTAC,SKT2007-Plate3,2007_SKT_0428,4/5/07,2006,4,59,Adult,711,607,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht11-48_2006_H06,BMAG046,H06,CGGATTGC,Ht11-48,Index11,GGCTAC,SKT2007-Plate3,2007_SKT_0462,5/3/07,2006,5,74,Adult,719,607,NA,CDFW-SKT,NA,2,6,NA,Alisha Goodbla,yes
+Ht11-89_2006_A12,BMAG046,A12,AGTGGTCA,Ht11-89,Index11,GGCTAC,SKT2007-Plate3,2007_SKT_0437,4/5/07,2006,4,63,Adult,719,607,NA,CDFW-SKT,NA,2,2,NA,Alisha Goodbla,yes
+Ht11-27_2006_C04,BMAG046,C04,ATCCTGTA,Ht11-27,Index11,GGCTAC,SKT2007-Plate3,2007_SKT_0171,1/23/07,2006,1,62,Adult,719,607,NA,CDFW-SKT,NA,1,3,NA,Alisha Goodbla,yes
+Ht10-91_2006_C12,BMAG045,C12,CCAGTTCA,Ht10-91,Index10,TAGCTT,SKT2007-Plate1,2007_SKT_0364,3/20/07,2006,3,64,Adult,799,607,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht10-02_2006_B01,BMAG045,B01,AACAACCA,Ht10-02,Index10,TAGCTT,SKT2007-Plate1,2007_SKT_0295,3/9/07,2006,3,65,Adult,609,607,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht11-21_2006_E03,BMAG046,E03,GCGAGTAA,Ht11-21,Index11,GGCTAC,SKT2007-Plate3,2007_SKT_0112,1/22/07,2006,1,61,Adult,606,607,NA,CDFW-SKT,NA,1,3,NA,Alisha Goodbla,yes
+Ht11-12_2006_D02,BMAG046,D02,CCGTGAGA,Ht11-12,Index11,GGCTAC,SKT2007-Plate3,2007_SKT_0119,1/22/07,2006,1,64,Adult,606,607,NA,CDFW-SKT,NA,2,2,NA,Alisha Goodbla,yes
+Ht10-77_2006_E10,BMAG045,E10,GTCTGTCA,Ht10-77,Index10,TAGCTT,SKT2007-Plate1,2007_SKT_0411,3/21/07,2006,3,61,Adult,704,607,NA,CDFW-SKT,NA,1,2,NA,Alisha Goodbla,yes
+Ht11-87_2006_G11,BMAG046,G11,CAAGGAGC,Ht11-87,Index11,GGCTAC,SKT2007-Plate3,2007_SKT_0225,2/8/07,2006,2,60,Adult,606,607,NA,CDFW-SKT,NA,1,3,NA,Alisha Goodbla,yes
+Ht10-52_2006_D07,BMAG045,D07,CTCAATGA,Ht10-52,Index10,TAGCTT,SKT2007-Plate1,2007_SKT_0305,3/9/07,2006,3,64,Adult,609,607,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht11-19_2006_C03,BMAG046,C03,AGTCACTA,Ht11-19,Index11,GGCTAC,SKT2007-Plate3,2007_SKT_0137,1/23/07,2006,1,68,Adult,799,607,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht11-42_2006_B06,BMAG046,B06,ACACAGAA,Ht11-42,Index11,GGCTAC,SKT2007-Plate3,2007_SKT_0434,4/5/07,2006,4,67,Adult,719,607,NA,CDFW-SKT,NA,2,2,NA,Alisha Goodbla,yes
+Ht11-84_2006_D11,BMAG046,D11,GACTAGTA,Ht11-84,Index11,GGCTAC,SKT2007-Plate3,2007_SKT_0472,5/3/07,2006,5,70,Adult,719,607,NA,CDFW-SKT,NA,2,5,NA,Alisha Goodbla,yes
+Ht13-43_2008_C06,BMAG046,C06,CAACCACA,Ht13-43,Index13,AGTCAA,SKT2009-Plate719,2009_SKT_0262,1/14/09,2008,1,60,Adult,719,809,NA,CDFW-SKT,NA,1,3,no otolith data,Alisha Goodbla,yes
+Ht12-46_2008_F06,BMAG046,F06,TGGCTTCA,Ht12-46,Index12,CTTGTA,SKT2009-Plate1,2009_SKT_0622,2/13/09,2008,2,59,Adult,609,809,NA,CDFW-SKT,NA,2,3,no otolith data,Alisha Goodbla,yes
+Ht12-30_2008_F04,BMAG046,F04,TGAAGAGA,Ht12-30,Index12,CTTGTA,SKT2009-Plate1,2009_SKT_0616,2/13/09,2008,2,69,Adult,609,809,NA,CDFW-SKT,NA,2,3,no otolith data,Alisha Goodbla,yes
+Ht12-36_2008_D05,BMAG046,D05,CGACTGGA,Ht12-36,Index12,CTTGTA,SKT2009-Plate1,2009_SKT_0636,2/13/09,2008,2,64,Adult,609,809,NA,CDFW-SKT,NA,1,4,no otolith data,Alisha Goodbla,yes
+Ht12-05_2008_E01,BMAG046,E01,GATAGACA,Ht12-05,Index12,CTTGTA,SKT2009-Plate1,2009_SKT_0518,1/15/09,2008,1,64,Adult,519,809,NA,CDFW-SKT,NA,1,3,no otolith data,Alisha Goodbla,yes
+Ht12-08_2008_H01,BMAG046,H01,CCATCCTC,Ht12-08,Index12,CTTGTA,SKT2009-Plate1,2009_SKT_0509,1/15/09,2008,1,74,Adult,519,809,NA,CDFW-SKT,NA,1,3,no otolith data,Alisha Goodbla,yes
+Ht12-87_2008_G11,BMAG046,G11,CAAGGAGC,Ht12-87,Index12,CTTGTA,SKT2009-Plate1,2009_SKT_0629,2/13/09,2008,2,57,Adult,609,809,NA,CDFW-SKT,NA,1,3,no otolith data,Alisha Goodbla,yes
+Ht12-84_2008_D11,BMAG046,D11,GACTAGTA,Ht12-84,Index12,CTTGTA,SKT2009-Plate1,2009_SKT_0115,1/13/09,2008,1,66,Adult,704,809,NA,CDFW-SKT,NA,1,3,no otolith data,Alisha Goodbla,yes
+Ht12-10_2008_B02,BMAG046,B02,AACCGAGA,Ht12-10,Index12,CTTGTA,SKT2009-Plate1,2009_SKT_0517,1/15/09,2008,1,65,Adult,519,809,NA,CDFW-SKT,NA,2,3,no otolith data,Alisha Goodbla,yes
+Ht12-22_2008_F03,BMAG046,F03,TCTTCACA,Ht12-22,Index12,CTTGTA,SKT2009-Plate1,2009_SKT_0634,2/13/09,2008,2,63,Adult,609,809,NA,CDFW-SKT,NA,1,3,no otolith data,Alisha Goodbla,yes
+Ht13-74_2008_B10,BMAG046,B10,ACGTATCA,Ht13-74,Index13,AGTCAA,SKT2009-Plate719,2009_SKT_0322,1/14/09,2008,1,58,Adult,719,809,NA,CDFW-SKT,NA,1,3,no otolith data,Alisha Goodbla,yes
+Ht13-88_2008_H11,BMAG046,H11,GATGAATC,Ht13-88,Index13,AGTCAA,SKT2009-Plate719,2009_SKT_0477,1/14/09,2008,1,58,Adult,719,809,NA,CDFW-SKT,NA,1,3,no otolith data,Alisha Goodbla,yes
+Ht12-19_2008_C03,BMAG046,C03,AGTCACTA,Ht12-19,Index12,CTTGTA,SKT2009-Plate1,2009_SKT_0105,1/13/09,2008,1,62,Adult,706,809,NA,CDFW-SKT,NA,1,3,no otolith data,Alisha Goodbla,yes
+Ht13-12_2008_D02,BMAG046,D02,CCGTGAGA,Ht13-12,Index13,AGTCAA,SKT2009-Plate719,2009_SKT_0293,1/14/09,2008,1,58,Adult,719,809,NA,CDFW-SKT,NA,2,2,no otolith data,Alisha Goodbla,yes
+Ht13-64_2008_H08,BMAG046,H08,GAACAGGC,Ht13-64,Index13,AGTCAA,SKT2009-Plate719,2009_SKT_0280,1/14/09,2008,1,63,Adult,719,809,NA,CDFW-SKT,NA,1,3,no otolith data,Alisha Goodbla,yes
+Ht12-20_2008_D03,BMAG046,D03,CCTCCTGA,Ht12-20,Index12,CTTGTA,SKT2009-Plate1,2009_SKT_0516,1/15/09,2008,1,69,Adult,519,809,NA,CDFW-SKT,NA,2,3,no otolith data,Alisha Goodbla,yes
+Ht12-03_2008_C01,BMAG046,C01,AGATCGCA,Ht12-03,Index12,CTTGTA,SKT2009-Plate1,2009_SKT_0508,1/15/09,2008,1,68,Adult,519,809,NA,CDFW-SKT,NA,2,3,no otolith data,Alisha Goodbla,yes
+Ht13-13_2008_E02,BMAG046,E02,GCCACATA,Ht13-13,Index13,AGTCAA,SKT2009-Plate719,2009_SKT_0182,1/14/09,2008,1,61,Adult,719,809,NA,CDFW-SKT,NA,1,3,no otolith data,Alisha Goodbla,yes
+Ht12-69_2008_E09,BMAG046,E09,GTCGTAGA,Ht12-69,Index12,CTTGTA,SKT2009-Plate1,2009_SKT_0645,3/16/09,2008,3,72,Adult,809,809,NA,CDFW-SKT,NA,2,2,no otolith data,Alisha Goodbla,yes
+Ht13-09_2008_A02,BMAG046,A02,AAACATCG,Ht13-09,Index13,AGTCAA,SKT2009-Plate719,2009_SKT_0173,1/14/09,2008,1,62,Adult,719,809,NA,CDFW-SKT,NA,1,3,no otolith data,Alisha Goodbla,yes
+Ht12-16_2008_H02,BMAG046,H02,CCGACAAC,Ht12-16,Index12,CTTGTA,SKT2009-Plate1,2009_SKT_0507,1/15/09,2008,1,66,Adult,519,809,NA,CDFW-SKT,NA,2,2,no otolith data,Alisha Goodbla,yes
+Ht13-76_2008_D10,BMAG046,D10,GAATCTGA,Ht13-76,Index13,AGTCAA,SKT2009-Plate719,2009_SKT_0270,1/14/09,2008,1,62,Adult,719,809,NA,CDFW-SKT,NA,1,2,no otolith data,Alisha Goodbla,yes
+Ht13-75_2008_C10,BMAG046,C10,CAGCGTTA,Ht13-75,Index13,AGTCAA,SKT2009-Plate719,2009_SKT_0309,1/14/09,2008,1,66,Adult,719,809,NA,CDFW-SKT,NA,2,3,no otolith data,Alisha Goodbla,yes
+Ht13-71_2008_G09,BMAG046,G09,ACGACAAG,Ht13-71,Index13,AGTCAA,SKT2009-Plate719,2009_SKT_0283,1/14/09,2008,1,60,Adult,719,809,NA,CDFW-SKT,NA,1,3,no otolith data,Alisha Goodbla,yes
+Ht13-41_2008_A06,BMAG046,A06,CGCTGATC,Ht13-41,Index13,AGTCAA,SKT2009-Plate719,2009_SKT_0306,1/14/09,2008,1,60,Adult,719,809,NA,CDFW-SKT,NA,1,3,no otolith data,Alisha Goodbla,yes
+Ht12-23_2008_G03,BMAG046,G03,ACAGATTC,Ht12-23,Index12,CTTGTA,SKT2009-Plate1,2009_SKT_0649,3/17/09,2008,3,66,Adult,922,809,NA,CDFW-SKT,NA,1,3,no otolith data,Alisha Goodbla,yes
+Ht12-65_2008_A09,BMAG046,A09,AACGAACG,Ht12-65,Index12,CTTGTA,SKT2009-Plate1,2009_SKT_0639,2/13/09,2008,2,63,Adult,609,809,NA,CDFW-SKT,NA,2,3,no otolith data,Alisha Goodbla,yes
+Ht13-87_2008_G11,BMAG046,G11,CAAGGAGC,Ht13-87,Index13,AGTCAA,SKT2009-Plate719,2009_SKT_0499,1/14/09,2008,1,62,Adult,719,809,NA,CDFW-SKT,NA,1,3,no otolith data,Alisha Goodbla,yes
+Ht13-90_2008_B12,BMAG046,B12,AGAGTCAA,Ht13-90,Index13,AGTCAA,SKT2009-Plate719,2009_SKT_0285,1/14/09,2008,1,55,Adult,719,809,NA,CDFW-SKT,NA,1,3,no otolith data,Alisha Goodbla,yes
+Ht13-08_2008_H01,BMAG046,H01,CCATCCTC,Ht13-08,Index13,AGTCAA,SKT2009-Plate719,2009_SKT_0140,1/14/09,2008,1,64,Adult,719,809,NA,CDFW-SKT,NA,2,3,no otolith data,Alisha Goodbla,yes
+Ht12-89_2008_A12,BMAG046,A12,AGTGGTCA,Ht12-89,Index12,CTTGTA,SKT2009-Plate1,2009_SKT_0643,3/16/09,2008,3,70,Adult,809,809,NA,CDFW-SKT,NA,1,4,no otolith data,Alisha Goodbla,yes
+Ht13-42_2008_B06,BMAG046,B06,ACACAGAA,Ht13-42,Index13,AGTCAA,SKT2009-Plate719,2009_SKT_0325,1/14/09,2008,1,63,Adult,719,809,NA,CDFW-SKT,NA,1,3,no otolith data,Alisha Goodbla,yes
+Ht13-03_2008_C01,BMAG046,C01,AGATCGCA,Ht13-03,Index13,AGTCAA,SKT2009-Plate719,2009_SKT_0171,1/14/09,2008,1,62,Adult,719,809,NA,CDFW-SKT,NA,2,3,no otolith data,Alisha Goodbla,yes
+Ht13-67_2008_C09,BMAG046,C09,CACTTCGA,Ht13-67,Index13,AGTCAA,SKT2009-Plate719,2009_SKT_0226,1/14/09,2008,1,62,Adult,719,809,NA,CDFW-SKT,NA,1,3,no otolith data,Alisha Goodbla,yes
+Ht13-84_2008_D11,BMAG046,D11,GACTAGTA,Ht13-84,Index13,AGTCAA,SKT2009-Plate719,2009_SKT_0458,1/14/09,2008,1,60,Adult,719,809,NA,CDFW-SKT,NA,1,3,no otolith data,Alisha Goodbla,yes
+Ht13-37_2008_E05,BMAG046,E05,GCTCGGTA,Ht13-37,Index13,AGTCAA,SKT2009-Plate719,2009_SKT_0354,1/14/09,2008,1,59,Adult,719,809,NA,CDFW-SKT,NA,1,3,no otolith data,Alisha Goodbla,yes
+Ht13-29_2008_E04,BMAG046,E04,GCTAACGA,Ht13-29,Index13,AGTCAA,SKT2009-Plate719,2009_SKT_0219,1/14/09,2008,1,64,Adult,719,809,NA,CDFW-SKT,NA,1,3,no otolith data,Alisha Goodbla,yes
+Ht13-79_2008_G10,BMAG046,G10,ATTGGCTC,Ht13-79,Index13,AGTCAA,SKT2009-Plate719,2009_SKT_0215,1/14/09,2008,1,72,Adult,719,809,NA,CDFW-SKT,NA,2,3,no otolith data,Alisha Goodbla,yes
+Ht12-17_2008_A03,BMAG046,A03,ACATTGGC,Ht12-17,Index12,CTTGTA,SKT2009-Plate1,2009_SKT_0123,1/13/09,2008,1,59,Adult,704,809,NA,CDFW-SKT,NA,1,2,no otolith data,Alisha Goodbla,yes
+Ht13-60_2008_D08,BMAG046,D08,CTGAGCCA,Ht13-60,Index13,AGTCAA,SKT2009-Plate719,2009_SKT_0315,1/14/09,2008,1,65,Adult,719,809,NA,CDFW-SKT,NA,1,3,no otolith data,Alisha Goodbla,yes
+Ht13-78_2008_F10,BMAG046,F10,AAGAGATC,Ht13-78,Index13,AGTCAA,SKT2009-Plate719,2009_SKT_0296,1/14/09,2008,1,57,Adult,719,809,NA,CDFW-SKT,NA,1,3,no otolith data,Alisha Goodbla,yes
+Ht13-19_2008_C03,BMAG046,C03,AGTCACTA,Ht13-19,Index13,AGTCAA,SKT2009-Plate719,2009_SKT_0187,1/14/09,2008,1,61,Adult,719,809,NA,CDFW-SKT,NA,1,3,no otolith data,Alisha Goodbla,yes
+Ht13-25_2008_A04,BMAG046,A04,ACCACTGT,Ht13-25,Index13,AGTCAA,SKT2009-Plate719,2009_SKT_0208,1/14/09,2008,1,68,Adult,719,809,NA,CDFW-SKT,NA,2,3,no otolith data,Alisha Goodbla,yes
+Ht12-04_2008_D01,BMAG046,D01,CCGAAGTA,Ht12-04,Index12,CTTGTA,SKT2009-Plate1,2009_SKT_0519,1/15/09,2008,1,60,Adult,519,809,NA,CDFW-SKT,NA,2,2,no otolith data,Alisha Goodbla,yes
+Ht13-68_2008_D09,BMAG046,D09,CTGGCATA,Ht13-68,Index13,AGTCAA,SKT2009-Plate719,2009_SKT_0294,1/14/09,2008,1,69,Adult,719,809,NA,CDFW-SKT,NA,1,3,no otolith data,Alisha Goodbla,yes
+Ht13-48_2008_H06,BMAG046,H06,CGGATTGC,Ht13-48,Index13,AGTCAA,SKT2009-Plate719,2009_SKT_0253,1/14/09,2008,1,57,Adult,719,809,NA,CDFW-SKT,NA,2,3,no otolith data,Alisha Goodbla,yes
+Ht12-32_2008_H04,BMAG046,H04,CCTCTATC,Ht12-32,Index12,CTTGTA,SKT2009-Plate1,2009_SKT_0633,2/13/09,2008,2,65,Adult,609,809,NA,CDFW-SKT,NA,2,3,no otolith data,Alisha Goodbla,yes
+Ht13-45_2008_E06,BMAG046,E06,GGAGAACA,Ht13-45,Index13,AGTCAA,SKT2009-Plate719,2009_SKT_0213,1/14/09,2008,1,69,Adult,719,809,NA,CDFW-SKT,NA,1,3,no otolith data,Alisha Goodbla,yes
+Ht13-01_2008_A01,BMAG046,A01,ACAAGCTA,Ht13-01,Index13,AGTCAA,SKT2009-Plate719,2009_SKT_0291,1/14/09,2008,1,57,Adult,719,809,NA,CDFW-SKT,NA,2,3,no otolith data,Alisha Goodbla,yes
+Ht13-73_2008_A10,BMAG046,A10,AGTACAAG,Ht13-73,Index13,AGTCAA,SKT2009-Plate719,2009_SKT_0303,1/14/09,2008,1,59,Adult,719,809,NA,CDFW-SKT,NA,2,3,no otolith data,Alisha Goodbla,yes
+Ht14-18_2009_B03,BMAG046,B03,AACGCTTA,Ht14-18,Index14,AGTTCC,SKT2010-Plate1,2010_SKT_0092,1/27/10,2009,1,68,Adult,799,910,NA,CDFW-SKT,NA,1,4,NA,Alisha Goodbla,yes
+Ht14-89_2009_A12,BMAG046,A12,AGTGGTCA,Ht14-89,Index14,AGTTCC,SKT2010-Plate1,2010_SKT_0482,3/10/10,2009,3,61,Adult,713,910,NA,CDFW-SKT,NA,1,4,NA,Alisha Goodbla,yes
+Ht14-65_2009_A09,BMAG046,A09,AACGAACG,Ht14-65,Index14,AGTTCC,SKT2010-Plate1,2010_SKT_0436,3/10/10,2009,3,68,Adult,716,910,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht14-76_2009_D10,BMAG046,D10,GAATCTGA,Ht14-76,Index14,AGTTCC,SKT2010-Plate1,2010_SKT_0447,3/10/10,2009,3,58,Adult,719,910,NA,CDFW-SKT,NA,1,4,NA,Alisha Goodbla,yes
+Ht14-08_2009_H01,BMAG046,H01,CCATCCTC,Ht14-08,Index14,AGTTCC,SKT2010-Plate1,2010_SKT_0318,4/7/10,2009,4,72,Adult,704,910,NA,CDFW-SKT,NA,2,6,NA,Alisha Goodbla,yes
+Ht14-66_2009_B09,BMAG046,B09,ACGCTCGA,Ht14-66,Index14,AGTTCC,SKT2010-Plate1,2010_SKT_0437,3/10/10,2009,3,67,Adult,719,910,NA,CDFW-SKT,NA,1,5,NA,Alisha Goodbla,yes
+Ht14-67_2009_C09,BMAG046,C09,CACTTCGA,Ht14-67,Index14,AGTTCC,SKT2010-Plate1,2010_SKT_0438,3/10/10,2009,3,69,Adult,719,910,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht14-23_2009_G03,BMAG046,G03,ACAGATTC,Ht14-23,Index14,AGTTCC,SKT2010-Plate1,2010_SKT_0097,1/27/10,2009,1,62,Adult,799,910,NA,CDFW-SKT,NA,2,2,NA,Alisha Goodbla,yes
+Ht14-32_2009_H04,BMAG046,H04,CCTCTATC,Ht14-32,Index14,AGTTCC,SKT2010-Plate1,2010_SKT_0106,1/27/10,2009,1,68,Adult,799,910,NA,CDFW-SKT,NA,2,2,NA,Alisha Goodbla,yes
+Ht14-02_2009_B01,BMAG046,B01,AACAACCA,Ht14-02,Index14,AGTTCC,SKT2010-Plate1,2010_SKT_0311,1/28/10,2009,1,64,Adult,799,910,NA,CDFW-SKT,NA,1,4,NA,Alisha Goodbla,yes
+Ht14-78_2009_F10,BMAG046,F10,AAGAGATC,Ht14-78,Index14,AGTTCC,SKT2010-Plate1,2010_SKT_0449,3/10/10,2009,3,68,Adult,719,910,NA,CDFW-SKT,NA,2,2,NA,Alisha Goodbla,yes
+Ht14-20_2009_D03,BMAG046,D03,CCTCCTGA,Ht14-20,Index14,AGTTCC,SKT2010-Plate1,2010_SKT_0094,1/27/10,2009,1,63,Adult,799,910,NA,CDFW-SKT,NA,1,4,NA,Alisha Goodbla,yes
+Ht15-94_2009_F12,BMAG047,F12,AATCCGTC,Ht15-94,Index15,ATGTCA,SKT2010-Plate3,2010_SKT_0422,3/10/10,2009,3,77,Adult,707,910,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht15-71_2009_G09,BMAG047,G09,ACGACAAG,Ht15-71,Index15,ATGTCA,SKT2010-Plate2,2010_SKT_0070,1/14/10,2009,1,68,Adult,606,910,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht14-74_2009_B10,BMAG046,B10,ACGTATCA,Ht14-74,Index14,AGTTCC,SKT2010-Plate1,2010_SKT_0445,3/10/10,2009,3,71,Adult,719,910,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht14-30_2009_F04,BMAG046,F04,TGAAGAGA,Ht14-30,Index14,AGTTCC,SKT2010-Plate1,2010_SKT_0104,1/27/10,2009,1,75,Adult,799,910,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht15-49_2009_A07,BMAG047,A07,CAGATCTG,Ht15-49,Index15,ATGTCA,SKT2010-Plate2,2010_SKT_0048,1/14/10,2009,1,65,Adult,609,910,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht14-62_2009_F08,BMAG046,F08,TTCACGCA,Ht14-62,Index14,AGTTCC,SKT2010-Plate1,2010_SKT_0350,4/7/10,2009,4,72,Adult,719,910,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht14-19_2009_C03,BMAG046,C03,AGTCACTA,Ht14-19,Index14,AGTTCC,SKT2010-Plate1,2010_SKT_0093,1/27/10,2009,1,61,Adult,799,910,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht14-60_2009_D08,BMAG046,D08,CTGAGCCA,Ht14-60,Index14,AGTTCC,SKT2010-Plate1,2010_SKT_0348,4/7/10,2009,4,62,Adult,719,910,NA,CDFW-SKT,NA,1,6,NA,Alisha Goodbla,yes
+Ht14-64_2009_H08,BMAG046,H08,GAACAGGC,Ht14-64,Index14,AGTTCC,SKT2010-Plate1,2010_SKT_0434,3/10/10,2009,3,66,Adult,716,910,NA,CDFW-SKT,NA,2,6,NA,Alisha Goodbla,yes
+Ht15-89_2009_A12,BMAG047,A12,AGTGGTCA,Ht15-89,Index15,ATGTCA,SKT2010-Plate3,2010_SKT_0417,3/10/10,2009,3,60,Adult,704,910,NA,CDFW-SKT,NA,1,4,NA,Alisha Goodbla,yes
+Ht14-13_2009_E02,BMAG046,E02,GCCACATA,Ht14-13,Index14,AGTTCC,SKT2010-Plate1,2010_SKT_0323,4/7/10,2009,4,71,Adult,704,910,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht15-76_2009_D10,BMAG047,D10,GAATCTGA,Ht15-76,Index15,ATGTCA,SKT2010-Plate2,2010_SKT_0075,1/14/10,2009,1,67,Adult,606,910,NA,CDFW-SKT,NA,1,4,NA,Alisha Goodbla,yes
+Ht15-93_2009_E12,BMAG047,E12,TAGGATGA,Ht15-93,Index15,ATGTCA,SKT2010-Plate3,2010_SKT_0421,3/10/10,2009,3,69,Adult,706,910,NA,CDFW-SKT,NA,1,4,NA,Alisha Goodbla,yes
+Ht14-25_2009_A04,BMAG046,A04,ACCACTGT,Ht14-25,Index14,AGTTCC,SKT2010-Plate1,2010_SKT_0099,1/27/10,2009,1,64,Adult,799,910,NA,CDFW-SKT,NA,1,4,NA,Alisha Goodbla,yes
+Ht14-81_2009_A11,BMAG046,A11,CATCAAGT,Ht14-81,Index14,AGTTCC,SKT2010-Plate1,2010_SKT_0452,3/10/10,2009,3,60,Adult,719,910,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht14-71_2009_G09,BMAG046,G09,ACGACAAG,Ht14-71,Index14,AGTTCC,SKT2010-Plate1,2010_SKT_0442,3/10/10,2009,3,65,Adult,719,910,NA,CDFW-SKT,NA,1,5,NA,Alisha Goodbla,yes
+Ht14-36_2009_D05,BMAG046,D05,CGACTGGA,Ht14-36,Index14,AGTTCC,SKT2010-Plate1,2010_SKT_0361,2/10/10,2009,2,69,Adult,719,910,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht15-09_2009_A02,BMAG047,A02,AAACATCG,Ht15-09,Index15,ATGTCA,SKT2010-Plate2,2010_SKT_0003,1/13/10,2009,1,62,Adult,704,910,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht14-24_2009_H03,BMAG046,H03,AGTCAAGC,Ht14-24,Index14,AGTTCC,SKT2010-Plate1,2010_SKT_0098,1/27/10,2009,1,65,Adult,799,910,NA,CDFW-SKT,NA,1,4,NA,Alisha Goodbla,yes
+Ht15-25_2009_A04,BMAG047,A04,ACCACTGT,Ht15-25,Index15,ATGTCA,SKT2010-Plate2,2010_SKT_0024,1/13/10,2009,1,69,Adult,715,910,NA,CDFW-SKT,NA,1,3,NA,Alisha Goodbla,yes
+Ht15-84_2009_D11,BMAG047,D11,GACTAGTA,Ht15-84,Index15,ATGTCA,SKT2010-Plate2,2010_SKT_0083,1/14/10,2009,1,65,Adult,606,910,NA,CDFW-SKT,NA,1,4,NA,Alisha Goodbla,yes
+Ht14-77_2009_E10,BMAG046,E10,GTCTGTCA,Ht14-77,Index14,AGTTCC,SKT2010-Plate1,2010_SKT_0448,3/10/10,2009,3,70,Adult,719,910,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht14-80_2009_H10,BMAG046,H10,GAGTTAGC,Ht14-80,Index14,AGTTCC,SKT2010-Plate1,2010_SKT_0451,3/10/10,2009,3,73,Adult,719,910,NA,CDFW-SKT,NA,2,6,NA,Alisha Goodbla,yes
+Ht14-90_2009_B12,BMAG046,B12,AGAGTCAA,Ht14-90,Index14,AGTTCC,SKT2010-Plate1,2010_SKT_0483,3/11/10,2009,3,65,Adult,606,910,NA,CDFW-SKT,NA,1,4,NA,Alisha Goodbla,yes
+Ht14-28_2009_D04,BMAG046,D04,CGAACTTA,Ht14-28,Index14,AGTTCC,SKT2010-Plate1,2010_SKT_0102,1/27/10,2009,1,62,Adult,799,910,NA,CDFW-SKT,NA,1,4,NA,Alisha Goodbla,yes
+Ht15-10_2009_B02,BMAG047,B02,AACCGAGA,Ht15-10,Index15,ATGTCA,SKT2010-Plate2,2010_SKT_0004,1/13/10,2009,1,64,Adult,704,910,NA,CDFW-SKT,NA,1,3,NA,Alisha Goodbla,yes
+Ht14-21_2009_E03,BMAG046,E03,GCGAGTAA,Ht14-21,Index14,AGTTCC,SKT2010-Plate1,2010_SKT_0095,1/27/10,2009,1,64,Adult,799,910,NA,CDFW-SKT,NA,1,4,NA,Alisha Goodbla,yes
+Ht15-74_2009_B10,BMAG047,B10,ACGTATCA,Ht15-74,Index15,ATGTCA,SKT2010-Plate2,2010_SKT_0073,1/14/10,2009,1,67,Adult,606,910,NA,CDFW-SKT,NA,1,3,NA,Alisha Goodbla,yes
+Ht15-56_2009_H07,BMAG047,H07,CTAAGGTC,Ht15-56,Index15,ATGTCA,SKT2010-Plate2,2010_SKT_0055,1/14/10,2009,1,65,Adult,606,910,NA,CDFW-SKT,NA,1,4,NA,Alisha Goodbla,yes
+Ht14-07_2009_G01,BMAG046,G01,AATGTTGC,Ht14-07,Index14,AGTTCC,SKT2010-Plate1,2010_SKT_0317,4/7/10,2009,4,71,Adult,704,910,NA,CDFW-SKT,NA,2,2,NA,Alisha Goodbla,yes
+Ht14-27_2009_C04,BMAG046,C04,ATCCTGTA,Ht14-27,Index14,AGTTCC,SKT2010-Plate1,2010_SKT_0101,1/27/10,2009,1,64,Adult,799,910,NA,CDFW-SKT,NA,1,4,NA,Alisha Goodbla,yes
+Ht15-87_2009_G11,BMAG047,G11,CAAGGAGC,Ht15-87,Index15,ATGTCA,SKT2010-Plate2,2010_SKT_0086,1/14/10,2009,1,65,Adult,606,910,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht14-61_2009_E08,BMAG046,E08,GTACGCAA,Ht14-61,Index14,AGTTCC,SKT2010-Plate1,2010_SKT_0349,4/7/10,2009,4,66,Adult,719,910,NA,CDFW-SKT,NA,0,0,NA,Alisha Goodbla,yes
+Ht14-11_2009_C02,BMAG046,C02,AGCAGGAA,Ht14-11,Index14,AGTTCC,SKT2010-Plate1,2010_SKT_0321,4/7/10,2009,4,70,Adult,704,910,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht14-91_2009_C12,BMAG046,C12,CCAGTTCA,Ht14-91,Index14,AGTTCC,SKT2010-Plate1,2010_SKT_0484,3/11/10,2009,3,71,Adult,606,910,NA,CDFW-SKT,NA,2,2,NA,Alisha Goodbla,yes
+Ht15-73_2009_A10,BMAG047,A10,AGTACAAG,Ht15-73,Index15,ATGTCA,SKT2010-Plate2,2010_SKT_0072,1/14/10,2009,1,67,Adult,606,910,NA,CDFW-SKT,NA,1,4,NA,Alisha Goodbla,yes
+Ht14-34_2009_B05,BMAG046,B05,AAGGTACA,Ht14-34,Index14,AGTTCC,SKT2010-Plate1,2010_SKT_0108,1/27/10,2009,1,64,Adult,799,910,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht14-04_2009_D01,BMAG046,D01,CCGAAGTA,Ht14-04,Index14,AGTTCC,SKT2010-Plate1,2010_SKT_0313,1/29/10,2009,1,62,Adult,799,910,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht01-81_2010_A11,BMAG043,A11,CATCAAGT,Ht01-81,Index01,ATCACG,Tube-FCCL BY2010,RA19_2,,2010,1,NA,,NA,1011,NA,UCD-FCCL,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-79_2010_G10,BMAG043,G10,ATTGGCTC,Ht01-79,Index01,ATCACG,Tube-FCCL BY2010,RA21_2,,2010,1,NA,,NA,1011,NA,UCD-FCCL,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht03-06_2010_F01,BMAG044,F01,TATCAGCA,Ht03-06,Index03,TTAGGC,Tube-FCCL BY2010,RA31_2,,2010,1,NA,,NA,1011,NA,UCD-FCCL,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht03-10_2010_B02,BMAG044,B02,AACCGAGA,Ht03-10,Index03,TTAGGC,Tube-FCCL BY2010,RA54_2,,2010,1,NA,,NA,1011,NA,UCD-FCCL,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-93_2010_E12,BMAG043,E12,TAGGATGA,Ht01-93,Index01,ATCACG,Tube-FCCL BY2010,RA27_1,,2010,1,NA,,NA,1011,NA,UCD-FCCL,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht03-09_2010_A02,BMAG044,A02,AAACATCG,Ht03-09,Index03,TTAGGC,Tube-FCCL BY2010,RA55_2,,2010,1,NA,,NA,1011,NA,UCD-FCCL,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-85_2010_E11,BMAG043,E11,GTGTTCTA,Ht01-85,Index01,ATCACG,Tube-FCCL BY2010,RA14_1,,2010,1,NA,,NA,1011,NA,UCD-FCCL,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-92_2010_D12,BMAG043,D12,GAGCTGAA,Ht01-92,Index01,ATCACG,Tube-FCCL BY2010,RA25_1,,2010,1,NA,,NA,1011,NA,UCD-FCCL,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht03-07_2010_G01,BMAG044,G01,AATGTTGC,Ht03-07,Index03,TTAGGC,Tube-FCCL BY2010,RA42_2,,2010,1,NA,,NA,1011,NA,UCD-FCCL,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-78_2010_F10,BMAG043,F10,AAGAGATC,Ht01-78,Index01,ATCACG,Tube-FCCL BY2010,RA13_1,,2010,1,NA,,NA,1011,NA,UCD-FCCL,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-87_2010_G11,BMAG043,G11,CAAGGAGC,Ht01-87,Index01,ATCACG,Tube-FCCL BY2010,RA22_2,,2010,1,NA,,NA,1011,NA,UCD-FCCL,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-86_2010_F11,BMAG043,F11,AAGGACAC,Ht01-86,Index01,ATCACG,Tube-FCCL BY2010,RA23_2,,2010,1,NA,,NA,1011,NA,UCD-FCCL,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-80_2010_H10,BMAG043,H10,GAGTTAGC,Ht01-80,Index01,ATCACG,Tube-FCCL BY2010,RA20_2,,2010,1,NA,,NA,1011,NA,UCD-FCCL,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-89_2010_A12,BMAG043,A12,AGTGGTCA,Ht01-89,Index01,ATCACG,Tube-FCCL BY2010,RA37_2,,2010,1,NA,,NA,1011,NA,UCD-FCCL,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-88_2010_H11,BMAG043,H11,GATGAATC,Ht01-88,Index01,ATCACG,Tube-FCCL BY2010,RA33_2,,2010,1,NA,,NA,1011,NA,UCD-FCCL,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-77_2010_E10,BMAG043,E10,GTCTGTCA,Ht01-77,Index01,ATCACG,Tube-FCCL BY2010,RA08_1,,2010,1,NA,,NA,1011,NA,UCD-FCCL,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-90_2010_B12,BMAG043,B12,AGAGTCAA,Ht01-90,Index01,ATCACG,Tube-FCCL BY2010,RA38_2,,2010,1,NA,,NA,1011,NA,UCD-FCCL,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-96_2010_H12,BMAG043,H12,GCCAAGAC,Ht01-96,Index01,ATCACG,Tube-FCCL BY2010,RA49_1,,2010,1,NA,,NA,1011,NA,UCD-FCCL,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht03-11_2010_C02,BMAG044,C02,AGCAGGAA,Ht03-11,Index03,TTAGGC,Tube-FCCL BY2010,RA53_2,,2010,1,NA,,NA,1011,NA,UCD-FCCL,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht03-03_2010_C01,BMAG044,C01,AGATCGCA,Ht03-03,Index03,TTAGGC,Tube-FCCL BY2010,RA04_1,,2010,1,NA,,NA,1011,NA,UCD-FCCL,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht03-08_2010_H01,BMAG044,H01,CCATCCTC,Ht03-08,Index03,TTAGGC,Tube-FCCL BY2010,RA44_2,,2010,1,NA,,NA,1011,NA,UCD-FCCL,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht03-15_2010_G02,BMAG044,G02,ACACTGAC,Ht03-15,Index03,TTAGGC,Tube-FCCL BY2010,RA63_2,,2010,1,NA,,NA,1011,NA,UCD-FCCL,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht03-02_2010_B01,BMAG044,B01,AACAACCA,Ht03-02,Index03,TTAGGC,Tube-FCCL BY2010,RA00_1,,2010,1,NA,,NA,1011,NA,UCD-FCCL,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht03-01_2010_A01,BMAG044,A01,ACAAGCTA,Ht03-01,Index03,TTAGGC,Tube-FCCL BY2010,RA12_2,,2010,1,NA,,NA,1011,NA,UCD-FCCL,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht03-04_2010_D01,BMAG044,D01,CCGAAGTA,Ht03-04,Index03,TTAGGC,Tube-FCCL BY2010,RA28_1,,2010,1,NA,,NA,1011,NA,UCD-FCCL,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-84_2010_D11,BMAG043,D11,GACTAGTA,Ht01-84,Index01,ATCACG,Tube-FCCL BY2010,RA15_1,,2010,1,NA,,NA,1011,NA,UCD-FCCL,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-83_2010_C11,BMAG043,C11,CATACCAA,Ht01-83,Index01,ATCACG,Tube-FCCL BY2010,RA16_1,,2010,1,NA,,NA,1011,NA,UCD-FCCL,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-95_2010_G12,BMAG043,G12,CACCTTAC,Ht01-95,Index01,ATCACG,Tube-FCCL BY2010,RA45_2,,2010,1,NA,,NA,1011,NA,UCD-FCCL,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht01-82_2010_B11,BMAG043,B11,ACTATGCA,Ht01-82,Index01,ATCACG,Tube-FCCL BY2010,RA17_1,,2010,1,NA,,NA,1011,NA,UCD-FCCL,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht03-12_2010_D02,BMAG044,D02,CCGTGAGA,Ht03-12,Index03,TTAGGC,Tube-FCCL BY2010,RA52_2,,2010,1,NA,,NA,1011,NA,UCD-FCCL,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht03-13_2010_E02,BMAG044,E02,GCCACATA,Ht03-13,Index03,TTAGGC,Tube-FCCL BY2010,RA51_2,,2010,1,NA,,NA,1011,NA,UCD-FCCL,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht03-14_2010_F02,BMAG044,F02,TCCGTCTA,Ht03-14,Index03,TTAGGC,Tube-FCCL BY2010,RA48_1,,2010,1,NA,,NA,1011,NA,UCD-FCCL,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht16-71_2011_G09,BMAG047,G09,ACGACAAG,Ht16-71,Index16,CCGTCC,SFC_09_18,2011-TNS-1066,8/25/11,2011,8,47,,602,1112,NA,CDFW-STN,NA,NA,NA,cohort assignment by otolith,Alisha Goodbla,yes
+Ht16-18_2011_B03,BMAG047,B03,AACGCTTA,Ht16-18,Index16,CCGTCC,SFC_09_18,2011-TNS-1005,8/24/11,2011,8,54,,501,1112,NA,CDFW-STN,NA,NA,NA,cohort assignment by otolith,Alisha Goodbla,yes
+Ht18-62_2011_F08,BMAG047,F08,TTCACGCA,Ht18-62,Index18,GTCCGC,2012-SFC_09_07,2012-SKT-5066,5/2/12,2011,5,65,NA,707,1112,NA,CDFW-SKT,NA,2,6,NA,Alisha Goodbla,yes
+Ht16-76_2011_D10,BMAG047,D10,GAATCTGA,Ht16-76,Index16,CCGTCC,SFC_09_18,2011-FMWT-1295,9/13/11,2011,9,61,Sub-Adult,507,1112,NA,CDFW-FMWT,NA,NA,NA,cohort assignment by otolith,Alisha Goodbla,yes
+Ht16-84_2011_D11,BMAG047,D11,GACTAGTA,Ht16-84,Index16,CCGTCC,SFC_09_18,2011-FMWT-2397,10/7/11,2011,10,47,Sub-Adult,507,1112,NA,CDFW-FMWT,NA,NA,NA,cohort assignment by otolith,Alisha Goodbla,yes
+Ht18-30_2011_F04,BMAG047,F04,TGAAGAGA,Ht18-30,Index18,GTCCGC,2012-SFC_09_07,2012-SKT-5062,5/2/12,2011,5,68,NA,704,1112,NA,CDFW-SKT,NA,2,6,NA,Alisha Goodbla,yes
+Ht18-81_2011_A11,BMAG047,A11,CATCAAGT,Ht18-81,Index18,GTCCGC,2012-SFC_09_07,2012-SKT-4986,4/5/12,2011,4,64,NA,606,1112,NA,CDFW-SKT,NA,0,0,NA,Alisha Goodbla,yes
+Ht18-80_2011_H10,BMAG047,H10,GAGTTAGC,Ht18-80,Index18,GTCCGC,2012-SFC_09_07,2012-SKT-5096,5/2/12,2011,5,69,NA,716,1112,NA,CDFW-SKT,NA,2,6,NA,Alisha Goodbla,yes
+Ht18-64_2011_H08,BMAG047,H08,GAACAGGC,Ht18-64,Index18,GTCCGC,2012-SFC_09_07,2012-SKT-5094,5/2/12,2011,5,69,NA,716,1112,NA,CDFW-SKT,NA,2,6,NA,Alisha Goodbla,yes
+Ht16-64_2011_H08,BMAG047,H08,GAACAGGC,Ht16-64,Index16,CCGTCC,SFC_09_18,2011-TNS-1085,8/25/11,2011,8,59,,418,1112,NA,CDFW-STN,NA,NA,NA,cohort assignment by otolith,Alisha Goodbla,yes
+Ht18-20_2011_D03,BMAG047,D03,CCTCCTGA,Ht18-20,Index18,GTCCGC,2012-SFC_09_07,2012-SKT-5036,4/5/12,2011,4,75,NA,610,1112,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht16-94_2011_F12,BMAG047,F12,AATCCGTC,Ht16-94,Index16,CCGTCC,SFC_09_18,2011-FMWT-2788,11/9/11,2011,11,55,Sub-Adult,412,1112,NA,CDFW-FMWT,NA,NA,NA,cohort assignment by otolith,Alisha Goodbla,yes
+Ht18-57_2011_A08,BMAG047,A08,ATGCCTAA,Ht18-57,Index18,GTCCGC,2012-SFC_09_07,2012-SKT-4981,4/5/12,2011,4,60,NA,602,1112,NA,CDFW-SKT,NA,1,3,NA,Alisha Goodbla,yes
+Ht18-94_2011_F12,BMAG047,F12,AATCCGTC,Ht18-94,Index18,GTCCGC,2012-SFC_09_07,2012-SKT-5070,5/2/12,2011,5,80,NA,715,1112,NA,CDFW-SKT,NA,2,6,NA,Alisha Goodbla,yes
+Ht18-84_2011_D11,BMAG047,D11,GACTAGTA,Ht18-84,Index18,GTCCGC,2012-SFC_09_07,2012-SKT-5045,5/1/12,2011,5,69,NA,513,1112,NA,CDFW-SKT,NA,2,6,NA,Alisha Goodbla,yes
+Ht18-22_2011_F03,BMAG047,F03,TCTTCACA,Ht18-22,Index18,GTCCGC,2012-SFC_09_07,2012-SKT-5061,5/2/12,2011,5,69,NA,704,1112,NA,CDFW-SKT,NA,2,2,NA,Alisha Goodbla,yes
+Ht16-56_2011_H07,BMAG047,H07,CTAAGGTC,Ht16-56,Index16,CCGTCC,SFC_09_18,2011-FMWT-1121,9/8/11,2011,9,54,Sub-Adult,503,1112,NA,CDFW-FMWT,NA,NA,NA,cohort assignment by otolith,Alisha Goodbla,yes
+Ht16-70_2011_F09,BMAG047,F09,ACACGAGA,Ht16-70,Index16,CCGTCC,SFC_09_18,2011-TNS-1390,8/23/11,2011,8,40,,716,1112,NA,CDFW-STN,NA,NA,NA,cohort assignment by otolith,Alisha Goodbla,yes
+Ht18-91_2011_C12,BMAG047,C12,CCAGTTCA,Ht18-91,Index18,GTCCGC,2012-SFC_09_07,2012-SKT-5031,4/5/12,2011,4,70,NA,609,1112,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht18-79_2011_G10,BMAG047,G10,ATTGGCTC,Ht18-79,Index18,GTCCGC,2012-SFC_09_07,2012-SKT-5081,5/2/12,2011,5,72,NA,716,1112,NA,CDFW-SKT,NA,1,3,NA,Alisha Goodbla,yes
+Ht16-74_2011_B10,BMAG047,B10,ACGTATCA,Ht16-74,Index16,CCGTCC,SFC_09_18,2011-FMWT-1123,9/8/11,2011,9,39,Sub-Adult,503,1112,NA,CDFW-FMWT,NA,NA,NA,cohort assignment by otolith,Alisha Goodbla,yes
+Ht18-16_2011_H02,BMAG047,H02,CCGACAAC,Ht18-16,Index18,GTCCGC,2012-SFC_09_07,2012-SKT-5086,5/2/12,2011,5,69,NA,716,1112,NA,CDFW-SKT,NA,2,6,NA,Alisha Goodbla,yes
+Ht16-87_2011_G11,BMAG047,G11,CAAGGAGC,Ht16-87,Index16,CCGTCC,SFC_09_18,2011-FMWT-2846,11/15/11,2011,11,56,Sub-Adult,704,1112,NA,CDFW-FMWT,NA,NA,NA,cohort assignment by otolith,Alisha Goodbla,yes
+Ht18-46_2011_F06,BMAG047,F06,TGGCTTCA,Ht18-46,Index18,GTCCGC,2012-SFC_09_07,2012-SKT-5064,5/2/12,2011,5,69,NA,707,1112,NA,CDFW-SKT,NA,2,6,NA,Alisha Goodbla,yes
+Ht18-67_2011_C09,BMAG047,C09,CACTTCGA,Ht18-67,Index18,GTCCGC,2012-SFC_09_07,2012-SKT-5027,4/5/12,2011,4,66,NA,609,1112,NA,CDFW-SKT,NA,2,6,NA,Alisha Goodbla,yes
+Ht18-76_2011_D10,BMAG047,D10,GAATCTGA,Ht18-76,Index18,GTCCGC,2012-SFC_09_07,2012-SKT-5044,5/1/12,2011,5,70,NA,513,1112,NA,CDFW-SKT,NA,2,6,NA,Alisha Goodbla,yes
+Ht18-78_2011_F10,BMAG047,F10,AAGAGATC,Ht18-78,Index18,GTCCGC,2012-SFC_09_07,2012-SKT-5068,5/2/12,2011,5,66,NA,713,1112,NA,CDFW-SKT,NA,2,4,NA,Alisha Goodbla,yes
+Ht16-75_2011_C10,BMAG047,C10,CAGCGTTA,Ht16-75,Index16,CCGTCC,SFC_09_18,2011-FMWT-1258,9/13/11,2011,9,42,Sub-Adult,519,1112,NA,CDFW-FMWT,NA,NA,NA,cohort assignment by otolith,Alisha Goodbla,yes
+Ht16-67_2011_C09,BMAG047,C09,CACTTCGA,Ht16-67,Index16,CCGTCC,SFC_09_18,2011-FMWT-1266,9/13/11,2011,9,46,Sub-Adult,519,1112,NA,CDFW-FMWT,NA,NA,NA,cohort assignment by otolith,Alisha Goodbla,yes
+Ht18-03_2011_C01,BMAG047,C01,AGATCGCA,Ht18-03,Index18,GTCCGC,2012-SFC_09_07,2012-SKT-5007,4/5/12,2011,4,64,NA,609,1112,NA,CDFW-SKT,NA,1,3,NA,Alisha Goodbla,yes
+Ht18-50_2011_B07,BMAG047,B07,ACAGCAGA,Ht18-50,Index18,GTCCGC,2012-SFC_09_07,2012-SKT-4999,4/5/12,2011,4,64,NA,609,1112,NA,CDFW-SKT,NA,0,0,NA,Alisha Goodbla,yes
+Ht18-56_2011_H07,BMAG047,H07,CTAAGGTC,Ht18-56,Index18,GTCCGC,2012-SFC_09_07,2012-SKT-5091,5/2/12,2011,5,65,NA,716,1112,NA,CDFW-SKT,NA,2,6,NA,Alisha Goodbla,yes
+Ht18-42_2011_B06,BMAG047,B06,ACACAGAA,Ht18-42,Index18,GTCCGC,2012-SFC_09_07,2012-SKT-4998,4/5/12,2011,4,70,NA,609,1112,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht16-14_2011_F02,BMAG047,F02,TCCGTCTA,Ht16-14,Index16,CCGTCC,SFC_09_18,2011-FMWT-1260,9/13/11,2011,9,46,Sub-Adult,519,1112,NA,CDFW-FMWT,NA,NA,NA,cohort assignment by otolith,Alisha Goodbla,yes
+Ht16-93_2011_E12,BMAG047,E12,TAGGATGA,Ht16-93,Index16,CCGTCC,SFC_09_18,2011-FMWT-2401,10/7/11,2011,10,53,Sub-Adult,507,1112,NA,CDFW-FMWT,NA,NA,NA,cohort assignment by otolith,Alisha Goodbla,yes
+Ht16-09_2011_A02,BMAG047,A02,AAACATCG,Ht16-09,Index16,CCGTCC,SFC_09_18,2011-TNS-1004,8/24/11,2011,8,47,,501,1112,NA,CDFW-STN,NA,NA,NA,cohort assignment by otolith,Alisha Goodbla,yes
+Ht18-74_2011_B10,BMAG047,B10,ACGTATCA,Ht18-74,Index18,GTCCGC,2012-SFC_09_07,2012-SKT-5003,4/5/12,2011,4,74,NA,609,1112,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht18-60_2011_D08,BMAG047,D08,CTGAGCCA,Ht18-60,Index18,GTCCGC,2012-SFC_09_07,2012-SKT-5042,5/1/12,2011,5,74,NA,513,1112,NA,CDFW-SKT,NA,2,6,NA,Alisha Goodbla,yes
+Ht18-66_2011_B09,BMAG047,B09,ACGCTCGA,Ht18-66,Index18,GTCCGC,2012-SFC_09_07,2012-SKT-5001,4/5/12,2011,4,59,NA,609,1112,NA,CDFW-SKT,NA,0,0,NA,Alisha Goodbla,yes
+Ht18-34_2011_B05,BMAG047,B05,AAGGTACA,Ht18-34,Index18,GTCCGC,2012-SFC_09_07,2012-SKT-4997,4/5/12,2011,4,65,NA,609,1112,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht16-85_2011_E11,BMAG047,E11,GTGTTCTA,Ht16-85,Index16,CCGTCC,SFC_09_18,2011-FMWT-2787,11/9/11,2011,11,62,Sub-Adult,412,1112,NA,CDFW-FMWT,NA,NA,NA,cohort assignment by otolith,Alisha Goodbla,yes
+Ht18-88_2011_H11,BMAG047,H11,GATGAATC,Ht18-88,Index18,GTCCGC,2012-SFC_09_07,2012-SKT-5097,5/2/12,2011,5,63,NA,716,1112,NA,CDFW-SKT,NA,1,4,NA,Alisha Goodbla,yes
+Ht18-05_2011_E01,BMAG047,E01,GATAGACA,Ht18-05,Index18,GTCCGC,2012-SFC_09_07,2012-SKT-5047,5/1/12,2011,5,69,NA,519,1112,NA,CDFW-SKT,NA,2,6,NA,Alisha Goodbla,yes
+Ht18-41_2011_A06,BMAG047,A06,CGCTGATC,Ht18-41,Index18,GTCCGC,2012-SFC_09_07,2012-SKT-4976,4/5/12,2011,4,62,NA,602,1112,NA,CDFW-SKT,NA,1,3,NA,Alisha Goodbla,yes
+Ht16-53_2011_E07,BMAG047,E07,GGTGCGAA,Ht16-53,Index16,CCGTCC,SFC_09_18,2011-TNS-1387,8/23/11,2011,8,44,,716,1112,NA,CDFW-STN,NA,NA,NA,cohort assignment by otolith,Alisha Goodbla,yes
+Ht16-66_2011_B09,BMAG047,B09,ACGCTCGA,Ht16-66,Index16,CCGTCC,SFC_09_18,2011-FMWT-1256,9/13/11,2011,9,44,Sub-Adult,518,1112,NA,CDFW-FMWT,NA,NA,NA,cohort assignment by otolith,Alisha Goodbla,yes
+Ht18-29_2011_E04,BMAG047,E04,GCTAACGA,Ht18-29,Index18,GTCCGC,2012-SFC_09_07,2012-SKT-5050,5/1/12,2011,5,72,NA,519,1112,NA,CDFW-SKT,NA,2,6,NA,Alisha Goodbla,yes
+Ht16-73_2011_A10,BMAG047,A10,AGTACAAG,Ht16-73,Index16,CCGTCC,SFC_09_18,2011-TNS-1086,8/25/11,2011,8,43,,418,1112,NA,CDFW-STN,NA,NA,NA,cohort assignment by otolith,Alisha Goodbla,yes
+Ht16-79_2011_G10,BMAG047,G10,ATTGGCTC,Ht16-79,Index16,CCGTCC,SFC_09_18,2011-TNS-1391,8/23/11,2011,8,39,,716,1112,NA,CDFW-STN,NA,NA,NA,cohort assignment by otolith,Alisha Goodbla,yes
+Ht18-75_2011_C10,BMAG047,C10,CAGCGTTA,Ht18-75,Index18,GTCCGC,2012-SFC_09_07,2012-SKT-5028,4/5/12,2011,4,70,NA,609,1112,NA,CDFW-SKT,NA,1,4,NA,Alisha Goodbla,yes
+Ht20-09_2012_A02,BMAG048,A02,AAACATCG,Ht20-09,Index20,GTGGCC,SFC_09_10,most likely FMWT 2012,12/11/12,2012,12,63,Sub-Adult,797,1213,NA,CDFW-FMWT,NA,NA,NA,no otolith data,Alisha Goodbla,yes
+Ht20-81_2012_A11,BMAG048,A11,CATCAAGT,Ht20-81,Index20,GTGGCC,SFC_09_10,2013-SKT-6208,1/9/13,2012,1,69,Adult,707,1213,NA,CDFW-SKT,NA,1,3,NA,Alisha Goodbla,yes
+Ht20-57_2012_A08,BMAG048,A08,ATGCCTAA,Ht20-57,Index20,GTGGCC,SFC_09_10,2013-SKT-6205,2/7/13,2012,2,70,Adult,606,1213,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht20-43_2012_C06,BMAG048,C06,CAACCACA,Ht20-43,Index20,GTGGCC,SFC_09_10,2013-SKT-6227,1/9/13,2012,1,65,Adult,719,1213,NA,CDFW-SKT,NA,1,3,NA,Alisha Goodbla,yes
+Ht20-23_2012_G03,BMAG048,G03,ACAGATTC,Ht20-23,Index20,GTGGCC,SFC_09_10,2013-SKT-6274,1/10/13,2012,1,74,Adult,606,1213,NA,CDFW-SKT,NA,2,2,NA,Alisha Goodbla,yes
+Ht20-10_2012_B02,BMAG048,B02,AACCGAGA,Ht20-10,Index20,GTGGCC,SFC_09_10,2013-SKT-6211,1/9/13,2012,1,65,Adult,719,1213,NA,CDFW-SKT,NA,1,3,NA,Alisha Goodbla,yes
+Ht19-64_2012_H08,BMAG047,H08,GAACAGGC,Ht19-64,Index19,GTGAAA,SFC_09_11,2013-SKT-6437,3/6/13,2012,3,68,Adult,719,1213,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht19-46_2012_F06,BMAG047,F06,TGGCTTCA,Ht19-46,Index19,GTGAAA,SFC_09_11,2013-SKT-6411,3/7/13,2012,3,83,Adult,610,1213,NA,CDFW-SKT,NA,2,6,NA,Alisha Goodbla,yes
+Ht19-56_2012_H07,BMAG047,H07,CTAAGGTC,Ht19-56,Index19,GTGAAA,SFC_09_11,2013-SKT-6436,3/6/13,2012,3,69,Adult,719,1213,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht20-19_2012_C03,BMAG048,C03,AGTCACTA,Ht20-19,Index20,GTGGCC,SFC_09_10,2013-SKT-6224,1/9/13,2012,1,65,Adult,719,1213,NA,CDFW-SKT,NA,2,2,NA,Alisha Goodbla,yes
+Ht20-01_2012_A01,BMAG048,A01,ACAAGCTA,Ht20-01,Index20,GTGGCC,SFC_09_10,2012-FMWT-6132,12/11/12,2012,12,57,Sub-Adult,703,1213,NA,CDFW-FMWT,NA,NA,NA,cohort assignment by otolith,Alisha Goodbla,yes
+Ht20-37_2012_E05,BMAG048,E05,GCTCGGTA,Ht20-37,Index20,GTGGCC,SFC_09_10,2013-SKT-6250,1/9/13,2012,1,66,Adult,719,1213,NA,CDFW-SKT,NA,1,3,NA,Alisha Goodbla,yes
+Ht19-10_2012_B02,BMAG047,B02,AACCGAGA,Ht19-10,Index19,GTGAAA,SFC_09_11,2013-SKT-6329,2/6/13,2012,2,70,Adult,719,1213,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht20-22_2012_F03,BMAG048,F03,TCTTCACA,Ht20-22,Index20,GTGGCC,SFC_09_10,2013-SKT-6260,1/10/13,2012,1,74,Adult,609,1213,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht19-03_2012_C01,BMAG047,C01,AGATCGCA,Ht19-03,Index19,GTGAAA,SFC_09_11,2013-SKT-6351,2/6/13,2012,2,64,Adult,719,1213,NA,CDFW-SKT,NA,1,3,NA,Alisha Goodbla,yes
+Ht20-56_2012_H07,BMAG048,H07,CTAAGGTC,Ht20-56,Index20,GTGGCC,SFC_09_10,2013-SKT-6294,2/6/13,2012,2,64,Adult,719,1213,NA,CDFW-SKT,NA,1,3,NA,Alisha Goodbla,yes
+Ht19-09_2012_A02,BMAG047,A02,AAACATCG,Ht19-09,Index19,GTGAAA,SFC_09_11,2013-SKT-6308,2/6/13,2012,2,55,Adult,719,1213,NA,CDFW-SKT,NA,1,3,NA,Alisha Goodbla,yes
+Ht20-79_2012_G10,BMAG048,G10,ATTGGCTC,Ht20-79,Index20,GTGGCC,SFC_09_10,2013-SKT-6281,1/10/13,2012,1,69,Adult,606,1213,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht20-76_2012_D10,BMAG048,D10,GAATCTGA,Ht20-76,Index20,GTGGCC,SFC_09_10,2013-SKT-6243,1/9/13,2012,1,64,Adult,719,1213,NA,CDFW-SKT,NA,1,2,NA,Alisha Goodbla,yes
+Ht19-36_2012_D05,BMAG047,D05,CGACTGGA,Ht19-36,Index19,GTGAAA,SFC_09_11,2013-SKT-6377,2/7/13,2012,2,70,Adult,609,1213,NA,CDFW-SKT,NA,1,2,NA,Alisha Goodbla,yes
+Ht20-60_2012_D08,BMAG048,D08,CTGAGCCA,Ht20-60,Index20,GTGGCC,SFC_09_10,2013-SKT-6241,1/9/13,2012,1,65,Adult,719,1213,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht19-26_2012_B04,BMAG047,B04,AAGACGGA,Ht19-26,Index19,GTGAAA,SFC_09_11,2013-SKT-6331,2/6/13,2012,2,68,Adult,719,1213,NA,CDFW-SKT,NA,1,4,NA,Alisha Goodbla,yes
+Ht19-81_2012_A11,BMAG047,A11,CATCAAGT,Ht19-81,Index19,GTGAAA,SFC_09_11,2013-SKT-6324,2/6/13,2012,2,60,Adult,719,1213,NA,CDFW-SKT,NA,1,3,NA,Alisha Goodbla,yes
+Ht19-65_2012_A09,BMAG047,A09,AACGAACG,Ht19-65,Index19,GTGAAA,SFC_09_11,2013-SKT-6322,2/6/13,2012,2,60,Adult,719,1213,NA,CDFW-SKT,NA,1,4,NA,Alisha Goodbla,yes
+Ht20-42_2012_B06,BMAG048,B06,ACACAGAA,Ht20-42,Index20,GTGGCC,SFC_09_10,2013-SKT-6215,1/9/13,2012,1,66,Adult,719,1213,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht20-93_2012_E12,BMAG048,E12,TAGGATGA,Ht20-93,Index20,GTGGCC,SFC_09_10,2013-SKT-6257,1/9/13,2012,1,74,Adult,715,1213,NA,CDFW-SKT,NA,2,2,NA,Alisha Goodbla,yes
+Ht19-44_2012_D06,BMAG047,D06,CGCATACA,Ht19-44,Index19,GTGAAA,SFC_09_11,2013-SKT-6378,2/7/13,2012,2,80,Adult,609,1213,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht19-87_2012_G11,BMAG047,G11,CAAGGAGC,Ht19-87,Index19,GTGAAA,SFC_09_11,2013-SKT-6428,3/6/13,2012,3,66,Adult,719,1213,NA,CDFW-SKT,NA,0,0,NA,Alisha Goodbla,yes
+Ht19-35_2012_C05,BMAG047,C05,ATTGAGGA,Ht19-35,Index19,GTGAAA,SFC_09_11,2013-SKT-6358,2/7/13,2012,2,72,Adult,606,1213,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht19-58_2012_B08,BMAG047,B08,ACCTCCAA,Ht19-58,Index19,GTGAAA,SFC_09_11,2013-SKT-6340,2/6/13,2012,2,74,Adult,719,1213,NA,CDFW-SKT,NA,1,4,NA,Alisha Goodbla,yes
+Ht20-64_2012_H08,BMAG048,H08,GAACAGGC,Ht20-64,Index20,GTGGCC,SFC_09_10,2013-SKT-6297,2/6/13,2012,2,70,Adult,719,1213,NA,CDFW-SKT,NA,1,3,NA,Alisha Goodbla,yes
+Ht20-78_2012_F10,BMAG048,F10,AAGAGATC,Ht20-78,Index20,GTGGCC,SFC_09_10,2013-SKT-6267,1/10/13,2012,1,77,Adult,606,1213,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht19-49_2012_A07,BMAG047,A07,CAGATCTG,Ht19-49,Index19,GTGAAA,SFC_09_11,2013-SKT-6318,2/6/13,2012,2,65,Adult,719,1213,NA,CDFW-SKT,NA,1,4,NA,Alisha Goodbla,yes
+Ht19-66_2012_B09,BMAG047,B09,ACGCTCGA,Ht19-66,Index19,GTGAAA,SFC_09_11,2013-SKT-6341,2/6/13,2012,2,79,Adult,719,1213,NA,CDFW-SKT,NA,1,4,NA,Alisha Goodbla,yes
+Ht19-57_2012_A08,BMAG047,A08,ATGCCTAA,Ht19-57,Index19,GTGAAA,SFC_09_11,2013-SKT-6320,2/6/13,2012,2,65,Adult,719,1213,NA,CDFW-SKT,NA,1,3,NA,Alisha Goodbla,yes
+Ht20-85_2012_E11,BMAG048,E11,GTGTTCTA,Ht20-85,Index20,GTGGCC,SFC_09_10,2013-SKT-6256,1/9/13,2012,1,65,Adult,715,1213,NA,CDFW-SKT,NA,1,3,NA,Alisha Goodbla,yes
+Ht19-51_2012_C07,BMAG047,C07,CAAGACTA,Ht19-51,Index19,GTGAAA,SFC_09_11,2013-SKT-6362,2/7/13,2012,2,75,Adult,609,1213,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht19-67_2012_C09,BMAG047,C09,CACTTCGA,Ht19-67,Index19,GTGAAA,SFC_09_11,2013-SKT-6367,2/7/13,2012,2,65,Adult,609,1213,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht20-62_2012_F08,BMAG048,F08,TTCACGCA,Ht20-62,Index20,GTGGCC,SFC_09_10,2013-SKT-6265,1/10/13,2012,1,64,Adult,606,1213,NA,CDFW-SKT,NA,1,3,NA,Alisha Goodbla,yes
+Ht19-70_2012_F09,BMAG047,F09,ACACGAGA,Ht19-70,Index19,GTGAAA,SFC_09_11,2013-SKT-6414,3/7/13,2012,3,77,Adult,609,1213,NA,CDFW-SKT,NA,2,6,NA,Alisha Goodbla,yes
+Ht19-79_2012_G10,BMAG047,G10,ATTGGCTC,Ht19-79,Index19,GTGAAA,SFC_09_11,2013-SKT-6427,3/6/13,2012,3,72,Adult,719,1213,NA,CDFW-SKT,NA,2,6,NA,Alisha Goodbla,yes
+Ht20-33_2012_A05,BMAG048,A05,AACGTGAT,Ht20-33,Index20,GTGGCC,SFC_09_10,2013-SKT-6196,2/7/13,2012,2,82,Adult,606,1213,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht20-77_2012_E10,BMAG048,E10,GTCTGTCA,Ht20-77,Index20,GTGGCC,SFC_09_10,2013-SKT-6255,1/9/13,2012,1,64,Adult,716,1213,NA,CDFW-SKT,NA,1,3,NA,Alisha Goodbla,yes
+Ht19-80_2012_H10,BMAG047,H10,GAGTTAGC,Ht19-80,Index19,GTGAAA,SFC_09_11,2013-SKT-6439,3/6/13,2012,3,65,Adult,719,1213,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht19-23_2012_G03,BMAG047,G03,ACAGATTC,Ht19-23,Index19,GTGAAA,SFC_09_11,2013-SKT-6420,3/6/13,2012,3,70,Adult,719,1213,NA,CDFW-SKT,NA,1,4,NA,Alisha Goodbla,yes
+Ht19-17_2012_A03,BMAG047,A03,ACATTGGC,Ht19-17,Index19,GTGAAA,SFC_09_11,2013-SKT-6309,2/6/13,2012,2,65,Adult,719,1213,NA,CDFW-SKT,NA,1,4,NA,Alisha Goodbla,yes
+Ht19-34_2012_B05,BMAG047,B05,AAGGTACA,Ht19-34,Index19,GTGAAA,SFC_09_11,2013-SKT-6335,2/6/13,2012,2,73,Adult,719,1213,NA,CDFW-SKT,NA,1,4,NA,Alisha Goodbla,yes
+Ht20-26_2012_B04,BMAG048,B04,AAGACGGA,Ht20-26,Index20,GTGGCC,SFC_09_10,2013-SKT-6213,1/9/13,2012,1,69,Adult,719,1213,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht20-59_2012_C08,BMAG048,C08,CAATGGAA,Ht20-59,Index20,GTGGCC,SFC_09_10,2013-SKT-6229,1/9/13,2012,1,58,Adult,719,1213,NA,CDFW-SKT,NA,2,2,NA,Alisha Goodbla,yes
+Ht19-27_2012_C04,BMAG047,C04,ATCCTGTA,Ht19-27,Index19,GTGAAA,SFC_09_11,2013-SKT-6356,2/6/13,2012,2,71,Adult,719,1213,NA,CDFW-SKT,NA,2,3,NA,Alisha Goodbla,yes
+Ht22-09_2013_A02,BMAG048,A02,AAACATCG,Ht22-09,Index22,CGTACG,SFC_09_15,2014-SKT-0191,1/16/14,2013,NA,71,Adult,609,1314,Montezuma Slough,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht22-79_2013_G10,BMAG048,G10,ATTGGCTC,Ht22-79,Index22,CGTACG,SFC_09_15,2014-SKT-0398,2/13/14,2013,NA,70,Adult,606,1314,Montezuma Slough,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht22-78_2013_F10,BMAG048,F10,AAGAGATC,Ht22-78,Index22,CGTACG,SFC_09_15,2014-SKT-0386,2/13/14,2013,NA,72,Adult,609,1314,Montezuma Slough,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht22-10_2013_B02,BMAG048,B02,AACCGAGA,Ht22-10,Index22,CGTACG,SFC_09_15,2014-SKT-0328,1/16/14,2013,NA,78,Adult,606,1314,Montezuma Slough,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht22-81_2013_A11,BMAG048,A11,CATCAAGT,Ht22-81,Index22,CGTACG,SFC_09_15,2014-SKT-0318,1/16/14,2013,NA,63,Adult,609,1314,Montezuma Slough,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht22-57_2013_A08,BMAG048,A08,ATGCCTAA,Ht22-57,Index22,CGTACG,SFC_09_15,2014-SKT-0310,1/16/14,2013,NA,57,Adult,609,1314,Montezuma Slough,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht22-47_2013_G06,BMAG048,G06,AGCCATGC,Ht22-47,Index22,CGTACG,SFC_09_15,2014-SKT-0394,2/13/14,2013,NA,62,Adult,609,1314,Montezuma Slough,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht22-56_2013_H07,BMAG048,H07,CTAAGGTC,Ht22-56,Index22,CGTACG,SFC_09_15,2014-SKT-0509,3/12/14,2013,NA,70,Adult,719,1314,Cache Slough and Liberty Island,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht22-89_2013_A12,BMAG048,A12,AGTGGTCA,Ht22-89,Index22,CGTACG,SFC_09_15,2014-SKT-0321,1/16/14,2013,NA,69,Adult,609,1314,Montezuma Slough,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht22-62_2013_F08,BMAG048,F08,TTCACGCA,Ht22-62,Index22,CGTACG,SFC_09_15,2014-SKT-0384,2/13/14,2013,NA,70,Adult,609,1314,Montezuma Slough,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht22-22_2013_F03,BMAG048,F03,TCTTCACA,Ht22-22,Index22,CGTACG,SFC_09_15,2014-SKT-0379,2/13/14,2013,NA,69,Adult,609,1314,Montezuma Slough,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht22-05_2013_E01,BMAG048,E01,GATAGACA,Ht22-05,Index22,CGTACG,SFC_09_15,2014-SKT-0365,2/12/14,2013,NA,70,Adult,712,1314,Lower Sacramento River,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht21-09_2013_A02,BMAG049,A02,AAACATCG,Ht21-09,Index21,GTTTCG,SFC_09_13,2013-TNS-0103,6/24/13,2013,NA,44,Juvenile,797,1314,Lower Sacramento River Ship Channel,CDFW-STN,NA,NA,NA,,Alisha Goodbla,yes
+Ht21-57_2013_A08,BMAG049,A08,ATGCCTAA,Ht21-57,Index21,GTTTCG,SFC_09_13,2013-TNS-0123,6/27/13,2013,NA,32,Juvenile,610,1314,Montezuma Slough,CDFW-STN,NA,NA,NA,,Alisha Goodbla,yes
+Ht22-87_2013_G11,BMAG048,G11,CAAGGAGC,Ht22-87,Index22,CGTACG,SFC_09_15,2014-SKT-0400,3/12/14,2013,NA,69,Adult,706,1314,Lower Sacramento River,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht22-37_2013_E05,BMAG048,E05,GCTCGGTA,Ht22-37,Index22,CGTACG,SFC_09_15,2014-SKT-0369,2/13/14,2013,NA,65,Adult,609,1314,Montezuma Slough,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht21-76_2013_D10,BMAG049,D10,GAATCTGA,Ht21-76,Index21,GTTTCG,SFC_09_13,2013-TNS-0217,7/24/13,2013,NA,48,Juvenile,519,1314,Honker Bay,CDFW-STN,NA,NA,NA,,Alisha Goodbla,yes
+Ht22-93_2013_E12,BMAG048,E12,TAGGATGA,Ht22-93,Index22,CGTACG,SFC_09_15,2014-SKT-0376,2/13/14,2013,NA,64,Adult,609,1314,Montezuma Slough,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht22-80_2013_H10,BMAG048,H10,GAGTTAGC,Ht22-80,Index22,CGTACG,SFC_09_15,2014-SKT-0514,3/12/14,2013,NA,62,Adult,719,1314,Cache Slough and Liberty Island,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht22-60_2013_D08,BMAG048,D08,CTGAGCCA,Ht22-60,Index22,CGTACG,SFC_09_15,2014-SKT-0360,2/12/14,2013,NA,70,Adult,713,1314,Lower Sacramento River,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht22-95_2013_G12,BMAG048,G12,CACCTTAC,Ht22-95,Index22,CGTACG,SFC_09_15,2014-SKT-0501,3/12/14,2013,NA,70,Adult,706,1314,Lower Sacramento River,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht22-94_2013_F12,BMAG048,F12,AATCCGTC,Ht22-94,Index22,CGTACG,SFC_09_15,2014-SKT-0388,2/13/14,2013,NA,63,Adult,609,1314,Montezuma Slough,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht21-81_2013_A11,BMAG049,A11,CATCAAGT,Ht21-81,Index21,GTTTCG,SFC_09_12,2013-TNS-0080,6/12/13,2013,NA,39,Juvenile,609,1314,Suisun Bay and Marsh,CDFW-STN,NA,NA,NA,,Alisha Goodbla,yes
+Ht22-85_2013_E11,BMAG048,E11,GTGTTCTA,Ht22-85,Index22,CGTACG,SFC_09_15,2014-SKT-0375,2/13/14,2013,NA,69,Adult,609,1314,Montezuma Slough,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht22-75_2013_C10,BMAG048,C10,CAGCGTTA,Ht22-75,Index22,CGTACG,SFC_09_15,2014-SKT-0348,1/16/14,2013,NA,64,Adult,519,1314,Honker Bay,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht21-75_2013_C10,BMAG049,C10,CAGCGTTA,Ht21-75,Index21,GTTTCG,SFC_09_13,2013-TNS-0172,7/11/13,2013,NA,42,Juvenile,602,1314,Grizzly Bay,CDFW-STN,NA,NA,NA,,Alisha Goodbla,yes
+Ht22-67_2013_C09,BMAG048,C09,CACTTCGA,Ht22-67,Index22,CGTACG,SFC_09_15,2014-SKT-0347,1/16/14,2013,NA,73,Adult,519,1314,Honker Bay,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht22-38_2013_F05,BMAG048,F05,TGGAACAA,Ht22-38,Index22,CGTACG,SFC_09_15,2014-SKT-0381,2/13/14,2013,NA,70,Adult,609,1314,Montezuma Slough,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht21-62_2013_F08,BMAG049,F08,TTCACGCA,Ht21-62,Index21,GTTTCG,SFC_09_13,2013-TNS-0309,8/21/13,2013,NA,43,Juvenile,804,1314,Lower San Joaquin River,CDFW-STN,NA,NA,NA,,Alisha Goodbla,yes
+Ht22-23_2013_G03,BMAG048,G03,ACAGATTC,Ht22-23,Index22,CGTACG,SFC_09_15,2014-SKT-0391,2/13/14,2013,NA,69,Adult,609,1314,Montezuma Slough,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht21-22_2013_F03,BMAG049,F03,TCTTCACA,Ht21-22,Index21,GTTTCG,SFC_09_12,2013-TNS-0089,6/12/13,2013,NA,42,Juvenile,609,1314,Suisun Bay and Marsh,CDFW-STN,NA,NA,NA,,Alisha Goodbla,yes
+Ht21-89_2013_A12,BMAG049,A12,AGTGGTCA,Ht21-89,Index21,GTTTCG,SFC_09_12,2013-TNS-0043,6/11/13,2013,NA,23,Juvenile,723,1314,Lower Sacramento River Ship Channel,CDFW-STN,NA,NA,NA,,Alisha Goodbla,yes
+Ht22-17_2013_A03,BMAG048,A03,ACATTGGC,Ht22-17,Index22,CGTACG,SFC_09_15,2014-SKT-0192,1/16/14,2013,NA,69,Adult,609,1314,Montezuma Slough,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht22-03_2013_C01,BMAG048,C01,AGATCGCA,Ht22-03,Index22,CGTACG,SFC_09_15,2014-SKT-0339,1/16/14,2013,NA,69,Adult,606,1314,Montezuma Slough,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht22-24_2013_H03,BMAG048,H03,AGTCAAGC,Ht22-24,Index22,CGTACG,SFC_09_15,2014-SKT-0504,3/12/14,2013,NA,71,Adult,707,1314,Lower Sacramento River,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht21-93_2013_E12,BMAG049,E12,TAGGATGA,Ht21-93,Index21,GTTTCG,SFC_09_13,2013-TNS-0255,8/7/13,2013,NA,50,Juvenile,519,1314,Honker Bay,CDFW-STN,NA,NA,NA,,Alisha Goodbla,yes
+Ht22-26_2013_B04,BMAG048,B04,AAGACGGA,Ht22-26,Index22,CGTACG,SFC_09_15,2014-SKT-0330,1/16/14,2013,NA,57,Adult,606,1314,Montezuma Slough,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht22-01_2013_A01,BMAG048,A01,ACAAGCTA,Ht22-01,Index22,CGTACG,SFC_09_15,2014-SKT-0189,1/16/14,2013,NA,70,Adult,609,1314,Montezuma Slough,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht22-35_2013_C05,BMAG048,C05,ATTGAGGA,Ht22-35,Index22,CGTACG,SFC_09_15,2014-SKT-0343,1/16/14,2013,NA,73,Adult,519,1314,Honker Bay,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht22-76_2013_D10,BMAG048,D10,GAATCTGA,Ht22-76,Index22,CGTACG,SFC_09_15,2014-SKT-0362,2/12/14,2013,NA,59,Adult,715,1314,Lower Sacramento River,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht21-60_2013_D08,BMAG049,D08,CTGAGCCA,Ht21-60,Index21,GTTTCG,SFC_09_13,2013-TNS-0202,7/22/13,2013,NA,42,Juvenile,719,1314,Cache Slough and Liberty Island,CDFW-STN,NA,NA,NA,,Alisha Goodbla,yes
+Ht22-52_2013_D07,BMAG048,D07,CTCAATGA,Ht22-52,Index22,CGTACG,SFC_09_15,2014-SKT-0359,2/12/14,2013,NA,67,Adult,706,1314,Confluence,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht22-88_2013_H11,BMAG048,H11,GATGAATC,Ht22-88,Index22,CGTACG,SFC_09_15,2014-SKT-0515,3/12/14,2013,NA,70,Adult,719,1314,Cache Slough and Liberty Island,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht22-06_2013_F01,BMAG048,F01,TATCAGCA,Ht22-06,Index22,CGTACG,SFC_09_15,2014-SKT-0377,2/13/14,2013,NA,71,Adult,609,1314,Montezuma Slough,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht22-33_2013_A05,BMAG048,A05,AACGTGAT,Ht22-33,Index22,CGTACG,SFC_09_15,2014-SKT-0301,1/16/14,2013,NA,65,Adult,609,1314,Montezuma Slough,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht22-90_2013_B12,BMAG048,B12,AGAGTCAA,Ht22-90,Index22,CGTACG,SFC_09_15,2014-SKT-0338,1/16/14,2013,NA,63,Adult,606,1314,Montezuma Slough,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht22-42_2013_B06,BMAG048,B06,ACACAGAA,Ht22-42,Index22,CGTACG,SFC_09_15,2014_SKT_0332,1/16/14,2013,NA,67,NA,606,1314,NA,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht22-19_2013_C03,BMAG048,C03,AGTCACTA,Ht22-19,Index22,CGTACG,SFC_09_15,2014_SKT_0341,1/16/14,2013,NA,65,NA,606,1314,NA,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht22-59_2013_C08,BMAG048,C08,CAATGGAA,Ht22-59,Index22,CGTACG,SFC_09_15,2014_SKT_0346,1/16/14,2013,NA,64,NA,519,1314,NA,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht21-56_2013_H07,BMAG049,H07,CTAAGGTC,Ht21-56,Index21,GTTTCG,SFC_09_12,2013-TNS-0053,6/11/13,2013,NA,24,Juvenile,719,1314,Cache Slough and Liberty Island,CDFW-STN,NA,NA,NA,,Alisha Goodbla,yes
+Ht25-78_2014_F10,BMAG048,F10,AAGAGATC,Ht25-78,Index25,ACTGAT,2014_BLOCK_1,2014-CCE-308,9/25/14,2014,NA,55,Sub-Adult,797,1415,Confluence,CDFW-CCE,NA,NA,NA,,Alisha Goodbla,yes
+Ht27-09_2014_A02,BMAG048,A02,AAACATCG,Ht27-09,Index27,ATTCCT,2014_BLOCK_2,2014-CCE-197,8/21/14,2014,NA,50,Sub-Adult,704,1415,Confluence,CDFW-CCE,NA,NA,NA,,Alisha Goodbla,yes
+Ht25-09_2014_A02,BMAG048,A02,AAACATCG,Ht25-09,Index25,ACTGAT,2014_BLOCK_1,2014-CCE-275,9/25/14,2014,NA,50,Sub-Adult,704,1415,Confluence,CDFW-CCE,NA,NA,NA,,Alisha Goodbla,yes
+Ht25-02_2014_B01,BMAG048,B01,AACAACCA,Ht25-02,Index25,ACTGAT,2014_BLOCK_1,2014-CCE-266,9/25/14,2014,NA,54,Sub-Adult,704,1415,Confluence,CDFW-CCE,NA,NA,NA,,Alisha Goodbla,yes
+Ht27-57_2014_A08,BMAG048,A08,ATGCCTAA,Ht27-57,Index27,ATTCCT,2014_BLOCK_2,2014-CCE-222,8/21/14,2014,NA,55,Sub-Adult,704,1415,Confluence,CDFW-CCE,NA,NA,NA,,Alisha Goodbla,yes
+Ht25-01_2014_A01,BMAG048,A01,ACAAGCTA,Ht25-01,Index25,ACTGAT,2014_BLOCK_1,2014-CCE-267,9/25/14,2014,NA,51,Sub-Adult,704,1415,Confluence,CDFW-CCE,NA,NA,NA,,Alisha Goodbla,yes
+Ht25-15_2014_G02,BMAG048,G02,ACACTGAC,Ht25-15,Index25,ACTGAT,2014_BLOCK_1,2014-CCE-313,9/25/14,2014,NA,54,Sub-Adult,797,1415,Confluence,CDFW-CCE,NA,NA,NA,,Alisha Goodbla,yes
+Ht25-86_2014_F11,BMAG048,F11,AAGGACAC,Ht25-86,Index25,ACTGAT,2014_BLOCK_1,2014-CCE-309,9/25/14,2014,NA,53,Sub-Adult,797,1415,Confluence,CDFW-CCE,NA,NA,NA,,Alisha Goodbla,yes
+Ht27-78_2014_F10,BMAG048,F10,AAGAGATC,Ht27-78,Index27,ATTCCT,2014_BLOCK_2,2014-CCE-126,8/21/14,2014,NA,51,Sub-Adult,704,1415,Confluence,CDFW-CCE,NA,NA,NA,,Alisha Goodbla,yes
+Ht25-19_2014_C03,BMAG048,C03,AGTCACTA,Ht25-19,Index25,ACTGAT,2014_BLOCK_1,2014-CCE-306,9/25/14,2014,NA,53,Sub-Adult,797,1415,Confluence,CDFW-CCE,NA,NA,NA,,Alisha Goodbla,yes
+Ht25-22_2014_F03,BMAG048,F03,TCTTCACA,Ht25-22,Index25,ACTGAT,2014_BLOCK_1,2014-CCE-299,9/25/14,2014,NA,54,Sub-Adult,797,1415,Confluence,CDFW-CCE,NA,NA,NA,,Alisha Goodbla,yes
+Ht25-26_2014_B04,BMAG048,B04,AAGACGGA,Ht25-26,Index25,ACTGAT,2014_BLOCK_1,2014-CCE-279,9/25/14,2014,NA,47,Sub-Adult,704,1415,Confluence,CDFW-CCE,NA,NA,NA,,Alisha Goodbla,yes
+Ht25-75_2014_C10,BMAG048,C10,CAGCGTTA,Ht25-75,Index25,ACTGAT,2014_BLOCK_1,2014-CCE-33,8/21/14,2014,NA,45,Sub-Adult,704,1415,Confluence,CDFW-CCE,NA,NA,NA,,Alisha Goodbla,yes
+Ht27-75_2014_C10,BMAG048,C10,CAGCGTTA,Ht27-75,Index27,ATTCCT,2014_BLOCK_2,2014-CCE-11,8/21/14,2014,NA,47,Sub-Adult,704,1415,Confluence,CDFW-CCE,NA,NA,NA,,Alisha Goodbla,yes
+Ht25-10_2014_B02,BMAG048,B02,AACCGAGA,Ht25-10,Index25,ACTGAT,2014_BLOCK_1,2014-CCE-271,9/25/14,2014,NA,47,Sub-Adult,704,1415,Confluence,CDFW-CCE,NA,NA,NA,,Alisha Goodbla,yes
+Ht25-35_2014_C05,BMAG048,C05,ATTGAGGA,Ht25-35,Index25,ACTGAT,2014_BLOCK_1,2014-CCE-315,9/25/14,2014,NA,54,Sub-Adult,797,1415,Confluence,CDFW-CCE,NA,NA,NA,,Alisha Goodbla,yes
+Ht27-81_2014_A11,BMAG048,A11,CATCAAGT,Ht27-81,Index27,ATTCCT,2014_BLOCK_2,2014-CCE-230,8/21/14,2014,NA,43,Sub-Adult,704,1415,Confluence,CDFW-CCE,NA,NA,NA,,Alisha Goodbla,yes
+Ht25-81_2014_A11,BMAG048,A11,CATCAAGT,Ht25-81,Index25,ACTGAT,2014_BLOCK_1,2014-CCE-264,9/25/14,2014,NA,49,Sub-Adult,704,1415,Confluence,CDFW-CCE,NA,NA,NA,,Alisha Goodbla,yes
+Ht25-62_2014_F08,BMAG048,F08,TTCACGCA,Ht25-62,Index25,ACTGAT,2014_BLOCK_1,2014-CCE-305,9/25/14,2014,NA,50,Sub-Adult,797,1415,Confluence,CDFW-CCE,NA,NA,NA,,Alisha Goodbla,yes
+Ht25-57_2014_A08,BMAG048,A08,ATGCCTAA,Ht25-57,Index25,ACTGAT,2014_BLOCK_1,2014-CCE-254,9/25/14,2014,NA,53,Sub-Adult,704,1415,Confluence,CDFW-CCE,NA,NA,NA,,Alisha Goodbla,yes
+Ht27-94_2014_F12,BMAG048,F12,AATCCGTC,Ht27-94,Index27,ATTCCT,2014_BLOCK_2,2014-CCE-229,8/21/14,2014,NA,59,Sub-Adult,705,1415,Confluence,CDFW-CCE,NA,NA,NA,,Alisha Goodbla,yes
+Ht32-60_2014_D08,BMAG055,D08,CTGAGCCA,Ht32-60,Index32,GGCTAC,BY2014_DS_wilds_aliquots,RX17_2_15spawn,,2014,NA,NA,,NA,1415,NA,UCD-FCCL,NA,NA,NA,,Alisha Goodbla,yes
+Ht25-87_2014_G11,BMAG048,G11,CAAGGAGC,Ht25-87,Index25,ACTGAT,2014_BLOCK_1,2014-CCE-63,8/21/14,2014,NA,43,Sub-Adult,704,1415,Confluence,CDFW-CCE,NA,NA,NA,,Alisha Goodbla,yes
+Ht25-93_2014_E12,BMAG048,E12,TAGGATGA,Ht25-93,Index25,ACTGAT,2014_BLOCK_1,2014-CCE-289,9/25/14,2014,NA,48,Sub-Adult,704,1415,Confluence,CDFW-CCE,NA,NA,NA,,Alisha Goodbla,yes
+Ht27-89_2014_A12,BMAG048,A12,AGTGGTCA,Ht27-89,Index27,ATTCCT,2014_BLOCK_2,2014-CCE-202,8/21/14,2014,NA,50,Sub-Adult,704,1415,Confluence,CDFW-CCE,NA,NA,NA,,Alisha Goodbla,yes
+Ht32-64_2014_H08,BMAG055,H08,GAACAGGC,Ht32-64,Index32,GGCTAC,BY2014_DS_wilds_aliquots,RX25_1_15spawn,,2014,NA,NA,,NA,1415,NA,UCD-FCCL,NA,NA,NA,,Alisha Goodbla,yes
+Ht25-94_2014_F12,BMAG048,F12,AATCCGTC,Ht25-94,Index25,ACTGAT,2014_BLOCK_1,2014-CCE-310,9/25/14,2014,NA,50,Sub-Adult,797,1415,Confluence,CDFW-CCE,NA,NA,NA,,Alisha Goodbla,yes
+Ht25-89_2014_A12,BMAG048,A12,AGTGGTCA,Ht25-89,Index25,ACTGAT,2014_BLOCK_1,2014-CCE-265,9/25/14,2014,NA,50,Sub-Adult,704,1415,Confluence,CDFW-CCE,NA,NA,NA,,Alisha Goodbla,yes
+Ht27-10_2014_B02,BMAG048,B02,AACCGAGA,Ht27-10,Index27,ATTCCT,2014_BLOCK_2,2014-CCE-238,8/21/14,2014,NA,50,Sub-Adult,704,1415,Confluence,CDFW-CCE,NA,NA,NA,,Alisha Goodbla,yes
+Ht27-47_2014_G06,BMAG048,G06,AGCCATGC,Ht27-47,Index27,ATTCCT,2014_BLOCK_2,2014-CCE-324,10/21/14,2014,NA,52,Sub-Adult,797,1415,Confluence,CDFW-CCE,NA,NA,NA,,Alisha Goodbla,yes
+Ht25-38_2014_F05,BMAG048,F05,TGGAACAA,Ht25-38,Index25,ACTGAT,2014_BLOCK_1,2014-CCE-302,9/25/14,2014,NA,48,Sub-Adult,797,1415,Confluence,CDFW-CCE,NA,NA,NA,,Alisha Goodbla,yes
+Ht27-22_2014_F03,BMAG048,F03,TCTTCACA,Ht27-22,Index27,ATTCCT,2014_BLOCK_2,2014-CCE-106,8/21/14,2014,NA,55,Sub-Adult,704,1415,Confluence,CDFW-CCE,NA,NA,NA,,Alisha Goodbla,yes
+Ht27-56_2014_H07,BMAG048,H07,CTAAGGTC,Ht27-56,Index27,ATTCCT,2014_BLOCK_2,2014-FMWT-7013,12/9/14,2014,NA,65,Sub-Adult,703,1415,Confluence,CDFW-FMWT,NA,NA,NA,,Alisha Goodbla,yes
+Ht25-85_2014_E11,BMAG048,E11,GTGTTCTA,Ht25-85,Index25,ACTGAT,2014_BLOCK_1,2014-CCE-285,9/25/14,2014,NA,50,Sub-Adult,704,1415,Confluence,CDFW-CCE,NA,NA,NA,,Alisha Goodbla,yes
+Ht25-82_2014_B11,BMAG048,B11,ACTATGCA,Ht25-82,Index25,ACTGAT,2014_BLOCK_1,2014-CCE-292,9/25/14,2014,NA,48,Sub-Adult,704,1415,Confluence,CDFW-CCE,NA,NA,NA,,Alisha Goodbla,yes
+Ht25-80_2014_H10,BMAG048,H10,GAGTTAGC,Ht25-80,Index25,ACTGAT,2014_BLOCK_1,2014-CCE-185,8/21/14,2014,NA,49,Sub-Adult,704,1415,Confluence,CDFW-CCE,NA,NA,NA,,Alisha Goodbla,yes
+Ht25-06_2014_F01,BMAG048,F01,TATCAGCA,Ht25-06,Index25,ACTGAT,2014_BLOCK_1,2014-CCE-293,9/25/14,2014,NA,52,Sub-Adult,704,1415,Confluence,CDFW-CCE,NA,NA,NA,,Alisha Goodbla,yes
+Ht27-93_2014_E12,BMAG048,E12,TAGGATGA,Ht27-93,Index27,ATTCCT,2014_BLOCK_2,2014-CCE-94,8/21/14,2014,NA,42,Sub-Adult,704,1415,Confluence,CDFW-CCE,NA,NA,NA,,Alisha Goodbla,yes
+Ht31-60_2014_D08,BMAG055,D08,CTGAGCCA,Ht31-60,Index31,GTGAAA,BY2014_DS_wilds_aliquots,RX08_2_15spawn,,2014,NA,NA,,NA,1415,NA,UCD-FCCL,NA,NA,NA,,Alisha Goodbla,yes
+Ht27-67_2014_C09,BMAG048,C09,CACTTCGA,Ht27-67,Index27,ATTCCT,2014_BLOCK_2,2014-CCE-10,8/21/14,2014,NA,45,Sub-Adult,704,1415,Confluence,CDFW-CCE,NA,NA,NA,,Alisha Goodbla,yes
+Ht32-62_2014_F08,BMAG055,F08,TTCACGCA,Ht32-62,Index32,GGCTAC,BY2014_DS_wilds_aliquots,RX21_2_15spawn,,2014,NA,NA,,NA,1415,NA,UCD-FCCL,NA,NA,NA,,Alisha Goodbla,yes
+Ht31-64_2014_H08,BMAG055,H08,GAACAGGC,Ht31-64,Index31,GTGAAA,BY2014_DS_wilds_aliquots,RX14_2_15spawn,,2014,NA,NA,,NA,1415,NA,UCD-FCCL,NA,NA,NA,,Alisha Goodbla,yes
+Ht25-18_2014_B03,BMAG048,B03,AACGCTTA,Ht25-18,Index25,ACTGAT,2014_BLOCK_1,2014-CCE-277,9/25/14,2014,NA,61,Sub-Adult,704,1415,Confluence,CDFW-CCE,NA,NA,NA,,Alisha Goodbla,yes
+Ht25-76_2014_D10,BMAG048,D10,GAATCTGA,Ht25-76,Index25,ACTGAT,2014_BLOCK_1,2014-CCE-260,9/25/14,2014,NA,51,Sub-Adult,704,1415,Confluence,CDFW-CCE,NA,NA,NA,,Alisha Goodbla,yes
+Ht33-60_2014_D08,BMAG055,D08,CTGAGCCA,Ht33-60,Index33,CTTGTA,BY2014_DS_wilds_aliquots,RX32_1_15spawn,,2014,NA,NA,,NA,1415,NA,UCD-FCCL,NA,NA,NA,,Alisha Goodbla,yes
+Ht31-62_2014_F08,BMAG055,F08,TTCACGCA,Ht31-62,Index31,GTGAAA,BY2014_DS_wilds_aliquots,RX12_2_15spawn,,2014,NA,NA,,NA,1415,NA,UCD-FCCL,NA,NA,NA,,Alisha Goodbla,yes
+Ht25-67_2014_C09,BMAG048,C09,CACTTCGA,Ht25-67,Index25,ACTGAT,2014_BLOCK_1,2014-CCE-28,8/21/14,2014,NA,53,Sub-Adult,704,1415,Confluence,CDFW-CCE,NA,NA,NA,,Alisha Goodbla,yes
+Ht30-64_2014_H08,BMAG055,H08,GAACAGGC,Ht30-64,Index30,CCGTCC,BY2014_DS_wilds_aliquots,RX06_2_15spawn,,2014,NA,NA,,NA,1415,NA,UCD-FCCL,NA,NA,NA,,Alisha Goodbla,yes
+Ht27-62_2014_F08,BMAG048,F08,TTCACGCA,Ht27-62,Index27,ATTCCT,2014_BLOCK_2,2014-CCE-119,8/21/14,2014,NA,51,Sub-Adult,704,1415,Confluence,CDFW-CCE,NA,NA,NA,,Alisha Goodbla,yes
+Ht25-56_2014_H07,BMAG048,H07,CTAAGGTC,Ht25-56,Index25,ACTGAT,2014_BLOCK_1,2014_CCE_0177,8/21/14,2014,NA,45,NA,797,1415,NA,CDFW-CCE,NA,NA,NA,,Alisha Goodbla,yes
+Ht32-81_2015_A11,BMAG055,A11,CATCAAGT,Ht32-81,Index32,GGCTAC,BY2015_DS_wilds_aliquots,RX58_2_16spawn,,2015,NA,NA,,NA,1516,NA,UCD-FCCL,NA,NA,NA,,Alisha Goodbla,yes
+Ht32-51_2015_C07,BMAG055,C07,CAAGACTA,Ht32-51,Index32,GGCTAC,DeltaSmelt_2016SKT_2015-16FMWT,2016_SKT_7283,3/9/16,2015,NA,60,Adult,719,1516,Cache Slough and Liberty Island,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht32-75_2015_C10,BMAG055,C10,CAGCGTTA,Ht32-75,Index32,GGCTAC,BY2015_DS_wilds_aliquots,RX51_2_16spawn,,2015,NA,NA,,NA,1516,NA,UCD-FCCL,NA,NA,NA,,Alisha Goodbla,yes
+Ht32-76_2015_D10,BMAG055,D10,GAATCTGA,Ht32-76,Index32,GGCTAC,BY2015_DS_wilds_aliquots,RX52_2_16spawn,,2015,NA,NA,,NA,1516,NA,UCD-FCCL,NA,NA,NA,,Alisha Goodbla,yes
+Ht32-78_2015_F10,BMAG055,F10,AAGAGATC,Ht32-78,Index32,GGCTAC,BY2015_DS_wilds_aliquots,RX55_2_16spawn,,2015,NA,NA,,NA,1516,NA,UCD-FCCL,NA,NA,NA,,Alisha Goodbla,yes
+Ht32-59_2015_C08,BMAG055,C08,CAATGGAA,Ht32-59,Index32,GGCTAC,DeltaSmelt_2016SKT_2015-16FMWT,2015_FMWT_7260,10/19/15,2015,NA,52,Sub-Adult,797,1516,Lower Sacramento River Ship Channel,CDFW-FMWT,NA,NA,NA,,Alisha Goodbla,yes
+Ht32-68_2015_D09,BMAG055,D09,CTGGCATA,Ht32-68,Index32,GGCTAC,BY2015_DS_wilds_aliquots,RX44_2_16spawn,,2015,NA,NA,,NA,1516,NA,UCD-FCCL,NA,NA,NA,,Alisha Goodbla,yes
+Ht33-81_2015_A11,BMAG055,A11,CATCAAGT,Ht33-81,Index33,CTTGTA,BY2015_DS_wilds_aliquots,RX80_1_16spawn,,2015,NA,NA,,NA,1516,NA,UCD-FCCL,NA,NA,NA,,Alisha Goodbla,yes
+Ht33-50_2015_B07,BMAG055,B07,ACAGCAGA,Ht33-50,Index33,CTTGTA,DeltaSmelt_2016SKT_2015-16FMWT,2016_SKT_7290,4/4/16,2015,NA,68,Adult,719,1516,Cache Slough and Liberty Island,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht31-75_2015_C10,BMAG055,C10,CAGCGTTA,Ht31-75,Index31,GTGAAA,BY2015_DS_wilds_aliquots,RX33_1_16spawn,,2015,NA,NA,,NA,1516,NA,UCD-FCCL,NA,NA,NA,,Alisha Goodbla,yes
+Ht30-51_2015_C07,BMAG055,C07,CAAGACTA,Ht30-51,Index30,CCGTCC,DeltaSmelt_2016SKT_2015-16FMWT,2016_SKT_7265,12/15/15,2015,NA,64,Adult,606,1516,Montezuma Slough,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht31-51_2015_C07,BMAG055,C07,CAAGACTA,Ht31-51,Index31,GTGAAA,DeltaSmelt_2016SKT_2015-16FMWT,2016_SKT_7274,2/10/16,2015,NA,67,Adult,715,1516,Cache Slough and Liberty Island,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht32-57_2015_A08,BMAG055,A08,ATGCCTAA,Ht32-57,Index32,GGCTAC,DeltaSmelt_2016SKT_2015-16FMWT,2016_SKT_7289,4/4/16,2015,NA,67,Adult,719,1516,Cache Slough and Liberty Island,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht31-50_2015_B07,BMAG055,B07,ACAGCAGA,Ht31-50,Index31,GTGAAA,DeltaSmelt_2016SKT_2015-16FMWT,2016_SKT_7273,1/14/16,2015,NA,74,Adult,606,1516,Montezuma Slough,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht31-52_2015_D07,BMAG055,D07,CTCAATGA,Ht31-52,Index31,GTGAAA,DeltaSmelt_2016SKT_2015-16FMWT,2016_SKT_7275,2/10/16,2015,NA,70,Adult,719,1516,Cache Slough and Liberty Island,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht33-52_2015_D07,BMAG055,D07,CTCAATGA,Ht33-52,Index33,CTTGTA,DeltaSmelt_2016SKT_2015-16FMWT,2016_SKT_7292,4/4/16,2015,NA,70,Adult,719,1516,Cache Slough and Liberty Island,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht31-59_2015_C08,BMAG055,C08,CAATGGAA,Ht31-59,Index31,GTGAAA,DeltaSmelt_2016SKT_2015-16FMWT,2015_FMWT_7258,9/9/15,2015,NA,60,Sub-Adult,705,1516,Confluence,CDFW-FMWT,NA,NA,NA,,Alisha Goodbla,yes
+Ht32-79_2015_G10,BMAG055,G10,ATTGGCTC,Ht32-79,Index32,GGCTAC,BY2015_DS_wilds_aliquots,RX56_2_16spawn,,2015,NA,NA,,NA,1516,NA,UCD-FCCL,NA,NA,NA,,Alisha Goodbla,yes
+Ht31-56_2015_H07,BMAG055,H07,CTAAGGTC,Ht31-56,Index31,GTGAAA,DeltaSmelt_2016SKT_2015-16FMWT,2016_SKT_7279,3/9/16,2015,NA,63,Adult,719,1516,Cache Slough and Liberty Island,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht31-78_2015_F10,BMAG055,F10,AAGAGATC,Ht31-78,Index31,GTGAAA,BY2015_DS_wilds_aliquots,RX37_2_16spawn,,2015,NA,NA,,NA,1516,NA,UCD-FCCL,NA,NA,NA,,Alisha Goodbla,yes
+Ht33-75_2015_C10,BMAG055,C10,CAGCGTTA,Ht33-75,Index33,CTTGTA,BY2015_DS_wilds_aliquots,RX73_1_16spawn,,2015,NA,NA,,NA,1516,NA,UCD-FCCL,NA,NA,NA,,Alisha Goodbla,yes
+Ht30-59_2015_C08,BMAG055,C08,CAATGGAA,Ht30-59,Index30,CCGTCC,DeltaSmelt_2016SKT_2015-16FMWT,2015_FMWT_7256,9/9/15,2015,NA,55,Sub-Adult,704,1516,Confluence,CDFW-FMWT,NA,NA,NA,,Alisha Goodbla,yes
+Ht32-53_2015_E07,BMAG055,E07,GGTGCGAA,Ht32-53,Index32,GGCTAC,DeltaSmelt_2016SKT_2015-16FMWT,2016_SKT_7285,4/4/16,2015,NA,74,Adult,719,1516,Cache Slough and Liberty Island,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht32-82_2015_B11,BMAG055,B11,ACTATGCA,Ht32-82,Index32,GGCTAC,BY2015_DS_wilds_aliquots,RX59_2_16spawn,,2015,NA,NA,,NA,1516,NA,UCD-FCCL,NA,NA,NA,,Alisha Goodbla,yes
+Ht32-56_2015_H07,BMAG055,H07,CTAAGGTC,Ht32-56,Index32,GGCTAC,DeltaSmelt_2016SKT_2015-16FMWT,2016_SKT_7288,4/4/16,2015,NA,70,Adult,719,1516,Cache Slough and Liberty Island,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht31-68_2015_D09,BMAG055,D09,CTGGCATA,Ht31-68,Index31,GTGAAA,BY2015_DS_wilds_aliquots,RX21_2_16spawn,,2015,NA,NA,,NA,1516,NA,UCD-FCCL,NA,NA,NA,,Alisha Goodbla,yes
+Ht33-59_2015_C08,BMAG055,C08,CAATGGAA,Ht33-59,Index33,CTTGTA,DeltaSmelt_2016SKT_2015-16FMWT,2015_FMWT_7262,12/7/15,2015,NA,69,Sub-Adult,706,1516,Confluence,CDFW-FMWT,NA,NA,NA,,Alisha Goodbla,yes
+Ht30-56_2015_H07,BMAG055,H07,CTAAGGTC,Ht30-56,Index30,CCGTCC,DeltaSmelt_2016SKT_2015-16FMWT,2016_SKT_7270,1/13/16,2015,NA,69,Adult,707,1516,Sacramento River near Rio Vista,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht32-71_2015_G09,BMAG055,G09,ACGACAAG,Ht32-71,Index32,GGCTAC,BY2015_DS_wilds_aliquots,RX47_2_16spawn,,2015,NA,NA,,NA,1516,NA,UCD-FCCL,NA,NA,NA,,Alisha Goodbla,yes
+Ht33-57_2015_A08,BMAG055,A08,ATGCCTAA,Ht33-57,Index33,CTTGTA,DeltaSmelt_2016SKT_2015-16FMWT,2016_SKT_7297,4/4/16,2015,NA,69,Adult,719,1516,Cache Slough and Liberty Island,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht30-75_2015_C10,BMAG055,C10,CAGCGTTA,Ht30-75,Index30,CCGTCC,BY2015_DS_wilds_aliquots,RX09_1_16spawn,,2015,NA,NA,,NA,1516,NA,UCD-FCCL,NA,NA,NA,,Alisha Goodbla,yes
+Ht31-57_2015_A08,BMAG055,A08,ATGCCTAA,Ht31-57,Index31,GTGAAA,DeltaSmelt_2016SKT_2015-16FMWT,2016_SKT_7280,3/9/16,2015,NA,60,Adult,719,1516,Cache Slough and Liberty Island,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht31-76_2015_D10,BMAG055,D10,GAATCTGA,Ht31-76,Index31,GTGAAA,BY2015_DS_wilds_aliquots,RX34_1_16spawn,,2015,NA,NA,,NA,1516,NA,UCD-FCCL,NA,NA,NA,,Alisha Goodbla,yes
+Ht31-71_2015_G09,BMAG055,G09,ACGACAAG,Ht31-71,Index31,GTGAAA,BY2015_DS_wilds_aliquots,RX26_1_16spawn,,2015,NA,NA,,NA,1516,NA,UCD-FCCL,NA,NA,NA,,Alisha Goodbla,yes
+Ht31-53_2015_E07,BMAG055,E07,GGTGCGAA,Ht31-53,Index31,GTGAAA,DeltaSmelt_2016SKT_2015-16FMWT,2016_SKT_7276,2/11/16,2015,NA,72,Adult,610,1516,Montezuma Slough,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht30-68_2015_D09,BMAG055,D09,CTGGCATA,Ht30-68,Index30,CCGTCC,BY2015_DS_wilds_aliquots,RX02_1_16spawn,,2015,NA,NA,,NA,1516,NA,UCD-FCCL,NA,NA,NA,,Alisha Goodbla,yes
+Ht33-76_2015_D10,BMAG055,D10,GAATCTGA,Ht33-76,Index33,CTTGTA,BY2015_DS_wilds_aliquots,RX74_1_16spawn,,2015,NA,NA,,NA,1516,NA,UCD-FCCL,NA,NA,NA,,Alisha Goodbla,yes
+Ht30-60_2015_D08,BMAG055,D08,CTGAGCCA,Ht30-60,Index30,CCGTCC,DeltaSmelt_2016SKT_2015-16FMWT,2015_FMWT_7257,9/9/15,2015,NA,60,Sub-Adult,704,1516,Confluence,CDFW-FMWT,NA,NA,NA,,Alisha Goodbla,yes
+Ht32-52_2015_D07,BMAG055,D07,CTCAATGA,Ht32-52,Index32,GGCTAC,DeltaSmelt_2016SKT_2015-16FMWT,2016_SKT_7284,3/10/16,2015,NA,69,Adult,606,1516,Montezuma Slough,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht33-51_2015_C07,BMAG055,C07,CAAGACTA,Ht33-51,Index33,CTTGTA,DeltaSmelt_2016SKT_2015-16FMWT,2016_SKT_7291,4/4/16,2015,NA,72,Adult,719,1516,Cache Slough and Liberty Island,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht31-79_2015_G10,BMAG055,G10,ATTGGCTC,Ht31-79,Index31,GTGAAA,BY2015_DS_wilds_aliquots,RX38_2_16spawn,,2015,NA,NA,,NA,1516,NA,UCD-FCCL,NA,NA,NA,,Alisha Goodbla,yes
+Ht31-66_2015_B09,BMAG055,B09,ACGCTCGA,Ht31-66,Index31,GTGAAA,BY2015_DS_wilds_aliquots,RX18_1_16spawn,,2015,NA,NA,,NA,1516,NA,UCD-FCCL,NA,NA,NA,,Alisha Goodbla,yes
+Ht31-67_2015_C09,BMAG055,C09,CACTTCGA,Ht31-67,Index31,GTGAAA,BY2015_DS_wilds_aliquots,RX19_1_16spawn,,2015,NA,NA,,NA,1516,NA,UCD-FCCL,NA,NA,NA,,Alisha Goodbla,yes
+Ht31-82_2015_B11,BMAG055,B11,ACTATGCA,Ht31-82,Index31,GTGAAA,BY2015_DS_wilds_aliquots,RX41_2_16spawn,,2015,NA,NA,,NA,1516,NA,UCD-FCCL,NA,NA,NA,,Alisha Goodbla,yes
+Ht32-66_2015_B09,BMAG055,B09,ACGCTCGA,Ht32-66,Index32,GGCTAC,BY2015_DS_wilds_aliquots,RX42_2_16spawn,,2015,NA,NA,,NA,1516,NA,UCD-FCCL,NA,NA,NA,,Alisha Goodbla,yes
+Ht31-81_2015_A11,BMAG055,A11,CATCAAGT,Ht31-81,Index31,GTGAAA,BY2015_DS_wilds_aliquots,RX40_2_16spawn,,2015,NA,NA,,NA,1516,NA,UCD-FCCL,NA,NA,NA,,Alisha Goodbla,yes
+Ht30-52_2015_D07,BMAG055,D07,CTCAATGA,Ht30-52,Index30,CCGTCC,DeltaSmelt_2016SKT_2015-16FMWT,2016_SKT_7266,1/12/16,2015,NA,69,Adult,513,1516,Lower Sacramento River,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht33-53_2015_E07,BMAG055,E07,GGTGCGAA,Ht33-53,Index33,CTTGTA,DeltaSmelt_2016SKT_2015-16FMWT,2016_SKT_7293,4/4/16,2015,NA,72,NA,719,1516,NA,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht30-66_2015_B09,BMAG055,B09,ACGCTCGA,Ht30-66,Index30,CCGTCC,BY2015_DS_wilds_aliquots,RX00_1_16spawn,,2015,NA,NA,,NA,1516,NA,UCD-FCCL,NA,NA,NA,,Alisha Goodbla,yes
+Ht31-70_2015_F09,BMAG055,F09,ACACGAGA,Ht31-70,Index31,GTGAAA,BY2015_DS_wilds_aliquots,RX25_1_16spawn,,2015,NA,NA,,NA,1516,NA,UCD-FCCL,NA,NA,NA,,Alisha Goodbla,yes
+Ht32-37_2016_E05,BMAG055,E05,GCTCGGTA,Ht32-37,Index32,GGCTAC,DeltaSmelt_2017_SKT_STN,2017_SKT_A28,3/7/17,2016,NA,65,Adult,801,1617,Confluence,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht32-36_2016_D05,BMAG055,D05,CGACTGGA,Ht32-36,Index32,GGCTAC,DeltaSmelt_2017_SKT_STN,2017_SKT_A27,2/9/17,2016,NA,74,Adult,609,1617,Suisun Bay Marsh,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht33-36_2016_D05,BMAG055,D05,CGACTGGA,Ht33-36,Index33,CTTGTA,DeltaSmelt_2017_SKT_STN,2017_SKT_A37,4/5/17,2016,NA,75,Adult,719,1617,SRDWSC,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht31-39_2016_G05,BMAG055,G05,AGCACCTC,Ht31-39,Index31,GTGAAA,DeltaSmelt_2017_SKT_STN,2017_SKT_A21,2/8/17,2016,NA,65,Adult,719,1617,SRDWSC,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht32-40_2016_H05,BMAG055,H05,CGACACAC,Ht32-40,Index32,GGCTAC,DeltaSmelt_2017_SKT_STN,2017_SKT_A31,3/8/17,2016,NA,81,Adult,715,1617,Cache Slough,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht32-39_2016_G05,BMAG055,G05,AGCACCTC,Ht32-39,Index32,GGCTAC,DeltaSmelt_2017_SKT_STN,2017_SKT_A30,3/8/17,2016,NA,72,Adult,715,1617,Cache Slough,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht32-48_2016_H06,BMAG055,H06,CGGATTGC,Ht32-48,Index32,GGCTAC,DeltaSmelt_2016SKT_2015-16FMWT,2016_FMWT_7325,11/7/16,2016,NA,62,Sub-Adult,704,1617,Confluence,CDFW-FMWT,NA,NA,NA,,Alisha Goodbla,yes
+Ht32-34_2016_B05,BMAG055,B05,AAGGTACA,Ht32-34,Index32,GGCTAC,DeltaSmelt_2017_SKT_STN,2017_SKT_A25,2/9/17,2016,NA,67,Adult,609,1617,Suisun Bay Marsh,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht31-34_2016_B05,BMAG055,B05,AAGGTACA,Ht31-34,Index31,GTGAAA,DeltaSmelt_2017_SKT_STN,2017_SKT_A11,1/12/17,2016,NA,64,Adult,405,1617,Suisun Bay Marsh,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht31-36_2016_D05,BMAG055,D05,CGACTGGA,Ht31-36,Index31,GTGAAA,DeltaSmelt_2017_SKT_STN,2017_SKT_A13,1/12/17,2016,NA,68,Adult,520,1617,Confluence,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht33-35_2016_C05,BMAG055,C05,ATTGAGGA,Ht33-35,Index33,CTTGTA,DeltaSmelt_2017_SKT_STN,2017_SKT_A36,4/5/17,2016,NA,85,Adult,719,1617,SRDWSC,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht33-84_2016_D11,BMAG055,D11,GACTAGTA,Ht33-84,Index33,CTTGTA,BY2016_DS2017spawn_box13,RX63_2_17spawn,,2016,NA,NA,,NA,1617,NA,UCD-FCCL,NA,NA,NA,,Alisha Goodbla,yes
+Ht33-37_2016_E05,BMAG055,E05,GCTCGGTA,Ht33-37,Index33,CTTGTA,DeltaSmelt_2017_SKT_STN,2017_SKT_A38,4/5/17,2016,NA,76,Adult,719,1617,SRDWSC,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht30-37_2016_E05,BMAG055,E05,GCTCGGTA,Ht30-37,Index30,CCGTCC,DeltaSmelt_2017_SKT_STN,2017_SKT_A06,1/11/17,2016,NA,67,Adult,719,1617,SRDWSC,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht32-32_2016_H04,BMAG055,H04,CCTCTATC,Ht32-32,Index32,GGCTAC,DeltaSmelt_2017_SKT_STN,2017_SKT_A23,2/8/17,2016,NA,72,Adult,719,1617,SRDWSC,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht30-39_2016_G05,BMAG055,G05,AGCACCTC,Ht30-39,Index30,CCGTCC,DeltaSmelt_2017_SKT_STN,2017_SKT_A08,1/11/17,2016,NA,72,Adult,804,1617,Confluence,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht33-49_2016_A07,BMAG055,A07,CAGATCTG,Ht33-49,Index33,CTTGTA,DeltaSmelt_2016SKT_2015-16FMWT,2016_FMWT_7338,11/7/16,2016,NA,69,NA,706,1617,Confluence,CDFW-FMWT,NA,NA,NA,,Alisha Goodbla,yes
+Ht30-36_2016_D05,BMAG055,D05,CGACTGGA,Ht30-36,Index30,CCGTCC,DeltaSmelt_2017_SKT_STN,2017_SKT_A05,1/11/17,2016,NA,68,Adult,719,1617,SRDWSC,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht33-34_2016_B05,BMAG055,B05,AAGGTACA,Ht33-34,Index33,CTTGTA,DeltaSmelt_2017_SKT_STN,2017_SKT_A35,3/8/17,2016,NA,71,NA,711,1617,Sacramento River,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht31-49_2016_A07,BMAG055,A07,CAGATCTG,Ht31-49,Index31,GTGAAA,DeltaSmelt_2016SKT_2015-16FMWT,2016_FMWT_7324,11/7/16,2016,NA,61,Sub-Adult,703,1617,Confluence,CDFW-FMWT,NA,NA,NA,,Alisha Goodbla,yes
+Ht31-40_2016_H05,BMAG055,H05,CGACACAC,Ht31-40,Index31,GTGAAA,DeltaSmelt_2017_SKT_STN,2017_SKT_A22,2/8/17,2016,NA,68,Adult,719,1617,SRDWSC,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht32-49_2016_A07,BMAG055,A07,CAGATCTG,Ht32-49,Index32,GGCTAC,DeltaSmelt_2016SKT_2015-16FMWT,2016_FMWT_7326,11/7/16,2016,NA,63,Sub-Adult,704,1617,Confluence,CDFW-FMWT,NA,NA,NA,,Alisha Goodbla,yes
+Ht33-85_2016_E11,BMAG055,E11,GTGTTCTA,Ht33-85,Index33,CTTGTA,BY2016_DS2017spawn_box13,RX69_2_17spawn,,2016,NA,NA,NA,NA,1617,NA,UCD-FCCL,NA,NA,NA,OGFL has no info for these fish,Alisha Goodbla,yes
+Ht32-35_2016_C05,BMAG055,C05,ATTGAGGA,Ht32-35,Index32,GGCTAC,DeltaSmelt_2017_SKT_STN,2017_SKT_A26,2/9/17,2016,NA,70,NA,609,1617,Suisun Bay Marsh,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht31-35_2016_C05,BMAG055,C05,ATTGAGGA,Ht31-35,Index31,GTGAAA,DeltaSmelt_2017_SKT_STN,2017_SKT_A12,1/12/17,2016,NA,65,Adult,508,1617,Confluence,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht32-84_2016_D11,BMAG055,D11,GACTAGTA,Ht32-84,Index32,GGCTAC,BY2016_DS2017spawn_box15,RX58_1_17spawn,,2016,NA,NA,NA,NA,1617,NA,UCD-FCCL,NA,NA,NA,OGFL has no info for these fish,Alisha Goodbla,yes
+Ht32-33_2016_A05,BMAG055,A05,AACGTGAT,Ht32-33,Index32,GGCTAC,DeltaSmelt_2017_SKT_STN,2017_SKT_A24,2/9/17,2016,NA,64,NA,610,1617,Suisun Bay Marsh,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht31-83_2016_C11,BMAG055,C11,CATACCAA,Ht31-83,Index31,GTGAAA,BY2016_DS2017spawn_box15,RX50_1_17spawn,,2016,NA,NA,NA,NA,1617,NA,UCD-FCCL,NA,NA,NA,OGFL has no info for these fish,Alisha Goodbla,yes
+Ht33-48_2016_H06,BMAG055,H06,CGGATTGC,Ht33-48,Index33,CTTGTA,DeltaSmelt_2016SKT_2015-16FMWT,2016_FMWT_7337,11/7/16,2016,NA,62,NA,705,1617,Confluence,CDFW-FMWT,NA,NA,NA,,Alisha Goodbla,yes
+Ht31-33_2016_A05,BMAG055,A05,AACGTGAT,Ht31-33,Index31,GTGAAA,DeltaSmelt_2017_SKT_STN,2017_SKT_A10,1/12/17,2016,NA,59,NA,418,1617,Suisun Bay Marsh,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht32-38_2016_F05,BMAG055,F05,TGGAACAA,Ht32-38,Index32,GGCTAC,DeltaSmelt_2017_SKT_STN,2017_SKT_A29,3/8/17,2016,NA,60,NA,706,1617,Confluence,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht30-83_2016_C11,BMAG055,C11,CATACCAA,Ht30-83,Index30,CCGTCC,BY2016_DS2017spawn_box05,RX12_1_17spawn,,2016,NA,NA,NA,NA,1617,NA,UCD-FCCL,NA,NA,NA,OGFL has no info for these fish,Alisha Goodbla,yes
+Ht30-34_2016_B05,BMAG055,B05,AAGGTACA,Ht30-34,Index30,CCGTCC,DeltaSmelt_2017_SKT_STN,2017_SKT_A3,1/11/17,2016,NA,60,NA,719,1617,SRDWSC,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht33-33_2016_A05,BMAG055,A05,AACGTGAT,Ht33-33,Index33,CTTGTA,DeltaSmelt_2017_SKT_STN,2017_SKT_A34,3/8/17,2016,NA,68,NA,719,1617,SRDWSC,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht33-38_2016_F05,BMAG055,F05,TGGAACAA,Ht33-38,Index33,CTTGTA,DeltaSmelt_2017_SKT_STN,2017_SKT_A39,4/5/17,2016,NA,74,NA,719,1617,SRDWSC,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht30-48_2016_H06,BMAG055,H06,CGGATTGC,Ht30-48,Index30,CCGTCC,DeltaSmelt_2016SKT_2015-16FMWT,2016_FMWT_7322,11/7/16,2016,NA,62,NA,703,1617,Confluence,CDFW-FMWT,NA,NA,NA,,Alisha Goodbla,yes
+Ht31-37_2016_E05,BMAG055,E05,GCTCGGTA,Ht31-37,Index31,GTGAAA,DeltaSmelt_2017_SKT_STN,2017_SKT_A14,1/13/17,2016,NA,64,NA,340,1617,Suisun Bay Marsh,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht31-38_2016_F05,BMAG055,F05,TGGAACAA,Ht31-38,Index31,GTGAAA,DeltaSmelt_2017_SKT_STN,2017_SKT_A15,1/13/17,2016,NA,65,NA,340,1617,Suisun Bay Marsh,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht30-35_2016_C05,BMAG055,C05,ATTGAGGA,Ht30-35,Index30,CCGTCC,DeltaSmelt_2017_SKT_STN,2017_SKT_A4,1/11/17,2016,NA,67,NA,719,1617,SRDWSC,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht30-49_2016_A07,BMAG055,A07,CAGATCTG,Ht30-49,Index30,CCGTCC,DeltaSmelt_2016SKT_2015-16FMWT,2016_FMWT_7323,11/7/16,2016,NA,64,NA,703,1617,Confluence,CDFW-FMWT,NA,NA,NA,,Alisha Goodbla,yes
+Ht30-89_2016_A12,BMAG055,A12,AGTGGTCA,Ht30-89,Index30,CCGTCC,BY2017_DS_wilds_aliquots,RX94_2_18spawn,,2016,NA,NA,NA,NA,1617,NA,UCD-FCCL,NA,NA,NA,OGFL has no info for these fish,Alisha Goodbla,yes
+Ht30-32_2016_H04,BMAG055,H04,CCTCTATC,Ht30-32,Index30,CCGTCC,DeltaSmelt_2017_SKT_STN,2017_SKT_A1,1/11/17,2016,NA,72,NA,704,1617,Confluence,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht30-33_2016_A05,BMAG055,A05,AACGTGAT,Ht30-33,Index30,CCGTCC,DeltaSmelt_2017_SKT_STN,2017_SKT_A2,1/11/17,2016,NA,53,NA,719,1617,SRDWSC,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht31-32_2016_H04,BMAG055,H04,CCTCTATC,Ht31-32,Index31,GTGAAA,DeltaSmelt_2017_SKT_STN,2017_SKT_A9,1/12/17,2016,NA,68,NA,606,1617,Suisun Bay Marsh,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht30-84_2016_D11,BMAG055,D11,GACTAGTA,Ht30-84,Index30,CCGTCC,BY2016_DS2017spawn_box05,RX19_2_17spawn,,2016,NA,NA,NA,NA,1617,NA,UCD-FCCL,NA,NA,NA,OGFL has no info for these fish,Alisha Goodbla,yes
+Ht30-38_2016_F05,BMAG055,F05,TGGAACAA,Ht30-38,Index30,CCGTCC,DeltaSmelt_2017_SKT_STN,2017_SKT_A7,1/11/17,2016,NA,76,NA,719,1617,SRDWSC,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht30-90_2016_B12,BMAG055,B12,AGAGTCAA,Ht30-90,Index30,CCGTCC,BY2017_DS_wilds_aliquots,RX96_2_18spawn,,2016,NA,NA,NA,NA,1617,NA,UCD-FCCL,NA,NA,NA,OGFL has no info for these fish,Alisha Goodbla,yes
+Ht33-32_2016_H04,BMAG055,H04,CCTCTATC,Ht33-32,Index33,CTTGTA,DeltaSmelt_2017_SKT_STN,2017_SKT_A33,3/8/17,2016,NA,54,NA,715,1617,Cache Slough,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht32-83_2016_C11,BMAG055,C11,CATACCAA,Ht32-83,Index32,GGCTAC,BY2016_DS2017spawn_box15,RX57_1_17spawn,,2016,NA,NA,NA,NA,1617,NA,UCD-FCCL,NA,NA,NA,OGFL has no info for these fish,Alisha Goodbla,yes
+Ht33-31_2016_G04,BMAG055,G04,AGATGTAC,Ht33-31,Index33,CTTGTA,DeltaSmelt_2017_SKT_STN,2017_SKT_A32,3/8/17,2016,NA,81,NA,715,1617,Cache Slough,CDFW-SKT,NA,NA,NA,,Alisha Goodbla,yes
+Ht32-28_2017_D04,BMAG055,D04,CGAACTTA,Ht32-28,Index32,GGCTAC,DeltaSmelt_2017_SKT_STN,2017_STN_7359,8/22/17,2017,NA,40,Juvenile,602,1718,Suisun Bay Marsh,CDFW-STN,NA,NA,NA,,Alisha Goodbla,yes
+Ht33-09_2017_A02,BMAG055,A02,AAACATCG,Ht33-09,Index33,CTTGTA,DeltaSmelt_2017_EDSM,2017_EDSM_0169,9/11/17,2017,NA,47,Sub-Adult,18-07-SBM02,1718,Suisun Bay Marsh,USFWS-EDSM,NA,NA,NA,,Alisha Goodbla,yes
+Ht32-04_2017_D01,BMAG055,D01,CCGAAGTA,Ht32-04,Index32,GGCTAC,DeltaSmelt_2017_EDSM,2017_EDSM_0054,10/10/17,2017,NA,47,Sub-Adult,18-11-LSR01,1718,Confluence,USFWS-EDSM,NA,NA,NA,,Alisha Goodbla,yes
+Ht31-04_2017_D01,BMAG055,D01,CCGAAGTA,Ht31-04,Index31,GTGAAA,DeltaSmelt_2017_EDSM,2017_EDSM_0030,10/10/17,2017,NA,49,Sub-Adult,18-11-LSR01,1718,Confluence,USFWS-EDSM,NA,NA,NA,,Alisha Goodbla,yes
+Ht32-18_2017_B03,BMAG055,B03,AACGCTTA,Ht32-18,Index32,GGCTAC,DeltaSmelt_2017_EDSM,2017_EDSM_0155,8/16/17,2017,NA,45,Sub-Adult,18-03-SM02,1718,Suisun Bay Marsh,USFWS-EDSM,NA,NA,NA,,Alisha Goodbla,yes
+Ht32-09_2017_A02,BMAG055,A02,AAACATCG,Ht32-09,Index32,GGCTAC,DeltaSmelt_2017_EDSM,2017_EDSM_0059,10/10/17,2017,NA,61,Sub-Adult,18-11-LSR01,1718,Confluence,USFWS-EDSM,NA,NA,NA,,Alisha Goodbla,yes
+Ht31-09_2017_A02,BMAG055,A02,AAACATCG,Ht31-09,Index31,GTGAAA,DeltaSmelt_2017_EDSM,2017_EDSM_0035,10/10/17,2017,NA,50,Sub-Adult,18-11-LSR01,1718,Confluence,USFWS-EDSM,NA,NA,NA,,Alisha Goodbla,yes
+Ht32-13_2017_E02,BMAG055,E02,GCCACATA,Ht32-13,Index32,GGCTAC,DeltaSmelt_2017_EDSM,2017_EDSM_0063,11/20/17,2017,NA,51,Sub-Adult,18-17-LSR01,1718,Confluence,USFWS-EDSM,NA,NA,NA,,Alisha Goodbla,yes
+Ht31-28_2017_D04,BMAG055,D04,CGAACTTA,Ht31-28,Index31,GTGAAA,DeltaSmelt_2017_SKT_STN,2017_STN_7351,8/22/17,2017,NA,56,Juvenile,602,1718,Suisun Bay Marsh,CDFW-STN,NA,NA,NA,,Alisha Goodbla,yes
+Ht32-05_2017_E01,BMAG055,E01,GATAGACA,Ht32-05,Index32,GGCTAC,DeltaSmelt_2017_EDSM,2017_EDSM_0055,10/10/17,2017,NA,62,Sub-Adult,18-11-LSR01,1718,Confluence,USFWS-EDSM,NA,NA,NA,,Alisha Goodbla,yes
+Ht33-20_2017_D03,BMAG055,D03,CCTCCTGA,Ht33-20,Index33,CTTGTA,DeltaSmelt_2017_EDSM,2017_EDSM_0180,11/27/17,2017,NA,56,Sub-Adult,18-18-SM01,1718,Suisun Bay Marsh,USFWS-EDSM,NA,NA,NA,,Alisha Goodbla,yes
+Ht30-09_2017_A02,BMAG055,A02,AAACATCG,Ht30-09,Index30,CCGTCC,DeltaSmelt_2017_EDSM,2017_EDSM_0010,9/18/17,2017,NA,56,Sub-Adult,18-08-LSR01,1718,Confluence,USFWS-EDSM,NA,NA,NA,,Alisha Goodbla,yes
+Ht33-94_2017_F12,BMAG055,F12,AATCCGTC,Ht33-94,Index33,CTTGTA,BY2017_DS_wilds_aliquots,RX90_1_18spawn,,2017,NA,NA,,NA,1718,NA,UCD-FCCL,NA,NA,NA,,Alisha Goodbla,yes
+Ht31-94_2017_F12,BMAG055,F12,AATCCGTC,Ht31-94,Index31,GTGAAA,BY2017_DS_wilds_aliquots,RX28_2_18spawn,,2017,NA,NA,,NA,1718,NA,UCD-FCCL,NA,NA,NA,,Alisha Goodbla,yes
+Ht32-94_2017_F12,BMAG055,F12,AATCCGTC,Ht32-94,Index32,GGCTAC,BY2017_DS_wilds_aliquots,RX42_2_18spawn,,2017,NA,NA,,NA,1718,NA,UCD-FCCL,NA,NA,NA,,Alisha Goodbla,yes
+Ht33-28_2017_D04,BMAG055,D04,CGAACTTA,Ht33-28,Index33,CTTGTA,DeltaSmelt_2017_SKT_STN,2017_STN_7614,7/11/17,2017,NA,47,Juvenile,602,1718,Suisun Bay Marsh,CDFW-STN,NA,NA,NA,,Alisha Goodbla,yes
+Ht33-04_2017_D01,BMAG055,D01,CCGAAGTA,Ht33-04,Index33,CTTGTA,DeltaSmelt_2017_EDSM,2017_EDSM_0165,8/30/17,2017,NA,45,Sub-Adult,18-05-SBM02,1718,Confluence,USFWS-EDSM,NA,NA,NA,,Alisha Goodbla,yes
+Ht31-05_2017_E01,BMAG055,E01,GATAGACA,Ht31-05,Index31,GTGAAA,DeltaSmelt_2017_EDSM,2017_EDSM_0031,10/10/17,2017,NA,44,Sub-Adult,18-11-LSR01,1718,Confluence,USFWS-EDSM,NA,NA,NA,,Alisha Goodbla,yes
+Ht32-21_2017_E03,BMAG055,E03,GCGAGTAA,Ht32-21,Index32,GGCTAC,DeltaSmelt_2017_EDSM,2017_EDSM_0158,8/22/17,2017,NA,45,Sub-Adult,18-04-SBM05,1718,Suisun Bay Marsh,USFWS-EDSM,NA,NA,NA,,Alisha Goodbla,yes
+Ht33-05_2017_E01,BMAG055,E01,GATAGACA,Ht33-05,Index33,CTTGTA,DeltaSmelt_2017_EDSM,2017_EDSM_0165,8/30/17,2017,NA,53,Sub-Adult,18-05-SBM02,1718,Suisun Bay Marsh,USFWS-EDSM,NA,NA,NA,,Alisha Goodbla,yes
+Ht33-23_2017_G03,BMAG055,G03,ACAGATTC,Ht33-23,Index33,CTTGTA,DeltaSmelt_2017_EDSM,2017_EDSM_0183,11/28/17,2017,NA,53,Sub-Adult,18-18-HB01,1718,Confluence,USFWS-EDSM,NA,NA,NA,,Alisha Goodbla,yes
+Ht31-02_2017_B01,BMAG055,B01,AACAACCA,Ht31-02,Index31,GTGAAA,DeltaSmelt_2017_EDSM,2017_EDSM_0028,10/10/17,2017,NA,47,Sub-Adult,18-11-LSR01,1718,Confluence,USFWS-EDSM,NA,NA,NA,,Alisha Goodbla,yes
+Ht32-01_2017_A01,BMAG055,A01,ACAAGCTA,Ht32-01,Index32,GGCTAC,DeltaSmelt_2017_EDSM,2017_EDSM_0051,10/10/17,2017,NA,59,Sub-Adult,18-11-LSR01,1718,Confluence,USFWS-EDSM,NA,NA,NA,,Alisha Goodbla,yes
+Ht32-17_2017_A03,BMAG055,A03,ACATTGGC,Ht32-17,Index32,GGCTAC,DeltaSmelt_2017_EDSM,2017_EDSM_0154,8/16/17,2017,NA,50,Sub-Adult,18-03-SM02,1718,Suisun Bay Marsh,USFWS-EDSM,NA,NA,NA,,Alisha Goodbla,yes
+Ht31-23_2017_G03,BMAG055,G03,ACAGATTC,Ht31-23,Index31,GTGAAA,DeltaSmelt_2017_EDSM,2017_EDSM_0049,10/10/17,2017,NA,59,Sub-Adult,18-11-LSR01,1718,Confluence,USFWS-EDSM,NA,NA,NA,,Alisha Goodbla,yes
+Ht32-25_2017_A04,BMAG055,A04,ACCACTGT,Ht32-25,Index32,GGCTAC,DeltaSmelt_2017_SKT_STN,2017_STN_7356,8/22/17,2017,NA,60,Juvenile,602,1718,Suisun Bay Marsh,CDFW-STN,NA,NA,NA,,Alisha Goodbla,yes
+Ht33-21_2017_E03,BMAG055,E03,GCGAGTAA,Ht33-21,Index33,CTTGTA,DeltaSmelt_2017_EDSM,2017_EDSM_0181,11/27/17,2017,NA,69,Sub-Adult,18-18-SM01,1718,Suisun Bay Marsh,USFWS-EDSM,NA,NA,NA,,Alisha Goodbla,yes
+Ht31-19_2017_C03,BMAG055,C03,AGTCACTA,Ht31-19,Index31,GTGAAA,DeltaSmelt_2017_EDSM,2017_EDSM_0045,10/10/17,2017,NA,59,Sub-Adult,18-11-LSR01,1718,Confluence,USFWS-EDSM,NA,NA,NA,,Alisha Goodbla,yes
+Ht30-04_2017_D01,BMAG055,D01,CCGAAGTA,Ht30-04,Index30,CCGTCC,DeltaSmelt_2017_EDSM,2017_EDSM_0005,8/28/17,2017,NA,51,Sub-Adult,18-05-LSR02,1718,Confluence,USFWS-EDSM,NA,NA,NA,,Alisha Goodbla,yes
+Ht31-12_2017_D02,BMAG055,D02,CCGTGAGA,Ht31-12,Index31,GTGAAA,DeltaSmelt_2017_EDSM,2017_EDSM_0038,10/10/17,2017,NA,67,Sub-Adult,18-11-LSR01,1718,Confluence,USFWS-EDSM,NA,NA,NA,,Alisha Goodbla,yes
+Ht30-28_2017_D04,BMAG055,D04,CGAACTTA,Ht30-28,Index30,CCGTCC,DeltaSmelt_2017_SKT_STN,2017_STN_7343,6/27/17,2017,NA,52,Juvenile,602,1718,Suisun Bay Marsh,CDFW-STN,NA,NA,NA,,Alisha Goodbla,yes
+Ht30-02_2017_B01,BMAG055,B01,AACAACCA,Ht30-02,Index30,CCGTCC,DeltaSmelt_2017_EDSM,2017_EDSM_0002,8/15/17,2017,NA,54,Sub-Adult,18-03-SSC02,1718,SRDWSC,USFWS-EDSM,NA,NA,NA,,Alisha Goodbla,yes
+Ht31-27_2017_C04,BMAG055,C04,ATCCTGTA,Ht31-27,Index31,GTGAAA,DeltaSmelt_2017_SKT_STN,2017_STN_7350,8/22/17,2017,NA,46,Juvenile,602,1718,Suisun Bay Marsh,CDFW-STN,NA,NA,NA,,Alisha Goodbla,yes
+Ht30-01_2017_A01,BMAG055,A01,ACAAGCTA,Ht30-01,Index30,CCGTCC,DeltaSmelt_2017_EDSM,2017_EDSM_0001,8/10/17,2017,NA,45,Sub-Adult,18-02-CS01,1718,SRDWSC,USFWS-EDSM,NA,NA,NA,,Alisha Goodbla,yes
+Ht32-11_2017_C02,BMAG055,C02,AGCAGGAA,Ht32-11,Index32,GGCTAC,DeltaSmelt_2017_EDSM,2017_EDSM_0061,10/23/17,2017,NA,55,Sub-Adult,18-13-LSR01,1718,Confluence,USFWS-EDSM,NA,NA,NA,,Alisha Goodbla,yes
+Ht32-03_2017_C01,BMAG055,C01,AGATCGCA,Ht32-03,Index32,GGCTAC,DeltaSmelt_2017_EDSM,2017_EDSM_0053,10/10/17,2017,NA,50,Sub-Adult,18-11-LSR01,1718,Confluence,USFWS-EDSM,NA,NA,NA,,Alisha Goodbla,yes
+Ht33-12_2017_D02,BMAG055,D02,CCGTGAGA,Ht33-12,Index33,CTTGTA,DeltaSmelt_2017_EDSM,2017_EDSM_0172,9/20/17,2017,NA,58,NA,18-08-SM01,1718,Suisun Bay Marsh,USFWS-EDSM,NA,NA,NA,,Alisha Goodbla,yes
+Ht31-13_2017_E02,BMAG055,E02,GCCACATA,Ht31-13,Index31,GTGAAA,DeltaSmelt_2017_EDSM,2017_EDSM_0039,10/10/17,2017,NA,60,Sub-Adult,18-11-LSR01,1718,Confluence,USFWS-EDSM,NA,NA,NA,,Alisha Goodbla,yes
+Ht32-19_2017_C03,BMAG055,C03,AGTCACTA,Ht32-19,Index32,GGCTAC,DeltaSmelt_2017_EDSM,2017_EDSM_0156,8/16/17,2017,NA,49,Sub-Adult,18-03-SM02,1718,Suisun Bay Marsh,USFWS-EDSM,NA,NA,NA,,Alisha Goodbla,yes
+Ht33-16_2017_H02,BMAG055,H02,CCGACAAC,Ht33-16,Index33,CTTGTA,DeltaSmelt_2017_EDSM,2017_EDSM_0176,10/10/17,2017,NA,54,NA,18-11-SM01,1718,Suisun Bay Marsh,USFWS-EDSM,NA,NA,NA,,Alisha Goodbla,yes
+Ht33-25_2017_A04,BMAG055,A04,ACCACTGT,Ht33-25,Index33,CTTGTA,DeltaSmelt_2017_SKT_STN,2017_TNS_7611,7/25/17,2017,NA,38,NA,602,1718,Suisun Bay Marsh,CDFW-STN,NA,NA,NA,,Alisha Goodbla,yes
+Ht30-05_2017_E01,BMAG055,E01,GATAGACA,Ht30-05,Index30,CCGTCC,DeltaSmelt_2017_EDSM,2017_EDSM_0006,8/28/17,2017,NA,65,Sub-Adult,18-05-LSR02,1718,Confluence,USFWS-EDSM,NA,NA,NA,,Alisha Goodbla,yes
+Ht32-12_2017_D02,BMAG055,D02,CCGTGAGA,Ht32-12,Index32,GGCTAC,DeltaSmelt_2017_EDSM,2017_EDSM_0062,11/8/17,2017,NA,45,NA,18-15-LSR02,1718,Confluence,USFWS-EDSM,NA,NA,NA,,Alisha Goodbla,yes
+Ht31-11_2017_C02,BMAG055,C02,AGCAGGAA,Ht31-11,Index31,GTGAAA,DeltaSmelt_2017_EDSM,2017_EDSM_0037,10/10/17,2017,NA,59,Sub-Adult,18-11-LSR01,1718,Confluence,USFWS-EDSM,NA,NA,NA,,Alisha Goodbla,yes
+Ht33-02_2017_B01,BMAG055,B01,AACAACCA,Ht33-02,Index33,CTTGTA,DeltaSmelt_2017_EDSM,2017_EDSM_0162,8/22/17,2017,NA,58,NA,18-04-SBM05,1718,Suisun Bay Marsh,USFWS-EDSM,NA,NA,NA,,Alisha Goodbla,yes
+Ht30-13_2017_E02,BMAG055,E02,GCCACATA,Ht30-13,Index30,CCGTCC,DeltaSmelt_2017_EDSM,2017_EDSM_0014,9/18/17,2017,NA,54,NA,18-08-LSR01,1718,Confluence,USFWS-EDSM,NA,NA,NA,,Alisha Goodbla,yes
+Ht30-11_2017_C02,BMAG055,C02,AGCAGGAA,Ht30-11,Index30,CCGTCC,DeltaSmelt_2017_EDSM,2017_EDSM_0012,9/18/17,2017,NA,55,NA,18-08-LSR01,1718,Confluence,USFWS-EDSM,NA,NA,NA,,Alisha Goodbla,yes
+Ht31-30_2017_F04,BMAG055,F04,TGAAGAGA,Ht31-30,Index31,GTGAAA,DeltaSmelt_2017_SKT_STN,2017_STN_7353,8/22/17,2017,NA,46,Juvenile,602,1718,Suisun Bay Marsh,CDFW-STN,NA,NA,NA,,Alisha Goodbla,yes
+Ht32-07_2017_G01,BMAG055,G01,AATGTTGC,Ht32-07,Index32,GGCTAC,DeltaSmelt_2017_EDSM,2017_EDSM_0057,10/10/17,2017,NA,64,NA,18-11-LSR01,1718,Confluence,USFWS-EDSM,NA,NA,NA,,Alisha Goodbla,yes
+Ht30-20_2017_D03,BMAG055,D03,CCTCCTGA,Ht30-20,Index30,CCGTCC,DeltaSmelt_2017_EDSM,2017_EDSM_0022,9/18/17,2017,NA,45,NA,18-08-LSR02,1718,Confluence,USFWS-EDSM,NA,NA,NA,,Alisha Goodbla,yes
+Ht42-73_2018_A10,BMAG067,A10,AGTACAAG,Ht42-73,Index42,CGATGT,Plate 2,E120,9/11/18,2018,NA,45,Sub-Adult,edsm016,1819,Lower Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht42-09_2018_A02,BMAG067,A02,AAACATCG,Ht42-09,Index42,CGATGT,Plate 2,E412,11/1/18,2018,NA,52,Sub-Adult,edsm049,1819,Lower Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht42-65_2018_A09,BMAG067,A09,AACGAACG,Ht42-65,Index42,CGATGT,Plate 2,E193,11/26/18,2018,NA,60,Sub-Adult,edsm033,1819,Suisun Bay Marsh,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht42-49_2018_A07,BMAG067,A07,CAGATCTG,Ht42-49,Index42,CGATGT,Plate 2,E88,8/20/18,2018,NA,45,Sub-Adult,edsm012,1819,Lower Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht41-73_2018_A10,BMAG067,A10,AGTACAAG,Ht41-73,Index41,ATCACG,Plate 1,E404,10/17/18,2018,NA,53,Sub-Adult,edsm024,1819,Lower Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht42-01_2018_A01,BMAG067,A01,ACAAGCTA,Ht42-01,Index42,CGATGT,Plate 2,E80,8/1/18,2018,NA,49,Sub-Adult,edsm009,1819,Upper Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht44-25_2018_A04,BMAG067,A04,ACCACTGT,Ht44-25,Index44,TGACCA,Plate 4,E96,8/27/18,2018,NA,47,Sub-Adult,edsm014,1819,Lower Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht44-89_2018_A12,BMAG067,A12,AGTGGTCA,Ht44-89,Index44,TGACCA,Plate 4,E112,9/10/18,2018,NA,50,Sub-Adult,edsm015,1819,Lower Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht44-10_2018_B02,BMAG067,B02,AACCGAGA,Ht44-10,Index44,TGACCA,Plate 4,E400,10/17/18,2018,NA,50,Sub-Adult,edsm024,1819,Lower Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-68_2018_D09,BMAG067,D09,CTGGCATA,Ht43-68,Index43,TTAGGC,Plate 3,E188,8/21/18,2018,NA,56,Sub-Adult,edsm028,1819,Grizzly Bay,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht44-49_2018_A07,BMAG067,A07,CAGATCTG,Ht44-49,Index44,TGACCA,Plate 4,E128,9/26/18,2018,NA,50,Sub-Adult,edsm018,1819,Lower Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht44-81_2018_A11,BMAG067,A11,CATCAAGT,Ht44-81,Index44,TGACCA,Plate 4,E320,9/24/18,2018,NA,60,Sub-Adult,edsm042,1819,Lower Sacramento River,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht44-14_2018_F02,BMAG067,F02,TCCGTCTA,Ht44-14,Index44,TGACCA,Plate 4,E401,10/17/18,2018,NA,52,Sub-Adult,edsm024,1819,Lower Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht44-87_2018_G11,BMAG067,G11,CAAGGAGC,Ht44-87,Index44,TGACCA,Plate 4,E326,10/30/18,2018,NA,61,Sub-Adult,edsm045,1819,Lower Sacramento River,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht44-02_2018_B01,BMAG067,B01,AACAACCA,Ht44-02,Index44,TGACCA,Plate 4,E398,10/17/18,2018,NA,56,Sub-Adult,edsm024,1819,Lower Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht42-03_2018_C01,BMAG067,C01,AGATCGCA,Ht42-03,Index42,CGATGT,Plate 2,E82,8/8/18,2018,NA,46,Sub-Adult,edsm010,1819,Lower Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht41-43_2018_C06,BMAG067,C06,CAACCACA,Ht41-43,Index41,ATCACG,Plate 1,E314,9/17/18,2018,NA,48,Sub-Adult,edsm041,1819,Lower Sacramento River,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-92_2018_D12,BMAG067,D12,GAGCTGAA,Ht43-92,Index43,TTAGGC,Plate 3,E115,9/10/18,2018,NA,50,Sub-Adult,edsm015,1819,Lower Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht41-65_2018_A09,BMAG067,A09,AACGAACG,Ht41-65,Index41,ATCACG,Plate 1,E72,7/23/18,2018,NA,44,Sub-Adult,edsm006,1819,Lower Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht41-37_2018_E05,BMAG067,E05,GCTCGGTA,Ht41-37,Index41,ATCACG,Plate 1,E108,9/10/18,2018,NA,48,Sub-Adult,edsm015,1819,Lower Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht44-91_2018_C12,BMAG067,C12,CCAGTTCA,Ht44-91,Index44,TGACCA,Plate 4,E114,9/10/18,2018,NA,47,Sub-Adult,edsm015,1819,Lower Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht42-07_2018_G01,BMAG067,G01,AATGTTGC,Ht42-07,Index42,CGATGT,Plate 2,E86,8/14/18,2018,NA,46,Sub-Adult,edsm011,1819,Lower Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht44-33_2018_A05,BMAG067,A05,AACGTGAT,Ht44-33,Index44,TGACCA,Plate 4,E304,8/22/18,2018,NA,52,Sub-Adult,edsm039,1819,Lower Sacramento River,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht42-04_2018_D01,BMAG067,D01,CCGAAGTA,Ht42-04,Index42,CGATGT,Plate 2,E83,8/14/18,2018,NA,45,Sub-Adult,edsm011,1819,Lower Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-80_2018_H10,BMAG067,H10,GAGTTAGC,Ht43-80,Index43,TTAGGC,Plate 3,E397,10/17/18,2018,NA,52,Sub-Adult,edsm024,1819,Lower Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht41-03_2018_C01,BMAG067,C01,AGATCGCA,Ht41-03,Index41,ATCACG,Plate 1,E66,7/5/18,2018,NA,44,Sub-Adult,edsm001,1819,Lower Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht42-79_2018_G10,BMAG067,G10,ATTGGCTC,Ht42-79,Index42,CGATGT,Plate 2,E126,9/26/18,2018,NA,48,Sub-Adult,edsm018,1819,Lower Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht44-22_2018_F03,BMAG067,F03,TCTTCACA,Ht44-22,Index44,TGACCA,Plate 4,E403,10/17/18,2018,NA,49,Sub-Adult,edsm024,1819,Lower Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht41-35_2018_C05,BMAG067,C05,ATTGAGGA,Ht41-35,Index41,ATCACG,Plate 1,E106,9/10/18,2018,NA,53,Sub-Adult,edsm015,1819,Lower Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-90_2018_B12,BMAG067,B12,AGAGTCAA,Ht43-90,Index43,TTAGGC,Plate 3,E113,9/10/18,2018,NA,47,Sub-Adult,edsm015,1819,Lower Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht41-59_2018_C08,BMAG067,C08,CAATGGAA,Ht41-59,Index41,ATCACG,Plate 1,E146,10/17/18,2018,NA,50,Sub-Adult,edsm024,1819,Lower Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht42-33_2018_A05,BMAG067,A05,AACGTGAT,Ht42-33,Index42,CGATGT,Plate 2,E136,10/4/18,2018,NA,47,Sub-Adult,edsm020,1819,Lower Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht42-80_2018_H10,BMAG067,H10,GAGTTAGC,Ht42-80,Index42,CGATGT,Plate 2,E127,9/26/18,2018,NA,44,Sub-Adult,edsm018,1819,Lower Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht41-01_2018_A01,BMAG067,A01,ACAAGCTA,Ht41-01,Index41,ATCACG,Plate 1,2018_EDSM_064,11/21/18,2018,NA,55,NA,edsm001,1819,NA,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht44-65_2018_A09,BMAG067,A09,AACGAACG,Ht44-65,Index44,TGACCA,Plate 4,2018_EDSM_0185,7/17/18,2018,NA,46,NA,edsm026,1819,NA,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-96_2018_H12,BMAG067,H12,GCCAAGAC,Ht43-96,Index43,TTAGGC,Plate 3,2018_EDSM_0119,9/11/18,2018,NA,51,NA,edsm016,1819,NA,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht44-93_2018_E12,BMAG067,E12,TAGGATGA,Ht44-93,Index44,TGACCA,Plate 4,2018_EDSM_0116,9/10/18,2018,NA,51,NA,edsm015,1819,NA,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht41-42_2018_B06,BMAG067,B06,ACACAGAA,Ht41-42,Index41,ATCACG,Plate 1,2018_EDSM_0313,9/17/18,2018,NA,51,NA,edsm041,1819,NA,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht44-53_2018_E07,BMAG067,E07,GGTGCGAA,Ht44-53,Index44,TGACCA,Plate 4,2018_EDSM_0132,9/27/18,2018,NA,44,NA,edsm019,1819,NA,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-40_2018_H05,BMAG067,H05,CGACACAC,Ht43-40,Index43,TTAGGC,Plate 3,2018_EDSM_0311,9/17/18,2018,NA,58,NA,edsm041,1819,NA,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-15_2018_G02,BMAG067,G02,ACACTGAC,Ht43-15,Index43,TTAGGC,Plate 3,2018_EDSM_0396,11/29/18,2018,NA,61,NA,edsm046,1819,NA,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht44-37_2018_E05,BMAG067,E05,GCTCGGTA,Ht44-37,Index44,TGACCA,Plate 4,2018_EDSM_0308,9/17/18,2018,NA,56,NA,edsm041,1819,NA,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-94_2018_F12,BMAG067,F12,AATCCGTC,Ht43-94,Index43,TTAGGC,Plate 3,2018_EDSM_0117,9/10/18,2018,NA,46,NA,edsm015,1819,NA,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht41-66_2018_B09,BMAG067,B09,ACGCTCGA,Ht41-66,Index41,ATCACG,Plate 1,2018_EDSM_073,11/21/18,2018,NA,55,NA,edsm007,1819,NA,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht41-91_2018_C12,BMAG067,C12,CCAGTTCA,Ht41-91,Index41,ATCACG,Plate 1,2018_TNS_7616,6/25/18,2018,NA,40,NA,508,1920,NA,CDFW-STN,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht41-07_2018_G01,BMAG067,G01,AATGTTGC,Ht41-07,Index41,ATCACG,Plate 1,2018_EDSM_070,11/21/18,2018,NA,55,NA,edsm004,1819,NA,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-26_2018_B04,BMAG067,B04,AAGACGGA,Ht43-26,Index43,TTAGGC,Plate 3,2018_EDSM_097,11/21/18,2018,NA,55,NA,edsm014,1819,NA,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht41-47_2018_G06,BMAG067,G06,AGCCATGC,Ht41-47,Index41,ATCACG,Plate 1,2018_EDSM_0318,9/17/18,2018,NA,57,NA,edsm041,1819,NA,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht44-67_2018_C09,BMAG067,C09,CACTTCGA,Ht44-67,Index44,TGACCA,Plate 4,2018_EDSM_0187,8/20/18,2018,NA,43,NA,edsm027,1819,NA,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-84_2018_D11,BMAG067,D11,GACTAGTA,Ht43-84,Index43,TTAGGC,Plate 3,2018_EDSM_0323,10/9/18,2018,NA,56,NA,edsm043,1819,NA,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht42-25_2019_A04,BMAG067,A04,ACCACTGT,Ht42-25,Index42,CGATGT,Plate 2,D-09/E465,7/25/19,2019,NA,42,Sub-Adult,NA,1920,SRDWSC,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht44-73_2019_A10,BMAG067,A10,AGTACAAG,Ht44-73,Index44,TGACCA,Plate 4,E444,7/3/19,2019,NA,43,Sub-Adult,19-49-LSSC01,1920,Lower Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht41-51_2019_C07,BMAG067,C07,CAAGACTA,Ht41-51,Index41,ATCACG,Plate 1,E454,7/3/19,2019,NA,42,Sub-Adult,19-49-LSSC02,1920,Lower Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht42-57_2019_A08,BMAG067,A08,ATGCCTAA,Ht42-57,Index42,CGATGT,Plate 2,E420,7/3/19,2019,NA,49,Sub-Adult,19-49-LSSC01,1920,Lower Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-09_2019_A02,BMAG067,A02,AAACATCG,Ht43-09,Index43,TTAGGC,Plate 3,E443,7/3/19,2019,NA,50,Sub-Adult,19-49-LSSC01,1920,Lower Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht42-23_2019_G03,BMAG067,G03,ACAGATTC,Ht42-23,Index42,CGATGT,Plate 2,E474,9/9/19,2019,NA,37,Sub-Adult,NA,1920,Lower Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-76_2019_D10,BMAG067,D10,GAATCTGA,Ht43-76,Index43,TTAGGC,Plate 3,E447,7/3/19,2019,NA,43,Sub-Adult,19-49-LSSC01,1920,Lower Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht41-10_2019_B02,BMAG067,B02,AACCGAGA,Ht41-10,Index41,ATCACG,Plate 1,D-02/E552,7/24/19,2019,NA,50,Sub-Adult,NA,1920,SRDWSC,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht44-57_2019_A08,BMAG067,A08,ATGCCTAA,Ht44-57,Index44,TGACCA,Plate 4,E569,7/29/19,2019,NA,40,Sub-Adult,19-53-LSSC02,1920,Lower Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht42-48_2019_H06,BMAG067,H06,CGGATTGC,Ht42-48,Index42,CGATGT,Plate 2,E568,7/29/19,2019,NA,39,Sub-Adult,19-53-LSSC02,1920,Lower Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht44-03_2019_C01,BMAG067,C01,AGATCGCA,Ht44-03,Index44,TGACCA,Plate 4,E460,7/10/19,2019,NA,37,Sub-Adult,NA,1920,Cache Slough and Liberty Island,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-37_2019_E05,BMAG067,E05,GCTCGGTA,Ht43-37,Index43,TTAGGC,Plate 3,RX14_2,,2019,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht41-13_2019_E02,BMAG067,E02,GCCACATA,Ht41-13,Index41,ATCACG,Plate 1,D-05/E549,7/24/19,2019,NA,45,Sub-Adult,NA,1920,SRDWSC,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-35_2019_C05,BMAG067,C05,ATTGAGGA,Ht43-35,Index43,TTAGGC,Plate 3,RX12_1,,2019,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht41-05_2019_E01,BMAG067,E01,GATAGACA,Ht41-05,Index41,ATCACG,Plate 1,E436,7/3/19,2019,NA,46,Sub-Adult,19-49-LSSC01,1920,Lower Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-47_2019_G06,BMAG067,G06,AGCCATGC,Ht43-47,Index43,TTAGGC,Plate 3,RZ00_2,,2019,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht41-49_2019_A07,BMAG067,A07,CAGATCTG,Ht41-49,Index41,ATCACG,Plate 1,E452,7/3/19,2019,NA,48,Sub-Adult,19-49-LSSC02,1920,Lower Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-11_2019_C02,BMAG067,C02,AGCAGGAA,Ht43-11,Index43,TTAGGC,Plate 3,E577,10/15/19,2019,NA,47,Sub-Adult,NA,1920,Lower Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht44-41_2019_A06,BMAG067,A06,CGCTGATC,Ht44-41,Index44,TGACCA,Plate 4,E553,7/15/19,2019,NA,42,Sub-Adult,NA,1920,Lower Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-22_2019_F03,BMAG067,F03,TCTTCACA,Ht43-22,Index43,TTAGGC,Plate 3,E433,7/3/19,2019,NA,43,Sub-Adult,19-49-LSSC01,1920,Lower Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht42-41_2019_A06,BMAG067,A06,CGCTGATC,Ht42-41,Index42,CGATGT,Plate 2,E561,7/8/19,2019,NA,51,Sub-Adult,19-50-LSSC02,1920,Lower Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht44-43_2019_C06,BMAG067,C06,CAACCACA,Ht44-43,Index44,TGACCA,Plate 4,E555,7/8/19,2019,NA,45,Sub-Adult,19-50-LSSC03,1920,Lower Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht41-52_2019_D07,BMAG067,D07,CTCAATGA,Ht41-52,Index41,ATCACG,Plate 1,E455,7/3/19,2019,NA,45,Sub-Adult,19-49-LSSC02,1920,Lower Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-62_2019_F08,BMAG067,F08,TTCACGCA,Ht43-62,Index43,TTAGGC,Plate 3,D-18/E468,8/16/19,2019,NA,51,Sub-Adult,NA,1920,SRDWSC,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht42-30_2019_F04,BMAG067,F04,TGAAGAGA,Ht42-30,Index42,CGATGT,Plate 2,E417,7/3/19,2019,NA,40,Sub-Adult,19-49-LSSC03,1920,Lower Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht44-40_2019_H05,BMAG067,H05,CGACACAC,Ht44-40,Index44,TGACCA,Plate 4,RX17_1,,2019,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht41-11_2019_C02,BMAG067,C02,AGCAGGAA,Ht41-11,Index41,ATCACG,Plate 1,D-03/E551,7/24/19,2019,NA,45,Sub-Adult,NA,1920,SRDWSC,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-48_2019_H06,BMAG067,H06,CGGATTGC,Ht43-48,Index43,TTAGGC,Plate 3,E560,7/8/19,2019,NA,43,Sub-Adult,19-50-LSSC02,1920,Lower Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht44-47_2019_G06,BMAG067,G06,AGCCATGC,Ht44-47,Index44,TGACCA,Plate 4,E559,7/8/19,2019,NA,37,Sub-Adult,19-50-LSSC02,1920,Lower Sacramento River Ship Channel,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-25_2019_A04,BMAG067,A04,ACCACTGT,Ht43-25,Index43,TTAGGC,Plate 3,RX03_1,,2019,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-23_2019_G03,BMAG067,G03,ACAGATTC,Ht43-23,Index43,TTAGGC,Plate 3,RX01_1,,2019,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht44-42_2019_B06,BMAG067,B06,ACACAGAA,Ht44-42,Index44,TGACCA,Plate 4,RX19_2,,2019,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-60_2019_D08,BMAG067,D08,CTGAGCCA,Ht43-60,Index43,TTAGGC,Plate 3,D-15/E471,8/16/19,2019,NA,41,Sub-Adult,NA,1920,SRDWSC,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-07_2019_G01,BMAG067,G01,AATGTTGC,Ht43-07,Index43,TTAGGC,Plate 3,2019_EDSM_0335,7/31/19,2019,NA,46,NA,19-53-GB01,1920,NA,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-18_2019_B03,BMAG067,B03,AACGCTTA,Ht43-18,Index43,TTAGGC,Plate 3,2019_EDSM_0429,7/3/19,2019,NA,49,NA,19-49-LSSC01,1920,NA,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht41-87_2019_G11,BMAG067,G11,CAAGGAGC,Ht41-87,Index41,ATCACG,Plate 1,2019_EDSM_0296,8/21/19,2019,NA,54,NA,20-04-HB01,1920,NA,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-20_2019_D03,BMAG067,D03,CCTCCTGA,Ht43-20,Index43,TTAGGC,Plate 3,2019_EDSM_0431,7/3/19,2019,NA,42,NA,19-49-LSSC01,1920,NA,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-03_2019_C01,BMAG067,C01,AGATCGCA,Ht43-03,Index43,TTAGGC,Plate 3,2019_EDSM_0327,7/3/19,2019,NA,40,NA,19-49-SM01,1920,NA,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht42-32_2019_H04,BMAG067,H04,CCTCTATC,Ht42-32,Index42,CGATGT,Plate 2,2019_EDSM_0419,7/3/19,2019,NA,50,NA,19-49-LSSC01,1920,NA,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht41-83_2019_C11,BMAG067,C11,CATACCAA,Ht41-83,Index41,ATCACG,Plate 1,2019_EDSM_0334,7/30/19,2019,NA,46,NA,19-53-SBM03,1920,NA,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht41-14_2019_F02,BMAG067,F02,TCCGTCTA,Ht41-14,Index41,ATCACG,Plate 1,2019_EDSM_0462,7/24/19,2019,NA,44,NA,19-52-LSSC03,1920,NA,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht41-25_2019_A04,BMAG067,A04,ACCACTGT,Ht41-25,Index41,ATCACG,Plate 1,2019_TNS_7531,6/28/19,2019,NA,47,NA,795,1920,NA,CDFW-STN,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-02_2019_B01,BMAG067,B01,AACAACCA,Ht43-02,Index43,TTAGGC,Plate 3,2019_EDSM_0472,8/16/19,2019,NA,49,NA,20-03-LSSC02,1920,NA,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-08_2019_H01,BMAG067,H01,CCATCCTC,Ht43-08,Index43,TTAGGC,Plate 3,2019_EDSM_0194,7/5/19,2019,NA,38,NA,19-49-SBM02,1920,NA,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht41-96_2019_H12,BMAG067,H12,GCCAAGAC,Ht41-96,Index41,ATCACG,Plate 1,2019_EDSM_0439,7/3/19,2019,NA,47,NA,19-49-LSSC01,1920,NA,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-27_2019_C04,BMAG067,C04,ATCCTGTA,Ht43-27,Index43,TTAGGC,Plate 3,RX05_1,,2019,NA,NA,NA,NA,NA,NA,UCD-FCCL,NA,NA,NA,OGFL has no info for these fish,Mary Badger and Emily Funk,yes
+Ht44-63_2019_G08,BMAG067,G08,ATAGCGAC,Ht44-63,Index44,TGACCA,Plate 4,2019_EDSM_0574,8/19/19,2019,NA,49,NA,20-04-LSSC02,1920,NA,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-33_2019_A05,BMAG067,A05,AACGTGAT,Ht43-33,Index43,TTAGGC,Plate 3,RX00_2,,2019,NA,NA,NA,NA,NA,NA,UCD-FCCL,NA,NA,NA,OGFL has no info for these fish,Mary Badger and Emily Funk,yes
+Ht44-61_2019_E08,BMAG067,E08,GTACGCAA,Ht44-61,Index44,TGACCA,Plate 4,2019_EDSM_0473,8/16/19,2019,NA,48,NA,20-03-LSSC02,1920,NA,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht44-45_2019_E06,BMAG067,E06,GGAGAACA,Ht44-45,Index44,TGACCA,Plate 4,2019_EDSM_0557,7/8/19,2019,NA,53,NA,19-50-LSSC03,1920,NA,USFWS-EDSM,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht42-89_2020_A12,BMAG067,A12,AGTGGTCA,Ht42-89,Index42,CGATGT,Plate 2,RZ58_2,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-51_2020_C07,BMAG067,C07,CAAGACTA,Ht43-51,Index43,TTAGGC,Plate 3,RZ04_1,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-73_2020_A10,BMAG067,A10,AGTACAAG,Ht43-73,Index43,TTAGGC,Plate 3,RZ26_2,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-89_2020_A12,BMAG067,A12,AGTGGTCA,Ht43-89,Index43,TTAGGC,Plate 3,RZ42_1,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht42-91_2020_C12,BMAG067,C12,CCAGTTCA,Ht42-91,Index42,CGATGT,Plate 2,RZ61_2,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-49_2020_A07,BMAG067,A07,CAGATCTG,Ht43-49,Index43,TTAGGC,Plate 3,RZ02_1,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht44-76_2020_D10,BMAG067,D10,GAATCTGA,Ht44-76,Index44,TGACCA,Plate 4,RZ29_2,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht44-48_2020_H06,BMAG067,H06,CGGATTGC,Ht44-48,Index44,TGACCA,Plate 4,RZ01_1,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht42-92_2020_D12,BMAG067,D12,GAGCTGAA,Ht42-92,Index42,CGATGT,Plate 2,RZ62_2,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-81_2020_A11,BMAG067,A11,CATCAAGT,Ht43-81,Index43,TTAGGC,Plate 3,RZ34_2,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-91_2020_C12,BMAG067,C12,CCAGTTCA,Ht43-91,Index43,TTAGGC,Plate 3,RZ44_1,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht44-68_2020_D09,BMAG067,D09,CTGGCATA,Ht44-68,Index44,TGACCA,Plate 4,RZ21_2,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht44-90_2020_B12,BMAG067,B12,AGAGTCAA,Ht44-90,Index44,TGACCA,Plate 4,RZ43_1,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht42-83_2020_C11,BMAG067,C11,CATACCAA,Ht42-83,Index42,CGATGT,Plate 2,RZ52_1,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-75_2020_C10,BMAG067,C10,CAGCGTTA,Ht43-75,Index43,TTAGGC,Plate 3,RZ28_2,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-57_2020_A08,BMAG067,A08,ATGCCTAA,Ht43-57,Index43,TTAGGC,Plate 3,RZ10_1,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht42-81_2020_A11,BMAG067,A11,CATCAAGT,Ht42-81,Index42,CGATGT,Plate 2,RZ50_1,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht44-80_2020_H10,BMAG067,H10,GAGTTAGC,Ht44-80,Index44,TGACCA,Plate 4,RZ33_2,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-59_2020_C08,BMAG067,C08,CAATGGAA,Ht43-59,Index43,TTAGGC,Plate 3,RZ12_1,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht44-92_2020_D12,BMAG067,D12,GAGCTGAA,Ht44-92,Index44,TGACCA,Plate 4,RZ45_1,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht44-96_2020_H12,BMAG067,H12,GCCAAGAC,Ht44-96,Index44,TGACCA,Plate 4,RZ49_2,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht42-94_2020_F12,BMAG067,F12,AATCCGTC,Ht42-94,Index42,CGATGT,Plate 2,RZ64_2,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-83_2020_C11,BMAG067,C11,CATACCAA,Ht43-83,Index43,TTAGGC,Plate 3,RZ36_1,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht44-62_2020_F08,BMAG067,F08,TTCACGCA,Ht44-62,Index44,TGACCA,Plate 4,RZ15_1,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-55_2020_G07,BMAG067,G07,AGGCTAAC,Ht43-55,Index43,TTAGGC,Plate 3,RZ08_1,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-93_2020_E12,BMAG067,E12,TAGGATGA,Ht43-93,Index43,TTAGGC,Plate 3,RZ46_1,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-77_2020_E10,BMAG067,E10,GTCTGTCA,Ht43-77,Index43,TTAGGC,Plate 3,RZ30_2,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht42-87_2020_G11,BMAG067,G11,CAAGGAGC,Ht42-87,Index42,CGATGT,Plate 2,RZ56_1,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht44-70_2020_F09,BMAG067,F09,ACACGAGA,Ht44-70,Index44,TGACCA,Plate 4,RZ23_2,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht44-66_2020_B09,BMAG067,B09,ACGCTCGA,Ht44-66,Index44,TGACCA,Plate 4,RZ19_2,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-67_2020_C09,BMAG067,C09,CACTTCGA,Ht43-67,Index43,TTAGGC,Plate 3,RZ20_2,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht44-79_2020_G10,BMAG067,G10,ATTGGCTC,Ht44-79,Index44,TGACCA,Plate 4,RZ67_1,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht42-88_2020_H11,BMAG067,H11,GATGAATC,Ht42-88,Index42,CGATGT,Plate 2,RZ57_1,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht44-50_2020_B07,BMAG067,B07,ACAGCAGA,Ht44-50,Index44,TGACCA,Plate 4,RZ03_1,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-87_2020_G11,BMAG067,G11,CAAGGAGC,Ht43-87,Index43,TTAGGC,Plate 3,RZ40_1,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht44-84_2020_D11,BMAG067,D11,GACTAGTA,Ht44-84,Index44,TGACCA,Plate 4,RZ37_1,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht44-64_2020_H08,BMAG067,H08,GAACAGGC,Ht44-64,Index44,TGACCA,Plate 4,RZ17_2,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-53_2020_E07,BMAG067,E07,GGTGCGAA,Ht43-53,Index43,TTAGGC,Plate 3,RZ06_1,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht44-88_2020_H11,BMAG067,H11,GATGAATC,Ht44-88,Index44,TGACCA,Plate 4,RZ41_1,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-79_2020_G10,BMAG067,G10,ATTGGCTC,Ht43-79,Index43,TTAGGC,Plate 3,RZ32_2,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht42-96_2020_H12,BMAG067,H12,GCCAAGAC,Ht42-96,Index42,CGATGT,Plate 2,RZ66_2,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-63_2020_G08,BMAG067,G08,ATAGCGAC,Ht43-63,Index43,TTAGGC,Plate 3,RZ16_2,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-61_2020_E08,BMAG067,E08,GTACGCAA,Ht43-61,Index43,TTAGGC,Plate 3,RZ14_1,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht44-56_2020_H07,BMAG067,H07,CTAAGGTC,Ht44-56,Index44,TGACCA,Plate 4,RZ09_1,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-65_2020_A09,BMAG067,A09,AACGAACG,Ht43-65,Index43,TTAGGC,Plate 3,RZ18_2,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht44-54_2020_F07,BMAG067,F07,TGGTGGTA,Ht44-54,Index44,TGACCA,Plate 4,RZ07_1,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht43-71_2020_G09,BMAG067,G09,ACGACAAG,Ht43-71,Index43,TTAGGC,Plate 3,RZ24_2,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht44-72_2020_H09,BMAG067,H09,GACAGTGC,Ht44-72,Index44,TGACCA,Plate 4,RZ25_2,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht44-82_2020_B11,BMAG067,B11,ACTATGCA,Ht44-82,Index44,TGACCA,Plate 4,RZ35_2,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
+Ht44-78_2020_F10,BMAG067,F10,AAGAGATC,Ht44-78,Index44,TGACCA,Plate 4,RZ31_2,,2020,NA,NA,,NA,NA,NA,UCD-FCCL,NA,NA,NA,,Mary Badger and Emily Funk,yes
