@@ -4,6 +4,8 @@ Code and files for wild Delta Smelt effective population size (Ne) using RADseq 
 Raw, demultiplexed RAD sequencing data can be found on the NCBI Sequence Read Archive (BioProject PRJNA1112857; https://www.ncbi.nlm.nih.gov/sra).
 
 
+## Repo contents:
+
 abundance/ = abundance index by year
 
 bioinformatics/ = scripts for data processing
